@@ -16,7 +16,7 @@
                                       |
                        Versioned project evidence contract
                                       |
-                   OMI-OJO shared DMRV / assurance services
+                   AquaDMRV shared water / harvest / QMS / cryptographic DMRV engine
                                       |
              QC → reconciliation → package → review → release
                                       |
@@ -41,15 +41,14 @@
 - Illovediza project configuration, access roles and release profile.
 - Spain-specific deployment, CI, documentation and acceptance evidence.
 
-### OMI-OJO owns
-- Shared DMRV/evidence lifecycle contracts and canonical evidence envelope.
-- Common source registry, immutable observation principles, QC/reconciliation.
-- Deterministic evidence packaging and review/approval controls.
-- Shared governance, security, audit and claim policy.
-- Chain-neutral integrity anchoring interfaces and proof verification.
-- Cross-project reporting standards and project registry.
+### AquaDMRV owns
+- Canonical water/harvest event schemas, authenticated ingestion and immutable observations.
+- Device identity, signatures, sequence/idempotency, replay and key lifecycle.
+- Water-quality QMS, laboratory/custody lineage, batch state and release controls.
+- Deterministic evidence packaging, Merkle commitments and cryptographic anchor/readback.
+- Climate-accounting controls, methodology references and verification receipts.
 
-OMI-OJO must not become the home of Illovediza-specific sports operations or frontend implementation. It retains a project registration and integration adapter, not a duplicate of the whole product.
+AquaDMRV must not become the home of Illovediza-specific sports operations, Spain product branding or the project frontend. It is the shared assurance engine; Illovediza retains its project-specific profile and reporting identity.
 
 ### R owns
 - Reusable global/geospatial discovery and map/observatory components.
@@ -80,7 +79,7 @@ Use versioned, documented APIs/events and shared schemas. Do not use Git submodu
 Preferred options:
 - consume a versioned R API for geography/climate/reporting where the API meets the required contract;
 - extract stable R map components into a separately versioned package when ownership and tests are clear;
-- consume OMI-OJO DMRV APIs/contracts for common evidence operations;
+- consume AquaDMRV DMRV APIs/contracts for water/harvest, QMS and cryptographic evidence operations;
 - retain a local Illovediza adapter and project configuration so the product remains independently deployable.
 
 Each integration has timeout, retry, idempotency, schema-version, provenance and degraded-mode behavior.
