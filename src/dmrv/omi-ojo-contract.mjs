@@ -1,7 +1,7 @@
 import { createHash } from 'node:crypto';
 
 const asString = value => typeof value === 'string' && value.trim().length > 0;
-const sorted = values => [...values].sort((a, b) => a.localeCompare(b, 'en'));
+const sorted = values => [...values].sort();
 
 function sortObject(value) {
   if (Array.isArray(value)) return value.map(sortObject);
