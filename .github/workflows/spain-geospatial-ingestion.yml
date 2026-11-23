@@ -8,6 +8,8 @@ on:
       - 'scripts/fetch-spain-sports-candidates.mjs'
       - 'src/spain-ign-ingestion.mjs'
       - 'src/osm-sports-import.mjs'
+      - 'src/osm-regional-discovery.mjs'
+      - 'tests/osm-regional-discovery.test.mjs'
       - 'src/spain-spatial-join.mjs'
       - 'tests/spain-spatial-join.test.mjs'
       - 'tests/spain-ign-ingestion.test.mjs'
