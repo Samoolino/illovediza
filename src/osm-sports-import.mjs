@@ -131,3 +131,99 @@ export function normalizeOsmSportsVenues(elements, {
     }
   };
 }
+
+
+export function normalizeOsmSportsCandidates(elements, {
+  retrievedAt = new Date().toISOString()
+} = {}) {
+  if (!Array.isArray(elements)) throw new Error('OSM elements must be an array');
+  if (!Number.isFinite(Date.parse(retrievedAt))) throw new Error('retrievedAt must be a valid timestamp');
+
+  const venues = [];
+  const rejected = [];
+  const seen = new Set();
+  for (const element of elements) {
+    const key = `${element?.type}/${element?.id}`;
+    if (!['node', 'way', 'relation'].includes(element?.type) ||
+        !Number.isInteger(element?.id) || element.id <= 0) {
+      rejected.push({ elementId: key, reason: 'invalid_osm_element_identity' });
+      continue;
+    }
+    if (seen.has(key)) {
+      rejected.push({ elementId: key, reason: 'duplicate_osm_element' });
+      continue;
+    }
+    seen.add(key);
+
+    const tags = element.tags || {};
+    const sports = sportsFor(tags);
+    const selectedSports = sports.filter(sport =>
+      sport === 'padel' || sport === 'tennis' || (sport === 'football' && isFootballStadium(tags, sports))
+    );
+    if (!selectedSports.length) continue;
+
+    const name = tags.name || tags['name:es'];
+    if (!nonEmpty(name)) {
+      rejected.push({ elementId: key, reason: 'venue_name_missing' });
+      continue;
+    }
+    const coordinates = readCoordinates(element);
+    if (!coordinates) {
+      rejected.push({ elementId: key, reason: 'invalid_coordinates' });
+      continue;
+    }
+
+    const primarySport = selectedSports.includes('padel') ? 'padel'
+      : selectedSports.includes('football') ? 'football' : 'tennis';
+    const footballStadium = selectedSports.includes('football');
+    venues.push({
+      id: `OSM-${element.type.toUpperCase()}-${element.id}`,
+      sourceRecordId: key,
+      name,
+      municipalityCode: null,
+      municipalityAssignmentStatus: 'PENDING_IGN_POINT_IN_POLYGON',
+      spatialCrosswalkStatus: 'NOT_VERIFIED',
+      sport: primarySport,
+      sports: selectedSports,
+      venueType: venueTypeFor(tags, selectedSports),
+      latitude: coordinates.latitude,
+      longitude: coordinates.longitude,
+      coordinateMethod: coordinates.method,
+      operator: tags.operator || null,
+      access: tags.access || null,
+      qualification: 'CANDIDATE',
+      qualificationStatus: footballStadium
+        ? 'FOOTBALL_STADIUM_CANDIDATE_REQUIRES_SHARED_PADEL_COMPLEX_REVIEW'
+        : 'CANDIDATE_REQUIRES_MUNICIPAL_REVIEW',
+      significanceStatus: 'NOT_ESTABLISHED',
+      municipalManagementStatus: 'NOT_ESTABLISHED',
+      sharedFootballComplexStatus: footballStadium ? 'NOT_ESTABLISHED' : 'NOT_APPLICABLE',
+      significanceEvidence: null,
+      municipalManagementEvidence: null,
+      sustainabilitySignificanceEvidence: null,
+      source: {
+        name: 'OpenStreetMap',
+        url: `https://www.openstreetmap.org/${element.type}/${element.id}`,
+        retrievedAt,
+        license: 'ODbL 1.0',
+        attribution: '© OpenStreetMap contributors'
+      }
+    });
+  }
+
+  return {
+    schemaVersion: '1.0.0',
+    projectId: 'ILL-FUERZA-ES',
+    source: 'OpenStreetMap',
+    retrievedAt,
+    venues,
+    rejected,
+    summary: {
+      candidateVenues: venues.length,
+      padel: venues.filter(v => v.sports.includes('padel')).length,
+      footballStadiums: venues.filter(v => v.sports.includes('football')).length,
+      tennis: venues.filter(v => v.sports.includes('tennis')).length,
+      rejected: rejected.length
+    }
+  };
+}
