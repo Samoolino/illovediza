@@ -11,7 +11,8 @@
     "test": "node --test tests/*.test.mjs",
     "import:sports:osm": "node scripts/import-osm-sports-venues.mjs",
     "ingest:spain:ign": "node scripts/ingest-spain-ign-boundaries.mjs",
-    "discover:sports:spain": "node scripts/fetch-spain-sports-candidates.mjs"
+    "discover:sports:spain": "node scripts/fetch-spain-sports-candidates.mjs",
+    "fetch:spain:ign": "node scripts/fetch-spain-ign-boundaries.mjs"
   },
   "dependencies": {
     "next": "^15.5.0",
