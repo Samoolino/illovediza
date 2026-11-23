@@ -1,13 +1,13 @@
 {
-  "project_id": "ILOVEDIZA-FUERZA",
+  "project_id": "ILL-FUERZA-ES",
   "tag": "Illovediza Fuerza",
-  "project_type": "SECONDARY_COUNTRY_PILOT",
-  "parent_program": "Blue-Ether OS / OMI-OJO",
-  "relationship_to_global_lagos_dubai": "parallel institutional reporting pilot",
+  "project_type": "INDEPENDENT_SPORTS_ESG_TERRITORIAL_PROGRAMME",
+  "parent_program": "Independent product; shared DMRV services supplied by OMI-OJO",
+  "relationship_to_global_lagos_dubai": "Independent Spain programme using common OMI-OJO evidence contracts; no cross-project evidence inheritance",
   "country": "Spain",
   "scope": "Whole of Spain",
   "status": "DESIGNED_FOR_CONTROLLED_IMPLEMENTATION",
-  "purpose": "Replicate the institutional environmental evidence, DMRV, ESG/GHG, water-intelligence and verification framework across Spain without inheriting unsupported measurements or claims from the reference pilot.",
+  "purpose": "Operate a Spain-wide padel, tennis and football sports network for territorial engagement, environmental measurement, social impact and evidence-backed ESG/GHG reporting.",
   "administrative_model": {
     "source_of_truth": "INE municipal and administrative classifications plus authoritative Spanish public geographic sources",
     "autonomous_communities": 17,
@@ -19,11 +19,14 @@
   },
   "node_hierarchy": [
     "COUNTRY",
-    "AUTONOMOUS_COMMUNITY",
+    "AUTONOMOUS_COMMUNITY_OR_CITY",
     "PROVINCE",
     "MUNICIPALITY",
-    "AUTHORIZED_FIELD_SITE",
-    "OBSERVATION_NODE"
+    "SPORTS_VENUE",
+    "CLUB_OR_OPERATOR",
+    "EVENT",
+    "MEASUREMENT_NODE",
+    "AUTHORIZED_HARVEST_NODE"
   ],
   "node_policy": "Every administrative municipality receives a registry node for reporting readiness; physical collection or sensor deployment is never implied by node existence.",
   "reporting_domains": [
@@ -46,9 +49,28 @@
   "evidence_policy": {
     "inherit_semantics": true,
     "inherit_values": false,
-    "classes": ["OBSERVED", "FORECAST", "MODELLED", "SATELLITE", "CALCULATED", "PROXY"],
-    "lifecycle": ["RAW", "INGESTED", "QUALITY_CHECKED", "VALIDATED", "PACKAGED", "REVIEWED"],
-    "verification_ladder": ["REPORTABLE", "VALIDATED", "VERIFIED", "ANCHORED"]
+    "classes": [
+      "OBSERVED",
+      "FORECAST",
+      "MODELLED",
+      "SATELLITE",
+      "CALCULATED",
+      "PROXY"
+    ],
+    "lifecycle": [
+      "RAW",
+      "INGESTED",
+      "QUALITY_CHECKED",
+      "VALIDATED",
+      "PACKAGED",
+      "REVIEWED"
+    ],
+    "verification_ladder": [
+      "REPORTABLE",
+      "VALIDATED",
+      "VERIFIED",
+      "ANCHORED"
+    ]
   },
   "coordinate_policy": "Administrative geometry may be sourced from authoritative public GIS. Exact physical-site coordinates require survey capture and cross-check; security-sensitive locations remain generalized.",
   "non_contradiction_policy": "No cross-country or cross-node value is copied, averaged or promoted without compatible time, space, units, methodology, provenance and quality.",
@@ -72,5 +94,20 @@
     "ES-14 controlled national reporting demonstration"
   ],
   "release_boundary": "Administrative coverage is not physical deployment. Reporting readiness is not measured evidence. Measured evidence is not verified product quality. Blockchain anchoring is not regulatory approval.",
-  "initial_status": "NODE_REGISTRY_DESIGN_READY_RUNTIME_AND_FIELD_VALIDATION_PENDING"
+  "initial_status": "NODE_REGISTRY_DESIGN_READY_RUNTIME_AND_FIELD_VALIDATION_PENDING",
+  "sports": [
+    "padel",
+    "tennis",
+    "football"
+  ],
+  "territorial_reference": {
+    "autonomous_communities": 17,
+    "autonomous_cities": 2,
+    "provinces": 50,
+    "municipalities": 8132,
+    "verification": "Reference counts; validate against dated authoritative INE releases before claiming verified coverage."
+  },
+  "product_home": "https://github.com/Samoolino/illovediza",
+  "shared_dmrv_home": "https://github.com/Samoolino/OMI-OJO",
+  "geospatial_home": "https://github.com/Samoolino/R"
 }
