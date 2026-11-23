@@ -1,4 +1,6 @@
-# OMI-OJO DMRV contract compatibility
+> **Status note — 2026-11-23:** This document records the legacy cross-language BE-EVIDENCE-1.0 compatibility profile. OMI-OJO is no longer the intended live water/harvest DMRV engine for Illovediza. AquaDMRV is the designated system of record for water/harvest observations, event streaming, QMS/batch controls, cryptographic anchoring and climate-accounting assurance. AquaDMRV's repository currently returns 404 through the connected GitHub integration, so its actual schemas and runtime contracts have not yet been inspected. Do not enable the legacy OMI-OJO relay as a substitute for AquaDMRV.
+
+# Legacy OMI-OJO evidence-schema compatibility
 
 ## Contract owner and project owner
 
@@ -67,3 +69,8 @@ A blockchain anchor is a separate operation after reconciliation and review. It 
 - [ ] Independent anchor submission/readback and product/report release gates.
 
 Do not claim a live OMI-OJO API connection until an authenticated service endpoint, persistence store, request/response schema and end-to-end acceptance test are deployed.
+
+
+## Current AquaDMRV project adapter
+
+The local Illovediza project event envelope is implemented in `src/dmrv/aquadmrv-project-event.mjs` with schema `AQUADMRV-PROJECT-EVENT-1.0`. It is currently a local validation boundary only. Actual broker topics, API routes, canonical schemas, signature verification, persistence and anchor operations must be aligned to AquaDMRV after repository access is restored. The legacy BE-EVIDENCE-1.0 test vector remains useful as a cross-language compatibility test, not as proof of a live AquaDMRV connection.
