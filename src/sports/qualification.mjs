@@ -1,3 +1,5 @@
+import { verifyEvidenceRoot } from '../dmrv/omi-ojo-contract.mjs';
+
 const SPORTS = ['padel', 'football', 'tennis'];
 const VALID_FORMATS = ['BOTTLE', 'CAN'];
 const VALID_DMRV_STATES = ['DESIGNED', 'IMPLEMENTED', 'INTEGRATION_READY', 'CONTROLLED_TEST', 'REPORTABLE', 'VALIDATED', 'VERIFIED', 'ANCHORED', 'RELEASED', 'REVIEW_PENDING', 'HOLD'];
@@ -179,6 +181,11 @@ export function buildRainwaterBrandRecord(input) {
   if (!nonEmpty(input.packageId)) throw new Error('packageId is required');
   if (!/^[a-f0-9]{64}$/i.test(String(input.evidenceRoot || ''))) {
     throw new Error('64-character SHA-256 evidenceRoot is required');
+  }
+  if (!input.evidencePackage || input.evidencePackage.project_id !== 'ILL-FUERZA-ES' ||
+      input.evidencePackage.evidence_id !== input.packageId ||
+      verifyEvidenceRoot(input.evidencePackage, input.evidenceRoot) !== 'MATCHED') {
+    throw new Error('evidence root does not match the referenced evidence package');
   }
 
   const anchorStatus = input.anchorStatus || 'NOT_SUBMITTED';
