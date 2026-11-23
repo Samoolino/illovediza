@@ -31,6 +31,10 @@ The CNIG catalogue identifies the 2026 current GML archive as `LINEAS_LIMITE_GML
 - [Current Shapefile archive record](https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=9000029)
 - [CNIG 18 August 2026 update notice](https://centrodedescargas.cnig.es/CentroDescargas/novedades?codSerie=LILIM)
 
+The catalogue's GML file is named `LINEAS_LIMITE_GML.ZIP`; do not assume that every layer inside it is a polygon layer. Inspect the archive's geometry types before conversion. The IGN INSPIRE WFS distinguishes `au:AdministrativeBoundary` (boundary lines) from `au:AdministrativeUnit` (administrative units). For municipality polygons, use the actual `au:AdministrativeUnit` features at the third administrative order, or a validated polygonization workflow; never relabel boundary lines as municipal polygons.
+
+Official WFS service: [Unidades Administrativas](https://www.ign.es/wfs-inspire/unidades-administrativas?SERVICE=WFS&REQUEST=GetCapabilities). IGN documentation describes the `au:AdministrativeUnit` and `au:AdministrativeBoundary` feature types and the `nationalLevel` field. Use `ogrinfo`/DescribeFeatureType to verify the exact INE-code property in the selected service release. The live WFS is useful for a current spatial cross-check, but it is not a substitute for a locally archived and checksummed release when historical reproducibility is required.
+
 The Illovediza ingestion implementation is:
 - `src/spain-ign-ingestion.mjs` — structural geometry and INE identity QA;
 - `scripts/ingest-spain-ign-boundaries.mjs` — local CLI and checksum manifest;
@@ -44,7 +48,7 @@ unzip -l LINEAS_LIMITE_GML.ZIP
 ogrinfo -so -al /path/to/extracted/LINEAS_LIMITE.gml
 ```
 
-After selecting the actual municipal polygon layer and its verified INE code property, convert it to RFC 7946 GeoJSON:
+After selecting the actual municipal polygon layer and its verified INE code property, convert it to RFC 7946 GeoJSON. If the archive contains only line geometries, retrieve the municipality polygons from `au:AdministrativeUnit` or use a topology-validated polygonization step first; the ingestion script deliberately rejects line geometries:
 
 ```bash
 ogr2ogr -f GeoJSON /tmp/spain-municipalities.geojson \
