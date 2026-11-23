@@ -5,6 +5,15 @@ import {
   validateSportsVenue,
   buildRainwaterBrandRecord
 } from '../src/sports/qualification.mjs';
+import { buildIllovedizaEvidencePackage } from '../src/dmrv/omi-ojo-contract.mjs';
+
+const brandEvidence = buildIllovedizaEvidencePackage({
+  evidenceId: 'ILL-EVID-2026-0001', evidenceClass: 'OBSERVED',
+  sourceRefs: ['meter:PAD-01'], observationRefs: ['OBS-HARVEST-01'],
+  eventSiteRefs: ['VENUE-MADRID-001'], methodologyRef: 'ILL-RW-1.0',
+  qualityState: 'REPORTABLE', createdAt: '2026-11-23T10:20:00Z',
+  geographyRef: 'ES-MUNI-28079', contentHashes: ['a'.repeat(64)]
+});
 
 const municipalities = [
   { ineCode: '28079', name: 'Madrid', provinceCode: '28', autonomousCommunityCode: '13' },
@@ -104,8 +113,9 @@ test('creates a municipal RainWater brand record only when the venue and batch l
     venueId: 'venue-padel-1',
     venueName: 'Municipal Padel Centre',
     batchId: 'RW-2026-0001',
-    packageId: 'ILL-EVID-2026-0001',
-    evidenceRoot: 'a'.repeat(64),
+    packageId: brandEvidence.package.evidence_id,
+    evidenceRoot: brandEvidence.evidenceRoot,
+    evidencePackage: brandEvidence.package,
     harvestEventId: 'RAIN-2026-001',
     harvestedAt: '2026-11-20T12:00:00Z',
     coordinates: { latitude: 40.4168, longitude: -3.7038 },
