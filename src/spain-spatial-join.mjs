@@ -67,9 +67,10 @@ export function assignVenuesToIgnMunicipalities(venues, collection, { codeProper
 
   const output = venues.map(venue => {
     const provisional = venue.provisionalMunicipalityCode ?? venue.municipalityCode ?? null;
-    const longitude = Number(venue.longitude);
-    const latitude = Number(venue.latitude);
-    const validCoordinates = Number.isFinite(longitude) && Number.isFinite(latitude) &&
+    const longitude = venue.longitude;
+    const latitude = venue.latitude;
+    const validCoordinates = typeof longitude === 'number' && typeof latitude === 'number' &&
+      Number.isFinite(longitude) && Number.isFinite(latitude) &&
       longitude >= -180 && longitude <= 180 && latitude >= -90 && latitude <= 90;
     if (!validCoordinates) {
       return {
