@@ -157,7 +157,7 @@ export function extractSpainMunicipalFeaturesFromIgn(collection, { expectedCodes
     throw new Error('IGN AdministrativeUnit response must be a GeoJSON FeatureCollection');
   }
   if (!Array.isArray(expectedCodes) || !expectedCodes.length ||
-      expectedCodes.some(code => !/^\\d{5}$/.test(String(code)))) {
+      expectedCodes.some(code => !/^\d{5}$/.test(String(code)))) {
     throw new Error('expectedCodes must be a non-empty array of five-digit INE municipality codes');
   }
   const expected = new Set(expectedCodes.map(String));
@@ -173,11 +173,11 @@ export function extractSpainMunicipalFeaturesFromIgn(collection, { expectedCodes
     const levelName = String(properties.nationalLevelName ?? properties.nationallevelname ?? '').toLocaleLowerCase('es');
     const levelUri = String(properties.nationalLevel ?? properties.nationallevel ?? '');
     const isMunicipality = levelName === 'municipio' || levelName === 'municipality' ||
-      /\\/4thOrder$/i.test(levelUri);
+      /\/4thOrder$/i.test(levelUri);
     if (country !== 'ES' || !isMunicipality) continue;
 
-    const trailingDigits = nationalCode.match(/(\\d+)$/)?.[1] || '';
-    const code = /^\\d{5}$/.test(nationalCode)
+    const trailingDigits = nationalCode.match(/(\d+)$/)?.[1] || '';
+    const code = /^\d{5}$/.test(nationalCode)
       ? nationalCode
       : trailingDigits.length >= 5 ? trailingDigits.slice(-5) : null;
     if (!code || !expected.has(code)) continue;
