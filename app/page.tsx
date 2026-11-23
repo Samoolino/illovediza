@@ -1,7 +1,7 @@
 const sports = [
   { no: "01 / GROWTH & COMMUNITY", title: "Padel", text: "Emerging municipal padel cultures, dedicated clubs, multi-sport centres, leagues and tournaments create a flexible local activation network.", tags: ["Clubs & courts", "Municipal reach", "Tournaments"] },
-  { no: "02 / CLUB & ACADEMY", title: "Tennis", text: "Established clubs, academies, public courts and regional competition structures connect recurring participation with local facilities.", tags: ["Clubs & academies", "Regional circuits", "Facilities"] },
-  { no: "03 / NATIONAL REACH", title: "Football", text: "Clubs, stadiums, municipal pitches, academies and league systems provide a broad territorial framework for community engagement.", tags: ["Clubs & grounds", "League structures", "Community sport"] },
+  { no: "02 / MUNICIPAL SPORTS COMPLEX", title: "Football", text: "Municipal stadiums and grounds are prioritized where the same documented sports complex also hosts a major padel anchor. This creates a combined municipal activation point.", tags: ["Municipal stadiums", "Shared sports complex", "Local engagement"] },
+  { no: "03 / SELECTIVE FACILITY", title: "Tennis", text: "Tennis is included selectively: significant or sustainability-relevant facilities in Ayuntamiento-managed Polideportivos, supported by municipal management evidence.", tags: ["Polideportivos", "Ayuntamiento-managed", "Selective inclusion"] },
 ];
 
 export default function Home() {
@@ -9,16 +9,16 @@ export default function Home() {
     <main>
       <header className="shell topbar">
         <a className="brand" href="#"><span className="brandmark">IF</span><span>ILLOVEDIZA <span style={{color:"var(--lime)"}}>FUERZA</span></span></a>
-        <nav className="nav"><a href="#territory">Territory</a><a href="#sports">Sports network</a><a href="#evidence">Evidence system</a><a href="#reports">Reporting</a></nav>
-        <a className="cta secondary" href="#network">EXPLORE THE NETWORK ↗</a>
+        <nav className="nav"><a href="#territory">Territory</a><a href="#sports">Sports anchors</a><a href="#rainwater">RainWater product</a><a href="#evidence">DMRV</a><a href="#reports">Reporting</a></nav>
+        <a className="cta secondary" href="https://r-global-climate.vercel.app/illovediza-spain-map.html" target="_blank" rel="noreferrer">OPEN SPAIN MAP ↗</a>
       </header>
 
       <section className="shell hero">
         <div>
-          <div className="kicker">SPAIN · SPORTS ESG · TERRITORIAL INTELLIGENCE</div>
-          <h1>Sport becomes a platform for <span style={{color:"var(--lime)"}}>measurable impact.</span></h1>
-          <p>Illovediza Fuerza connects Spain's padel, tennis and football ecosystems to a territorial network for local participation, environmental measurement, social impact and evidence-backed institutional reporting.</p>
-          <div className="actions"><a className="cta" href="#sports">DISCOVER THE SPORTS NETWORK ↗</a><a className="cta secondary" href="#evidence">HOW THE EVIDENCE WORKS</a></div>
+          <div className="kicker">SPAIN · MUNICIPAL CLIMATE PRODUCT · SPORTS ESG</div>
+          <h1>Turn municipal sports venues into <span style={{color:"var(--lime)"}}>climate-product infrastructure.</span></h1>
+          <p>Illovediza Fuerza connects major padel courts and qualifying municipal football stadiums — with selective Ayuntamiento-managed tennis facilities — to authorized rainwater harvesting, premium municipal product identity and evidence-backed climate, ESG and governance reporting.</p>
+          <div className="actions"><a className="cta" href="#rainwater">EXPLORE THE RAINWATER PRODUCT ↗</a><a className="cta secondary" href="#evidence">HOW DMRV WORKS</a></div>
         </div>
         <div className="hero-art" aria-label="Illustrative spatial network graphic">
           <div className="eyebrow">A CONNECTED TERRITORIAL NETWORK</div>
@@ -38,7 +38,7 @@ export default function Home() {
       </section>
 
       <section className="shell section" id="sports">
-        <div className="section-head"><div><div className="eyebrow">THE SPORTS NETWORK</div><h2>Three sports. One territorial platform.</h2></div><p>Each sport contributes a different engagement structure. Facilities can be multi-sport; the platform records one venue identity with multiple sport affiliations.</p></div>
+        <div className="section-head"><div><div className="eyebrow">THE SPORTS NETWORK</div><h2>Two primary sports anchors. One selective extension.</h2></div><p>Padel and football define the primary municipal venue strategy. Tennis is selectively included where a significant Ayuntamiento-managed Polideportivo adds measurable value. Multi-sport facilities retain one canonical venue identity.</p></div>
         <div className="sports">{sports.map(s => <article className="sport" key={s.title}><div><div className="sport-no">{s.no}</div><h3>{s.title}</h3><p>{s.text}</p></div><div>{s.tags.map(t=><span className="tag" key={t}>{t}</span>)}</div></article>)}</div>
       </section>
 
@@ -47,17 +47,22 @@ export default function Home() {
         <article className="panel"><div className="eyebrow">MUNICIPAL INTELLIGENCE</div><h2>Every municipality gets a clear status.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>Municipal pages distinguish geography coverage, discovered venues, partner validation, permission status, commissioned measurement nodes and reviewed evidence. A municipal boundary is a reporting reference, not proof of a physical installation.</p><div className="notice">Territorial reference counts are planning scope. Official identifiers, boundary releases, source licences and municipal coverage must be validated before being represented as verified coverage.</div></article>
       </section>
 
-      <section className="shell section" id="evidence">
+
+      <section className="shell section grid-two" id="rainwater">
+        <article className="panel"><div className="eyebrow">MUNICIPAL CLIMATE PRODUCT</div><h2>From sports venue to premium RainWater identity.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>An authorized sports complex can host a rainwater catchment and collection system. Where the physical, laboratory, QMS and regulatory gates pass, a bottle or can can carry the municipality and Polideportivo identity, tied to a real harvest event and batch.</p><div className="hierarchy"><span>Municipality + INE code</span><span>Venue + coordinates</span><span>Harvest timestamp</span><span>Batch + seal</span><span>Evidence QR / root</span></div></article>
+        <article className="panel"><div className="eyebrow">PHYSICAL PRODUCT CHAIN</div><h2>Every label must resolve to evidence.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>Authorized site → catchment → rain event → first flush → metered collection → sampling and custody → laboratory/QMS → batch and seal → DMRV review → product release.</p><div className="notice">Illustrative brand architecture only. Premium RainWater cannot be sold or labelled as released until water-quality, product, packaging and applicable legal approvals are documented.</div></article>
+      </section>
+\n      <section className="shell section" id="evidence">
         <div className="section-head"><div><div className="eyebrow">THE DMRV EVIDENCE SPINE</div><h2>From activity to an auditable report.</h2></div><p>Illovediza uses the shared OMI-OJO evidence lifecycle while maintaining its own sports-specific measurable indicators, baselines and project identity.</p></div>
         <div className="panel"><div className="steps">{[["01","Authorize","Project, venue, operator and monitoring scope."],["02","Collect","Timestamped source, activity and instrument records."],["03","Quality","QC, reconciliation, method and uncertainty."],["04","Package","Deterministic evidence package and version."],["05","Review","Independent decision and controlled status."],["06","Anchor","Cryptographic commitment and proof readback."],["07","Report","Municipal, provincial and national outputs."],["08","Release","Authorized publication and claim controls."]].map(s=><div className="step" key={s[0]}><small>{s[0]}</small><strong>{s[1]}</strong><span>{s[2]}</span></div>)}</div><div className="notice">A blockchain anchor establishes integrity of a recorded evidence commitment. It does not independently prove environmental truth, social impact, GHG reductions or carbon-credit issuance.</div></div>
       </section>
 
       <section className="shell section grid-two" id="reports">
-        <article className="panel"><div className="eyebrow">SPATIAL REPORTING</div><h2>One view from venue to territory.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>The planned map experience combines Spanish administrative geography, sports venue layers, climate context and approved evidence locations. Mapbox or MapLibre, PostGIS, OpenStreetMap and versioned official boundaries are evaluated through the R geospatial integration.</p><div className="hierarchy"><span>National map</span><span>Regional / province</span><span>Municipal view</span><span>Sports venues</span><span>Evidence layers</span></div></article>
-        <article className="panel"><div className="eyebrow">INSTITUTIONAL OUTPUTS</div><h2>Reports built for scrutiny.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>Municipal and portfolio reports will expose indicator definitions, source records, calculations, methodology, limitations, review status and integrity references. ESG, GHG, social and governance outputs remain distinct, transparent and evidence-linked.</p><div className="hierarchy"><span>ESG / GHG</span><span>Social impact</span><span>Governance</span><span>Sports participation</span><span>Evidence register</span></div></article>
+        <article className="panel"><div className="eyebrow">SPATIAL REPORTING</div><h2>One reportable view from venue to municipality.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>The R Spain observatory combines all 8,132 municipal reporting references with source-backed venue geotags, sports qualification, reportable climate factors and DMRV status. Its current Leaflet map uses OpenStreetMap and IGN-CNIG administrative boundary layers; MapLibre/Mapbox and PostGIS remain options for the next spatial upgrade.</p><div className="hierarchy"><span>National map</span><span>Regional / province</span><span>Municipal view</span><span>Sports venues</span><span>Evidence layers</span></div></article>
+        <article className="panel"><div className="eyebrow">INSTITUTIONAL OUTPUTS</div><h2>Climate finance built on qualified evidence.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>Municipal reports connect measured venue activity, rainwater production, GHG inventory, social participation and governance controls. Eligible climate-finance instruments require a defined baseline, methodology, additionality where applicable, independent verification and legal/registry acceptance.</p><div className="hierarchy"><span>ESG / GHG</span><span>Social impact</span><span>Governance</span><span>Sports participation</span><span>Evidence register</span></div></article>
       </section>
 
-      <footer className="shell footer"><span>ILLOVEDIZA FUERZA · SPAIN SPORTS ESG</span><span>PROJECT ID: ILL-FUERZA-ES · ARCHITECTURE BOOTSTRAP</span><span>OMI-OJO DMRV × R GEO REPORTING</span></footer>
+      <footer className="shell footer"><span>ILLOVEDIZA FUERZA · SPAIN SPORTS ESG</span><span>PROJECT ID: ILL-FUERZA-ES · MUNICIPAL RAINWATER & CLIMATE INTELLIGENCE</span><span>OMI-OJO DMRV × R GEO REPORTING</span></footer>
     </main>
   );
 }
