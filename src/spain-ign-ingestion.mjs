@@ -150,3 +150,38 @@ export function buildSpainBoundaryManifest(input) {
 export function sha256Hex(bytes) {
   return createHash('sha256').update(bytes).digest('hex');
 }
+
+
+export function extractSpainMunicipalFeaturesFromIgn(collection, { expectedCodes } = {}) {
+  if (!collection || collection.type !== 'FeatureCollection' || !Array.isArray(collection.features)) {
+    throw new Error('IGN AdministrativeUnit response must be a GeoJSON FeatureCollection');
+  }
+  if (!Array.isArray(expectedCodes) || !expectedCodes.length ||
+      expectedCodes.some(code => !/^\\d{5}$/.test(String(code)))) {
+    throw new Error('expectedCodes must be a non-empty array of five-digit INE municipality codes');
+  }
+  const expected = new Set(expectedCodes.map(String));
+  if (expected.size !== expectedCodes.length) throw new Error('expectedCodes contains duplicate municipality identities');
+
+  const selected = new Map();
+  for (const feature of collection.features) {
+    const nationalCode = feature?.properties?.nationalCode ?? feature?.properties?.nationalcode;
+    if (typeof nationalCode !== 'string') continue;
+    const exact = nationalCode.match(/^(\\d{5})$/);
+    const namespaced = nationalCode.match(/(?:^|[^0-9])(\\d{5})$/);
+    const code = exact?.[1] || namespaced?.[1];
+    if (!code || !expected.has(code)) continue;
+    if (selected.has(code)) throw new Error(`duplicate IGN nationalCode match for municipality ${code}`);
+    selected.set(code, {
+      ...feature,
+      properties: { ...(feature.properties || {}), ineCode: code }
+    });
+  }
+  return {
+    type: 'FeatureCollection',
+    features: [...selected.values()],
+    codeProperty: 'ineCode',
+    matchedMunicipalityCount: selected.size,
+    missingMunicipalityCodes: [...expected].filter(code => !selected.has(code))
+  };
+}
