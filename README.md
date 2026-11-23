@@ -53,11 +53,11 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 - `data/spain/municipalities/index.json` indexes all 19 autonomous communities/cities and 8,132 municipality records.
 - `GET /api/municipalities?limit=10000&offset=0` returns the complete municipal reference set; supports `q`, `community`, `offset` and `limit`.
 - `GET /api/sports-network` returns source-backed venue records, qualification results, municipal sports summary and the Illovediza-owned reportable-factor registry. The current venue registry is empty until qualified geotagged records are imported.\n- [R Spain map](https://r-global-climate.vercel.app/illovediza-spain-map.html) consumes the Illovediza APIs, displays the 8,132 municipal directory, IGN boundary overlay, sports filters and reportable factors.
-- `scripts/verify-spain-registry.mjs` and `npm run test:registry` validate record count, uniqueness, hierarchy partition counts and initial unassessed states.
+- `scripts/verify-spain-registry.mjs` and `npm run test:registry` validate record count, uniqueness, hierarchy partition counts and initial unassessed states.\n- `scripts/ingest-spain-ign-boundaries.mjs` and `npm run ingest:spain:ign` validate a locally converted official IGN/CNIG municipal polygon dataset against all 8,132 INE codes and create a checksummed local-only manifest.\n- The first OSM-backed venue discovery seed is `data/spain/sports-venues.discovery-batch-2026-11-23.json`: seven candidates, zero qualified venues. Re-fetch primary OSM data and complete official spatial crosswalk before promotion.
 
 Primary municipal source: INE *Relación de municipios y sus códigos por provincias*, 1 January 2026 (published 4 February 2026), processed through the versioned CodeForSpain dataset snapshot. See [Spain Municipal Registry](docs/SPAIN-MUNICIPAL-REGISTRY.md).
 
-## Shared DMRV runtime boundary\n\n- Illovediza prepares canonical `BE-EVIDENCE-1.0` packages and SHA-256 roots.\n- `POST /api/dmrv/validate-shared` relays a package to OMI-OJO's authenticated `POST /api/integrations/illovediza/evidence` intake.\n- OMI-OJO validates the project namespace, canonical package and root, returning `VALIDATED_NOT_PERSISTED`. Durable evidence storage, reviewer workflow, audit receipts and blockchain anchor submission/readback are separate deployment gates.\n- A cryptographic anchor never proves water quality, product release or carbon-credit eligibility.\n\n## Documentation
+## Shared AquaDMRV architecture\n\n- AquaDMRV is the intended shared engine for physical water/harvest evidence, event streaming, QMS/batch assurance, cryptographic anchoring/readback and climate-accounting controls.\n- Illovediza owns the Spanish municipal/venue network, product identity, project methodology profile, municipal reporting and product/batch presentation.\n- R consumes the same versioned evidence and reporting contracts as a read-only geospatial/analytical client. It is not a second evidence ledger.\n- Project profiles are defined in `config/aquadmrv/illovediza-project-profile.json` and `config/aquadmrv/illovediza-rainwater-qms-profile.json`. The detailed contract is in `docs/AQUADMRV-ILL-FUERZA-INTEGRATION.md`.\n- The supplied AquaDMRV GitHub URL currently returns 404 through the connected GitHub integration. Its runtime schemas and endpoints have not been inspected; no live connection or real-time blockchain stream is claimed.\n- Water source classification, competent-authority approval, applicable quality specification, laboratory chain of custody, QMS release and packaging compliance must pass before a batch can be released. A blockchain anchor cannot override a product hold.\n\n## Documentation
 
 - [Project charter](docs/PROJECT-CHARTER.md)
 - [Architecture and repository boundaries](docs/ARCHITECTURE.md)
@@ -65,7 +65,7 @@ Primary municipal source: INE *Relación de municipios y sus códigos por provin
 - [Sports venue discovery and qualification](docs/SPORTS-VENUE-DISCOVERY.md)
 - [Frontend and geospatial specification](docs/FRONTEND-GEO-REPORTING.md)
 - [DMRV and cryptographic evidence lifecycle](docs/DMRV-EVIDENCE-AND-INTEGRITY.md)
-- [OMI-OJO DMRV contract compatibility](docs/OMI-OJO-DMRV-CONTRACT.md)
+- [AquaDMRV Illovediza integration](docs/AQUADMRV-ILL-FUERZA-INTEGRATION.md)\n- [OMI-OJO DMRV contract compatibility](docs/OMI-OJO-DMRV-CONTRACT.md)
 - [Migration and extraction manifest](docs/MIGRATION-MANIFEST.md)
 - [Spain municipal registry](docs/SPAIN-MUNICIPAL-REGISTRY.md)
 - [Official geography and venue crosswalk](docs/SPAIN-GEOGRAPHY-AND-VENUE-CROSSWALK.md)
