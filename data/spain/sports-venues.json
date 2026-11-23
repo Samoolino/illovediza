@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "venues": [],
+  "sourcePolicy": "Venue candidates are imported from documented official municipal/facility records or properly attributed OpenStreetMap data. Each venue requires a source URL, retrieval timestamp, licence, WGS84 coordinates, official INE municipality code, and qualification evidence. An empty registry means no venues are yet confirmed; it does not mean municipalities have no sports facilities."
+}
