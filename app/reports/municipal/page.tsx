@@ -21,7 +21,7 @@ export default async function MunicipalReportPage({ searchParams }: Props) {
     generatedAt: new Date().toISOString(),
     aquaDmrVStatus: "NOT_CONNECTED",
     geometryStatus: municipality.geometryStatus || "NOT_LOADED",
-    activeVenueCount: sports.venues.filter(venue => venue.municipalityCode === ineCode && venue.qualification === "QUALIFIED").length
+    activeVenueCount: sports.venues.filter(venue => venue.municipalityCode === ineCode && (venue.qualificationStatuses || [venue.qualificationStatus]).some(status => String(status || "").startsWith("QUALIFIED_"))).length
   });
   const factors = Object.entries(envelope.report.factors) as Array<[string, { value: number | null; unit: string | null; status: string; evidenceClass: string | null; limitations: string[] }]>;
 
