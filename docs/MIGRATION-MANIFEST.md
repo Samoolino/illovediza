@@ -33,7 +33,7 @@ The former page establishes 17+2 autonomous communities/cities, 50 provinces and
 - [x] Sports node, territorial and DMRV boundaries documented.
 - [ ] Full source inventory and file-by-file classification.
 - [ ] Move existing page, assets, project copy and project-specific components.
-- [ ] Implement standalone app and CI/build tests.
+- [x] Create standalone Next.js app shell, product landing page and CI build workflow (runtime build result not yet verified).
 - [ ] Add OMI-OJO project registry and adapter/legacy route transition.
 - [ ] Implement R integration against verified versioned interfaces.
 - [ ] Validate Spanish geography identifiers, boundaries, licences and counts.
