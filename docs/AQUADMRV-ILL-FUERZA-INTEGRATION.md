@@ -178,3 +178,32 @@ Report automation is only "live" when the scheduler, data source, persistence an
 - [ ] Production secrets, signing keys, retention, access control, incident response and recovery are reviewed.
 
 No live AquaDMRV connection, real-time chain anchoring, physical harvest, approved water batch or carbon credit is claimed until the corresponding acceptance evidence exists.
+
+## 7. Illovediza project adapter — implemented locally
+
+The Illovediza repository now contains a project-scoped event envelope at `src/dmrv/aquadmrv-project-event.mjs`, schema `AQUADMRV-PROJECT-EVENT-1.0`. It binds each event to project `ILL-FUERZA-ES`, a five-digit INE code, venue, catchment, device, immutable event ID, device-observed time, server-received time, monotonic device sequence, source ID, payload and device signature.
+
+For `HARVEST_MEASURED`, the local adapter requires:
+- meter start and end readings;
+- harvested volume equal to the meter difference;
+- first-flush diverted volume;
+- tank identity and current calibration reference;
+- tamper state CLEAR;
+- separate observed rainfall evidence (a forecast or modelled potential cannot be promoted to harvest).
+
+The adapter canonicalizes the envelope and calculates SHA-256. It only records that a signature is present; it does **not** cryptographically verify the device signature, authenticate the device, persist the event, submit to a broker, create a blockchain transaction or independently verify the physical harvest. Those operations belong to AquaDMRV and must be mapped to its actual implementation after repository access is restored.
+
+The tests are in `tests/aquadmrv-project-event.test.mjs`. The local adapter is a project integration boundary, not a second DMRV ledger.
+
+## 8. Real-time integration and report execution gates
+
+1. Read AquaDMRV's actual broker, event schema, REST/gRPC interfaces, persistence layer, device trust model, key rotation and chain adapters.
+2. Map the local project envelope to the actual AquaDMRV canonical event schema. Do not introduce a new AquaDMRV endpoint based on assumptions.
+3. Establish authenticated TLS ingestion, device signature verification, stable event ID, sequence/idempotency, replay and immutable observation storage.
+4. Implement project-scoped subscriptions or webhooks for accepted observations, QMS state changes, batch decisions, evidence packages and anchor/readback receipts.
+5. Generate Illovediza venue and municipal reports from those canonical references; R consumes the same read-only versioned reporting contract.
+6. Keep all clocks separate: device observation, server receipt, reviewer decision and blockchain block time.
+7. Verify that a duplicated event does not double-count litres, a correction creates a successor event, and an anchor mismatch prevents publication.
+8. Complete a live end-to-end test using a calibrated meter and a real physical harvest before reporting a measured harvest.
+
+**Current status:** local event envelope and project profile are implemented; AquaDMRV runtime remains NOT_CONNECTED because the supplied repository URL returns 404 through the connected GitHub integration. No live stream, AquaDMRV persistence, device-signature verification, chain submission or QMS execution is claimed.
