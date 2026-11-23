@@ -2,14 +2,14 @@
 
 ## 1. Shared dMRV, project-specific measurables
 
-Illovediza uses the same evidence principles and lifecycle as OMI-OJO, but its project profile defines its own sports, venue, activity and ESG indicators. Common contracts are shared; project facts, baselines, measurements and claims are isolated.
+Illovediza uses the same evidence principles and lifecycle as OMI-OJO, but its project profile defines its own sports, venue, RainWater, climate, GHG, social and governance indicators. Common contracts are shared; project facts, baselines, measurements and claims are isolated.
 
 ## 2. Canonical lifecycle
 
 ```
 Governance / authorization
- → project, venue, node and source registration
- → activity / observation / measurement
+ → project, municipality, venue and source registration
+ → sports engagement / activity / observation / measurement
  → quality control
  → reconciliation
  → calculation / methodology application
@@ -17,49 +17,44 @@ Governance / authorization
  → independent review
  → DMRV status
  → cryptographic integrity anchor
- → institutional / municipal report
- → milestone acceptance and release
+ → municipal / institutional / product report
+ → product or finance release decision
 ```
 
-Controlled states:
-`DESIGNED`, `IMPLEMENTED`, `INTEGRATION_READY`, `CONTROLLED_TEST`, `REPORTABLE`, `VALIDATED`, `VERIFIED`, `ANCHORED`, `RELEASED`, `HOLD`, `DEFERRED`.
+Controlled states: `DESIGNED`, `IMPLEMENTED`, `INTEGRATION_READY`, `CONTROLLED_TEST`, `REPORTABLE`, `VALIDATED`, `VERIFIED`, `ANCHORED`, `RELEASED`, `HOLD`, `DEFERRED`.
 
-Evidence classes:
-`OBSERVED | FORECAST | MODELLED | SATELLITE | CALCULATED | PROXY`.
+Evidence classes: `OBSERVED | FORECAST | MODELLED | SATELLITE | CALCULATED | PROXY | DOCUMENTARY`. Never promote forecast/modelled/proxy data to observed measurements. Missing values remain missing with a reason; they are not silently converted to zero.
 
-Never promote forecast/modelled/proxy data to observed measurements. Missing values remain missing with a reason; they are not silently converted to zero.
+## 3. Municipal RainWater product provenance
 
-## 3. Minimum evidence envelope
+Each released product batch links:
+- project ID, municipality code/name and official administrative version;
+- venue ID/name, operator, WGS84 venue coordinates and site permission;
+- catchment/roof ID, area, material/condition and runoff methodology;
+- rainfall event, observed source, instrument identity and timestamp;
+- first-flush event and diversion evidence;
+- measured collection volume and calibrated meter;
+- sample ID, chain of custody, laboratory, methods and QMS result;
+- batch ID, seal ID, packaging/product format and release decision;
+- evidence package ID, schema/canonicalization version and SHA-256 root;
+- reviewer, approval, timestamps and applicable regulatory/product release.
 
-Each record/package carries:
-- `evidence_id`, `project_id`, schema version and immutable record version;
-- venue/site/node/event/municipality identifiers where applicable;
-- source/provider and original source-record reference;
-- observation time and retrieval/ingestion time;
-- geographic reference, spatial support, CRS and boundary release;
-- variable, value, unit, evidence class and acquisition method;
-- instrument identity/calibration or activity-data owner where relevant;
-- methodology/formula/version, baseline and factor references;
-- QC flags, reconciliation state, missingness and uncertainty;
-- parent/derived evidence references;
-- canonicalization version and SHA-256 package/evidence root;
-- reviewer identity/role, decision, timestamp and rationale;
-- visibility, retention, release and supersession metadata.
+A bottle or can label may carry the municipality and Polideportivo/sports-complex brand, actual venue coordinates or a QR link to the batch evidence record. Do not publish personal data, sensitive site details or non-public security coordinates.
 
 ## 4. Cryptographic harvest and reporting
 
-The term "cryptographic harvest" means that each approved reporting period produces a deterministic evidence package from the underlying source records and calculations. The package is canonicalized and hashed. Its hash/root can be committed to an approved blockchain or timestamping network, and an independent verifier later retrieves the proof and recomputes the root.
+Each approved reporting period produces a deterministic evidence package from source records and calculations. The package is canonicalized and hashed. Its hash/root can be committed to an approved blockchain or timestamping network; an independent verifier later retrieves the proof and recomputes the root.
 
 ```
-Sports venue / approved instrument / event
+venue / authorized catchment / measured instrument / rain event
        ↓
-source observations + activity data
+source observations + activity data + custody / QMS records
        ↓
 immutable off-chain evidence store
        ↓
-QC + reconciliation + calculations
+QC + reconciliation + calculations + release gates
        ↓
-period-specific evidence package
+period / batch evidence package
        ↓
 canonical serialization + SHA-256 root
        ↓
@@ -69,31 +64,26 @@ network receipt + independent readback
        ↓
 root comparison + verification result
        ↓
-released report references the exact package
+municipal report / product batch dossier
 ```
 
-The blockchain stores integrity commitments and minimal proof metadata, not raw telemetry, personal data, confidential venue information or full evidence payloads. A transaction proves that a particular commitment was recorded; it does not prove the environmental/social claim is true.
+The blockchain stores integrity commitments and minimal proof metadata, not raw telemetry, personal data, confidential venue information or full evidence payloads. A transaction proves that a commitment was recorded; it does not prove water quality, environmental benefit, additionality, legal compliance or credit eligibility.
 
-## 5. Project identity and cross-project reporting
+## 5. Municipal climate-finance boundary
 
-All packages must be bound to `project_id=ILL-FUERZA-ES`. OMI-OJO portfolio reporting may index Illovediza package references and status, but cannot combine Illovediza evidence values with OMI-OJO project evidence as if they were one dataset. Cross-project comparison requires explicit comparable indicator definitions, compatible units, time periods, methodology and permission.
+Potential municipal climate-finance opportunities may arise from eligible, measured and independently verified activity associated with venue operations, energy, water, waste, transport or other applicable methodologies. Each proposed instrument requires a defined boundary; baseline and counterfactual where applicable; activity data and measurement method; additionality where required; emission factors and source/version; uncertainty/leakage/permanence treatment where relevant; independent validation/verification; and registry, legal, accounting and governance acceptance.
 
-## 6. GHG and social impact boundaries
+A sports venue, RainWater bottle, rainfall estimate, ESG dashboard or cryptographic hash does not create a carbon credit. Tokenization and financial instruments remain a separate legally reviewed workstream.
 
-GHG reports require a defined organizational/operational boundary, activity data, scope classification, emission factor source/version/year, calculation, uncertainty and review. Venue energy, water, waste and travel activity may be inputs; they are not reductions by themselves.
+## 6. Release gates
 
-Social impact reporting requires defined populations, denominators, period, participation methodology, consent/legal basis, safeguarding, privacy controls and disaggregation limits. Avoid publishing identifiable participant-level data.
-
-Carbon-credit claims require a separate eligible methodology and full baseline/additionality/monitoring/validation/verification/registry pathway. No token or credit is automatically minted from an event, sensor, report or anchor.
-
-## 7. Release gates
-
-- G0: project and indicator definitions approved.
-- G1: source, venue, node and permissions validated.
+- G0: project, venue, indicator and methodology definitions approved.
+- G1: municipality/venue/source and permissions validated.
 - G2: data quality, provenance and reconciliation pass.
-- G3: calculations/methodology and uncertainty reviewed.
-- G4: independent reviewer accepts the evidence package.
-- G5: anchor proof independently read back and matched (where anchoring is in scope).
-- G6: public/institutional release authorization and claim review.
+- G3: calculations, catchment assumptions and uncertainty reviewed.
+- G4: physical water chain, custody, QMS, batch and seal accepted where product applies.
+- G5: independent reviewer accepts evidence package.
+- G6: anchor proof independently read back and matched where anchoring is in scope.
+- G7: product, public report or finance claim receives its own release authorization.
 
 Any mismatch, stale source, unauthorized collection, missing critical evidence or invalid proof sets the package to HOLD.
