@@ -116,3 +116,7 @@ The boundary release argument is mandatory and must be confirmed against the cur
 
 The official OGC API Features collection metadata: https://api-features.ign.es/collections/administrativeunit?f=json
 The items endpoint: https://api-features.ign.es/collections/administrativeunit/items?f=json
+
+### GitHub Actions execution
+
+A manual workflow is available at `.github/workflows/spain-geospatial-ingestion.yml`. In GitHub, open **Actions → Spain geospatial ingestion → Run workflow**. Confirm the IGN/CNIG release date against the current catalogue, choose whether to run IGN and/or OSM extraction, and start the job. The workflow runs the repository test suite, fetches the requested sources, and uploads the raw snapshots, candidate data and QA manifests as a 30-day artifact. It does not commit or publish the geometry automatically; review the artifact and promote it through a reviewed data update after structural and topology QA.
