@@ -1,0 +1,258 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "reportProfile": "SPAIN_SPORTS_RAINWATER_CLIMATE_ESG",
+  "geography": {
+    "municipalityCoverageTarget": 8132,
+    "territorialReferenceOnly": true,
+    "source": "INE municipality codes and official Spanish administrative boundary releases",
+    "requiredFields": [
+      "ineMunicipalityCode",
+      "provinceCode",
+      "autonomousCommunityCode",
+      "sourceVersion",
+      "boundaryVersion",
+      "geometryStatus"
+    ]
+  },
+  "venueQualification": {
+    "primarySports": [
+      "padel",
+      "football"
+    ],
+    "selectiveSport": [
+      "tennis"
+    ],
+    "rules": {
+      "padel": "Major padel facilities/courts qualify only with geotag, official municipality crosswalk, source provenance and significance evidence.",
+      "football": "Football stadiums qualify as primary municipal anchors when documented as part of or co-located within the same municipal sports complex as the major padel anchor.",
+      "tennis": "Tennis is selective: significant or sustainability-relevant tennis facilities in Polideportivos with Ayuntamientos management and documented municipal/sustainability evidence."
+    },
+    "venueFields": [
+      "venueId",
+      "officialName",
+      "sport",
+      "venueType",
+      "latitude",
+      "longitude",
+      "ineMunicipalityCode",
+      "operator",
+      "managementEvidence",
+      "significanceEvidence",
+      "sourceId",
+      "sourceUrl",
+      "retrievedAt",
+      "license"
+    ]
+  },
+  "factors": [
+    {
+      "id": "rainfall_observed",
+      "domain": "climate_water",
+      "label": "Observed rainfall",
+      "unit": "mm",
+      "evidenceClasses": [
+        "OBSERVED"
+      ],
+      "required": [
+        "sourceId",
+        "sourceRecordId",
+        "observedAt",
+        "retrievedAt",
+        "stationOrGridIdentity",
+        "unit",
+        "qualityState"
+      ],
+      "reportability": "REPORTABLE after source, time, unit, spatial and QC validation",
+      "notEquivalentTo": "Harvested water volume"
+    },
+    {
+      "id": "rainfall_forecast",
+      "domain": "climate_water",
+      "label": "Rainfall forecast",
+      "unit": "mm",
+      "evidenceClasses": [
+        "FORECAST",
+        "MODELLED"
+      ],
+      "required": [
+        "provider",
+        "forecastRunAt",
+        "validPeriod",
+        "spatialSupport",
+        "modelVersion"
+      ],
+      "reportability": "CONTEXT_ONLY until independently validated against observations",
+      "notEquivalentTo": "Observed rainfall"
+    },
+    {
+      "id": "rainwater_potential",
+      "domain": "water_operations",
+      "label": "Potential rainwater yield",
+      "unit": "litres",
+      "evidenceClasses": [
+        "CALCULATED"
+      ],
+      "required": [
+        "observedRainfallEvidenceId",
+        "catchmentAreaM2",
+        "runoffCoefficient",
+        "methodologyId",
+        "methodologyVersion",
+        "uncertainty"
+      ],
+      "reportability": "CALCULATED_CONTEXT_ONLY until catchment assumptions and method are approved",
+      "notEquivalentTo": "Measured harvest"
+    },
+    {
+      "id": "harvested_rainwater",
+      "domain": "water_operations",
+      "label": "Measured harvested rainwater",
+      "unit": "litres",
+      "evidenceClasses": [
+        "OBSERVED"
+      ],
+      "required": [
+        "authorizedSiteId",
+        "rainEventId",
+        "meterId",
+        "measuredAt",
+        "sourceRecordId",
+        "firstFlushEvidenceId"
+      ],
+      "reportability": "REPORTABLE after calibrated measurement, site authorization and source QC",
+      "notEquivalentTo": "Premium product or carbon credit"
+    },
+    {
+      "id": "water_quality_batch",
+      "domain": "product_quality",
+      "label": "Water quality, batch and seal",
+      "unit": "batch",
+      "evidenceClasses": [
+        "OBSERVED",
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "sampleId",
+        "custodyRecordId",
+        "laboratoryId",
+        "method",
+        "labResult",
+        "acceptanceCriteria",
+        "batchId",
+        "sealId",
+        "reviewerDecision"
+      ],
+      "reportability": "PREMIUM_REVIEW only after QMS, custody, batch, seal and applicable regulatory/product-release gates",
+      "notEquivalentTo": "Blockchain-verified water quality"
+    },
+    {
+      "id": "ghg_emissions",
+      "domain": "climate_finance",
+      "label": "GHG inventory / avoided emissions",
+      "unit": "kgCO2e",
+      "evidenceClasses": [
+        "CALCULATED"
+      ],
+      "required": [
+        "activityData",
+        "activityUnit",
+        "factorValue",
+        "factorUnit",
+        "factorSourceId",
+        "scopeBoundary",
+        "methodologyId",
+        "methodologyVersion",
+        "uncertainty"
+      ],
+      "reportability": "CALCULATED_REVIEW_PENDING until methodology and boundary review",
+      "notEquivalentTo": "Issued carbon credits"
+    },
+    {
+      "id": "social_sports_impact",
+      "domain": "social",
+      "label": "Sports participation and inclusion",
+      "unit": "participants or sessions",
+      "evidenceClasses": [
+        "OBSERVED",
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "eventId",
+        "period",
+        "countingMethod",
+        "populationDefinition",
+        "sourceId",
+        "consentOrLawfulBasis",
+        "safeguardingReview"
+      ],
+      "reportability": "REVIEW_PENDING until denominator, privacy and safeguarding rules pass",
+      "notEquivalentTo": "GHG reduction"
+    },
+    {
+      "id": "municipal_governance",
+      "domain": "governance",
+      "label": "Municipal authorization and governance",
+      "unit": "controls",
+      "evidenceClasses": [
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "municipalAuthority",
+        "sitePermission",
+        "operatorAgreement",
+        "responsibleOwner",
+        "approvalTimestamp",
+        "auditReference"
+      ],
+      "reportability": "REVIEW_PENDING until authority and evidence are confirmed",
+      "notEquivalentTo": "Public endorsement inferred from venue location"
+    },
+    {
+      "id": "cryptographic_integrity",
+      "domain": "integrity",
+      "label": "Evidence package integrity",
+      "unit": "proof",
+      "evidenceClasses": [
+        "CALCULATED",
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "packageId",
+        "canonicalizationVersion",
+        "sha256Root",
+        "networkId",
+        "transactionHash",
+        "blockTimestamp",
+        "independentReadback"
+      ],
+      "reportability": "ANCHORED only after readback reproduces the package root",
+      "notEquivalentTo": "Truth, additionality, water quality or credit issuance"
+    }
+  ],
+  "brandProvenance": {
+    "namePattern": "{Municipality} · {Municipal Sports Venue} · Premium RainWater",
+    "labelIdentity": [
+      "municipalityName",
+      "ineMunicipalityCode",
+      "venueName",
+      "venueId",
+      "venueCoordinates",
+      "harvestEventId",
+      "batchId",
+      "harvestedAt",
+      "packageId",
+      "evidenceRoot"
+    ],
+    "productFormats": [
+      "BOTTLE",
+      "CAN"
+    ],
+    "releaseGate": "Do not print Premium/verified/product-release claims until QMS, batch, seal, review and applicable legal/product approvals pass."
+  },
+  "financeBoundary": {
+    "municipalCarbonFinance": "Potential municipal climate-finance opportunities must be quantified from eligible, additional, measured and independently verified activities under an applicable methodology.",
+    "credits": "No credit is created by a map pin, sports event, rainfall forecast, bottle label, evidence hash or token.",
+    "tokens": "Any project token or financial instrument requires separate legal, regulatory, accounting, custody, consumer and governance review."
+  }
+}
