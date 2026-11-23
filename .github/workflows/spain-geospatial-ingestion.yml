@@ -32,6 +32,10 @@ on:
         default: "1000"
         type: string
 
+concurrency:
+  group: spain-geospatial-ingestion-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: read
 
@@ -60,7 +64,7 @@ jobs:
         if: env.RUN_IGN == 'true'
         run: npm run fetch:spain:ign -- --boundary-release "${BOUNDARY_RELEASE}" --page-size "${PAGE_SIZE}"
       - name: Fetch OSM sports candidates
-        if: env.RUN_OSM == 'true'
+        if: always() && env.RUN_OSM == 'true'
         run: npm run discover:sports:spain
       - name: Upload source snapshots and QA manifests
         if: always()
