@@ -134,7 +134,7 @@ test('refuses to create a product brand record without a batch identity or harve
     productFormat: 'CAN',
     brandName: 'Test',
     dmrvStatus: 'REVIEW_PENDING'
-  }), /batchId and harvestedAt are required/);
+  }), /batchId, harvestEventId and harvestedAt are required/);
 });
 
 test('keeps a multi-sport municipal complex as one venue identity with multiple qualified sport roles', () => {
