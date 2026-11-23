@@ -72,7 +72,7 @@ export async function loadSpainMunicipalities(): Promise<{
 export async function loadSpainSportsVenues(): Promise<{
   schemaVersion: string;
   projectId: string;
-  venues: unknown[];
+  venues: Array<Record<string, unknown>>;
   sourcePolicy: string;
 }> {
   return JSON.parse(
