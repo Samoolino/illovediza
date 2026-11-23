@@ -34,9 +34,10 @@
   "status": "QA_PASSED_LOCAL_SNAPSHOT_NOT_PUBLISHED",
   "publicationStatus": "NOT_PUBLISHED",
   "spatialCrosswalkStatus": "PENDING_OSM_VENUE_CANDIDATES",
-  "storageStatus": "GITHUB_ACTIONS_ARTIFACT_90_DAY_RETENTION_NOT_PRODUCTION_STORAGE",
+  "storageStatus": "GITHUB_ACTIONS_ARTIFACT_30_DAY_RETENTION_NOT_PRODUCTION_STORAGE",
   "workflowRunId": 45255753589,
   "artifactId": 14858052851,
   "workflowUrl": "https://github.com/Samoolino/illovediza/actions/runs/45255753589",
-  "nextGate": "Complete GDAL/OGR topology QA, retry regional OSM candidate discovery, run IGN point-in-polygon venue crosswalk, and promote only reviewed outputs."
+  "nextGate": "Complete GDAL/OGR topology QA, retry regional OSM candidate discovery, run IGN point-in-polygon venue crosswalk, and promote only reviewed outputs.",
+  "artifactRetentionDays": 30
 }
