@@ -4,7 +4,7 @@
 
 Home: https://github.com/Samoolino/OMI-OJO
 
-OMI-OJO is the shared evidence and assurance backbone. Illovediza calls versioned DMRV interfaces through an adapter. Integration must preserve project namespace, schema version, source provenance, evidence classes, review states and release gates. Until a stable deployed API is confirmed, treat this as a contract-first integration; do not invent production endpoints.
+OMI-OJO is the shared evidence and assurance backbone. Illovediza calls versioned DMRV interfaces through an adapter. Integration must preserve project namespace, schema version, source provenance, evidence classes, review states and release gates. Illovediza now exposes a server-side relay at `POST /api/dmrv/validate-shared`. It forwards a locally re-hashed `BE-EVIDENCE-1.0` package to OMI-OJO's `POST /api/integrations/illovediza/evidence` intake using a server-side bearer secret. The OMI-OJO intake validates project namespace, schema, canonical serialization and SHA-256 root. This is a stateless contract-validation handshake only: it returns `VALIDATED_NOT_PERSISTED`; it does not store observations/packages, create an audit ledger, run reviewer approval or submit blockchain anchors. Enable only after both deployments have the required environment variables and a live handshake test passes.
 
 Required operations (logical contract):
 - register project profile and indicator/methodology versions;
