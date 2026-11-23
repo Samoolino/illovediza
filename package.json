@@ -12,7 +12,8 @@
     "import:sports:osm": "node scripts/import-osm-sports-venues.mjs",
     "ingest:spain:ign": "node scripts/ingest-spain-ign-boundaries.mjs",
     "discover:sports:spain": "node scripts/fetch-spain-sports-candidates.mjs",
-    "fetch:spain:ign": "node scripts/fetch-spain-ign-boundaries.mjs"
+    "fetch:spain:ign": "node scripts/fetch-spain-ign-boundaries.mjs",
+    "crosswalk:spain:venues": "node scripts/crosswalk-spain-venues-to-ign.mjs"
   },
   "dependencies": {
     "next": "^15.5.0",
