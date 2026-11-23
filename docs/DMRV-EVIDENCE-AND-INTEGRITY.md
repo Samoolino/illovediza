@@ -2,7 +2,7 @@
 
 ## 1. Shared dMRV, project-specific measurables
 
-Illovediza uses the same evidence principles and lifecycle as OMI-OJO, but its project profile defines its own sports, venue, RainWater, climate, GHG, social and governance indicators. Common contracts are shared; project facts, baselines, measurements and claims are isolated.
+Illovediza defines its own Spain-specific sports, venue, RainWater, climate, GHG, social and governance indicators. AquaDMRV is the intended shared water/harvest DMRV system of record for authenticated observations, QMS, evidence integrity, cryptographic anchoring and climate-accounting assurance. The legacy OMI-OJO BE-EVIDENCE-1.0 schema remains a compatibility fixture only; it is not the intended live water/harvest backend.
 
 ## 2. Canonical lifecycle
 
