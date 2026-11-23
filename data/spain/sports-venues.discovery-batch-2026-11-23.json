@@ -16,7 +16,10 @@
     "footballStadiumCandidates": 5,
     "tennisCandidates": 0,
     "qualifiedVenues": 0,
-    "sharedMunicipalPadelFootballComplexesConfirmed": 0
+    "sharedMunicipalPadelFootballComplexesConfirmed": 0,
+    "municipalityCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED",
+    "ignBoundaryStatus": "NOT_INGESTED",
+    "provisionalBoundaryReviewBufferM": 50
   },
   "candidates": [
     {
@@ -48,7 +51,10 @@
         "OSM-backed discovery page identifies a padel sports centre in Zaragoza",
         "Confirm current OSM tags, facility identity, exact entrance/polygon and venue operator",
         "Do not call this a major padel anchor without court count, activity or municipal evidence"
-      ]
+      ],
+      "municipalityAssignmentStatus": "PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN",
+      "municipalityCodeBasis": "Candidate municipality name mapped to the INE registry; not yet confirmed by point-in-polygon against the official IGN municipal polygon.",
+      "spatialCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED"
     },
     {
       "id": "OSM-WAY-1145637290",
@@ -79,7 +85,10 @@
         "OSM-backed discovery page identifies a padel facility in Huércal-Overa",
         "Confirm current OSM geometry and municipal boundary assignment",
         "Major venue significance and Ayuntamiento management remain unverified"
-      ]
+      ],
+      "municipalityAssignmentStatus": "PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN",
+      "municipalityCodeBasis": "Candidate municipality name mapped to the INE registry; not yet confirmed by point-in-polygon against the official IGN municipal polygon.",
+      "spatialCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED"
     },
     {
       "id": "OSM-WAY-28355046",
@@ -109,7 +118,10 @@
       "reviewNotes": [
         "OSM-backed discovery page identifies a football stadium in Sevilla",
         "Not a municipal Illovediza anchor unless the same municipal sports complex also contains a separately qualified major padel venue"
-      ]
+      ],
+      "municipalityAssignmentStatus": "PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN",
+      "municipalityCodeBasis": "Candidate municipality name mapped to the INE registry; not yet confirmed by point-in-polygon against the official IGN municipal polygon.",
+      "spatialCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED"
     },
     {
       "id": "OSM-WAY-59171758",
@@ -139,7 +151,10 @@
       "reviewNotes": [
         "OSM-backed discovery page identifies a football stadium in Bilbao",
         "Not a municipal Illovediza anchor unless the same municipal sports complex also contains a separately qualified major padel venue"
-      ]
+      ],
+      "municipalityAssignmentStatus": "PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN",
+      "municipalityCodeBasis": "Candidate municipality name mapped to the INE registry; not yet confirmed by point-in-polygon against the official IGN municipal polygon.",
+      "spatialCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED"
     },
     {
       "id": "OSM-WAY-34237293",
@@ -170,7 +185,10 @@
         "OSM-backed discovery page identifies Estadio Municipal de Riazor in A Coruña",
         "Municipal naming does not by itself prove current Ayuntamiento ownership or management",
         "Requires same-complex major padel evidence"
-      ]
+      ],
+      "municipalityAssignmentStatus": "PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN",
+      "municipalityCodeBasis": "Candidate municipality name mapped to the INE registry; not yet confirmed by point-in-polygon against the official IGN municipal polygon.",
+      "spatialCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED"
     },
     {
       "id": "OSM-WAY-26957628",
@@ -200,7 +218,10 @@
       "reviewNotes": [
         "OSM-backed discovery page identifies Estadio Reino de León",
         "Municipal venue relationship and co-location with major padel must be independently established"
-      ]
+      ],
+      "municipalityAssignmentStatus": "PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN",
+      "municipalityCodeBasis": "Candidate municipality name mapped to the INE registry; not yet confirmed by point-in-polygon against the official IGN municipal polygon.",
+      "spatialCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED"
     },
     {
       "id": "OSM-WAY-198982440",
@@ -230,7 +251,10 @@
       "reviewNotes": [
         "OSM-backed discovery page identifies a football stadium in Fuenlabrada",
         "Must establish whether it shares the municipal sports complex with a separately qualified major padel venue"
-      ]
+      ],
+      "municipalityAssignmentStatus": "PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN",
+      "municipalityCodeBasis": "Candidate municipality name mapped to the INE registry; not yet confirmed by point-in-polygon against the official IGN municipal polygon.",
+      "spatialCrosswalkStatus": "NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED"
     }
   ]
 }
