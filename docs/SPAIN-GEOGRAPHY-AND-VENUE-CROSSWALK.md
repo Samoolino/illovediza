@@ -36,7 +36,9 @@ The catalogue's GML file is named `LINEAS_LIMITE_GML.ZIP`; do not assume that ev
 Official WFS service: [Unidades Administrativas](https://www.ign.es/wfs-inspire/unidades-administrativas?SERVICE=WFS&REQUEST=GetCapabilities). IGN documentation describes the `au:AdministrativeUnit` and `au:AdministrativeBoundary` feature types and the `nationalLevel` field. Use `ogrinfo`/DescribeFeatureType to verify the exact INE-code property in the selected service release. The live WFS is useful for a current spatial cross-check, but it is not a substitute for a locally archived and checksummed release when historical reproducibility is required. CNIG also notes that some provisional boundary segments can have uncertainty of approximately 40 m. For venue points within a conservative 50 m review buffer of a provisional segment, do not auto-assign the municipality without boundary-source review; retain candidate municipal identities and an explicit spatial-review flag. The 50 m buffer is an Illovediza QA rule, not an official accuracy guarantee.
 
 The Illovediza ingestion implementation is:
-- `src/spain-ign-ingestion.mjs` — structural geometry and INE identity QA;
+- `src/spain-ign-ingestion.mjs` — structural geometry QA and strict IGN nationalCode to INE identity extraction;
+- `scripts/fetch-spain-ign-boundaries.mjs` — paginated official IGN OGC API Features snapshot fetcher, checksummed local cache and 8,132-code acceptance gate;
+- `npm run fetch:spain:ign -- --boundary-release 2026-08-18` — live official API snapshot command (only use the release date after checking the current IGN metadata);
 - `scripts/ingest-spain-ign-boundaries.mjs` — local CLI and checksum manifest;
 - `tests/spain-ign-ingestion.test.mjs` — test coverage;
 - `npm run ingest:spain:ign` — command entry point.
@@ -101,3 +103,16 @@ A venue is not assigned by matching its name to a municipality or by using a mun
 ## 7. Historical reporting
 
 A municipal report must retain the boundary release valid for its reporting period. IGN's administrative WMS supports a temporal parameter for historical boundary display from 2009 onward. Do not recompute old venue/indicator reports against a new boundary release without recording the changed spatial basis.
+
+### Live OGC API Features ingestion
+
+The IGN OGC API Features service exposes the administrativeunit collection as GeoJSON. Its published collection metadata identifies the storage CRS as OGC:CRS84 and exposes an items endpoint. The project fetcher follows the service's rel=next pagination links, retains the original page responses for a reproducible snapshot hash, extracts only records whose INSPIRE nationalCode resolves to one of the project's five-digit INE codes, and rejects duplicates or missing municipalities.
+
+```bash
+npm run fetch:spain:ign -- --boundary-release 2026-08-18
+```
+
+The boundary release argument is mandatory and must be confirmed against the current CNIG catalogue before execution. The resulting .cache/spain/ign/spain-municipalities.geojson and manifest.json remain local and are not automatically published to Git. Structural QA is not topology QA: run GDAL/OGR geometry validity, polygon topology, and PostGIS one-to-one venue point-in-polygon checks before the data is promoted. Source attribution: **Obra derivada de BDLJE CC-BY 4.0 ign.es**.
+
+The official OGC API Features collection metadata: https://api-features.ign.es/collections/administrativeunit?f=json
+The items endpoint: https://api-features.ign.es/collections/administrativeunit/items?f=json
