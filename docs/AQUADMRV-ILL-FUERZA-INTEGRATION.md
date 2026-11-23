@@ -73,7 +73,7 @@ Blockchain inclusion does not prove a sensor was calibrated, a site actually har
 
 Rainwater is not automatically a lawful bottled drinking-water product because it was collected, filtered or cryptographically recorded.
 
-The legal product classification and competent-authority route must be established before a pilot sells or labels water for human consumption. Spain's Real Decreto 1799/2010 defines prepared packaged drinking waters as waters other than natural mineral and spring waters, with potentially any origin, subjected to the authorized physicochemical treatments needed to meet potability requirements. Its applicability and the exact treatment/authorization pathway for the proposed rainwater source require written regulatory confirmation.
+The legal product classification and competent-authority route must be established before a pilot sells or labels water for human consumption. Spain's Real Decreto 1799/2010 defines prepared packaged waters as waters other than natural mineral and spring waters that can have any origin, provided they undergo the authorized physicochemical treatments needed to meet Annex I potability characteristics. It is the primary candidate framework for this product, but whether this specific harvested rainwater source and operating model qualify requires written legal/competent-authority confirmation. RD 3/2023 expressly excludes waters governed by RD 1799/2010 from its general scope; its list-of-observation provisions are cross-referenced by RD 1799/2010 and must not be confused with the packaged-water sampling schedule.
 
 The QMS profile must select a legally applicable, versioned specification; it must not hard-code a generic list of "minimum bottle parameters" divorced from the product classification and current law.
 
@@ -97,10 +97,28 @@ A released batch must have all applicable gates passed:
 
 A batch with any missing mandatory result, failed limit, broken custody link, invalid lab scope or unresolved critical deviation must be placed on `QA_HOLD`. A blockchain anchor must never override this state.
 
+
+### Statutory finished-product sampling schedule if RD 1799/2010 classification is confirmed
+
+AquaDMRV's project QMS profile records the following controls from RD 1799/2010 Article 11. They must be implemented against the current Annex I parameter definitions and approved analytical methods, not a hand-written generic limit table:
+
+| Frequency | Finished-product sampling and analysis |
+|---|---|
+| Each day | Part A microbiological parameters, conductivity and pH |
+| At least quarterly | Part A microbiological parameters, Part C indicator parameters, nitrites and nitrates |
+| At least every five years | Full Parts A, B and C |
+| At least annually | Part D parameters / radiological assessment, including indicative dose as applicable |
+
+Representative finished-product samples must be taken at the packaging point throughout the year. The operator must assure laboratory technical competence and result quality. The QMS must preserve sample IDs, sampling time/point, chain of custody, lab scope, method, unit, result, limit/specification version and batch association. Missing or failed mandatory results place affected batches on hold pending authorized review.
+
+The same regulation requires authorized treatment, treatment efficacy and by-product control, hygienic and inspectable collection/storage/filling circuits, tamper-resistant closures, suitable defect-free containers and applicable food-business registration. Where the prepared potable-water route applies, the mandatory product denomination and label prominence rules in Article 8 take precedence over the municipal brand. Municipal branding must not mislead consumers about the water's origin or legal category.
+
+These are conditional engineering controls until the product category, facility, operator and source have been approved by the competent Spanish authorities.
+
 ### Regulatory references to configure in the QMS
 
 - Spain [Real Decreto 1799/2010](https://www.boe.es/eli/es/rd/2010/12/30/1799/con) — prepared packaged drinking waters; any-origin waters subject to authorized treatment.
-- Spain [Real Decreto 3/2023](https://www.boe.es/eli/es/rd/2023/01/10/3/con) — drinking-water quality, control and supply; check its scope and exclusions against the selected bottled-water category.
+- Spain [Real Decreto 3/2023](https://www.boe.es/eli/es/rd/2023/01/10/3/con) — general drinking-water quality, control and supply; Article 3 excludes waters governed by RD 1799/2010, while RD 1799/2010 cross-references its list of observation.
 - EU [Directive (EU) 2020/2184](https://eur-lex.europa.eu/eli/dir/2020/2184/oj) — drinking-water risk-based approach and parametric requirements.
 - EU [Regulation (EU) 2025/40](https://eur-lex.europa.eu/eli/reg/2025/40/oj) — packaging and packaging waste; applies from 12 August 2026, with phased obligations.
 - Food hygiene/HACCP and food-contact-material requirements must be mapped into the selected operator and product route.
