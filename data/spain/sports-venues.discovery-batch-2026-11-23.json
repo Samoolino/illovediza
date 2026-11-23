@@ -1,0 +1,236 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "batchId": "ILL-ES-VENUE-DISCOVERY-2026-11-23-001",
+  "discoveryMethod": "OSM-backed public map discovery pages; candidate seeds for subsequent primary OSM API re-fetch",
+  "retrievedAt": "2026-11-23T17:58:00+01:00",
+  "sourcePolicy": {
+    "primaryData": "OpenStreetMap element records, re-fetched from the OSM API/Overpass at execution time",
+    "discoveryEvidence": "Mapcarta pages that expose the underlying OpenStreetMap element ID and coordinates",
+    "license": "ODbL 1.0 for OpenStreetMap data; preserve attribution and database rights notices",
+    "qualification": "No candidate is promoted to a qualified Illovediza node from map data alone"
+  },
+  "summary": {
+    "candidateCount": 7,
+    "padelCandidates": 2,
+    "footballStadiumCandidates": 5,
+    "tennisCandidates": 0,
+    "qualifiedVenues": 0,
+    "sharedMunicipalPadelFootballComplexesConfirmed": 0
+  },
+  "candidates": [
+    {
+      "id": "OSM-NODE-5615325321",
+      "sourceRecordId": "node/5615325321",
+      "name": "Padel",
+      "municipalityName": "Zaragoza",
+      "municipalityCode": "50297",
+      "sport": "padel",
+      "sports": [
+        "padel"
+      ],
+      "venueType": "sports_centre",
+      "latitude": 41.63215,
+      "longitude": -0.99101,
+      "candidateStatus": "CANDIDATE_REQUIRES_PRIMARY_SOURCE_RECHECK",
+      "significanceStatus": "NOT_ESTABLISHED",
+      "municipalManagementStatus": "NOT_ESTABLISHED",
+      "sharedFootballComplexStatus": "NOT_ESTABLISHED",
+      "source": {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/5615325321",
+        "discoveryUrl": "https://mapcarta.com/es/N5615325321",
+        "license": "ODbL 1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "retrievedAt": "2026-11-23"
+      },
+      "reviewNotes": [
+        "OSM-backed discovery page identifies a padel sports centre in Zaragoza",
+        "Confirm current OSM tags, facility identity, exact entrance/polygon and venue operator",
+        "Do not call this a major padel anchor without court count, activity or municipal evidence"
+      ]
+    },
+    {
+      "id": "OSM-WAY-1145637290",
+      "sourceRecordId": "way/1145637290",
+      "name": "Pádel Huércal-Overa",
+      "municipalityName": "Huércal-Overa",
+      "municipalityCode": "04053",
+      "sport": "padel",
+      "sports": [
+        "padel"
+      ],
+      "venueType": "sports_centre",
+      "latitude": 37.40916,
+      "longitude": -1.92932,
+      "candidateStatus": "CANDIDATE_REQUIRES_PRIMARY_SOURCE_RECHECK",
+      "significanceStatus": "NOT_ESTABLISHED",
+      "municipalManagementStatus": "NOT_ESTABLISHED",
+      "sharedFootballComplexStatus": "NOT_ESTABLISHED",
+      "source": {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1145637290",
+        "discoveryUrl": "https://mapcarta.com/es/W1145637290",
+        "license": "ODbL 1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "retrievedAt": "2026-11-23"
+      },
+      "reviewNotes": [
+        "OSM-backed discovery page identifies a padel facility in Huércal-Overa",
+        "Confirm current OSM geometry and municipal boundary assignment",
+        "Major venue significance and Ayuntamiento management remain unverified"
+      ]
+    },
+    {
+      "id": "OSM-WAY-28355046",
+      "sourceRecordId": "way/28355046",
+      "name": "Estadio Benito Villamarín",
+      "municipalityName": "Sevilla",
+      "municipalityCode": "41091",
+      "sport": "football",
+      "sports": [
+        "football"
+      ],
+      "venueType": "stadium",
+      "latitude": 37.35646,
+      "longitude": -5.98171,
+      "candidateStatus": "FOOTBALL_STADIUM_CANDIDATE_REQUIRES_SHARED_PADEL_COMPLEX_REVIEW",
+      "significanceStatus": "STADIUM_CANDIDATE",
+      "municipalManagementStatus": "NOT_ESTABLISHED",
+      "sharedFootballComplexStatus": "NOT_ESTABLISHED",
+      "source": {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/28355046",
+        "discoveryUrl": "https://mapcarta.com/W28355046",
+        "license": "ODbL 1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "retrievedAt": "2026-11-23"
+      },
+      "reviewNotes": [
+        "OSM-backed discovery page identifies a football stadium in Sevilla",
+        "Not a municipal Illovediza anchor unless the same municipal sports complex also contains a separately qualified major padel venue"
+      ]
+    },
+    {
+      "id": "OSM-WAY-59171758",
+      "sourceRecordId": "way/59171758",
+      "name": "San Mamés Stadium",
+      "municipalityName": "Bilbao",
+      "municipalityCode": "48020",
+      "sport": "football",
+      "sports": [
+        "football"
+      ],
+      "venueType": "stadium",
+      "latitude": 43.26417,
+      "longitude": -2.94939,
+      "candidateStatus": "FOOTBALL_STADIUM_CANDIDATE_REQUIRES_SHARED_PADEL_COMPLEX_REVIEW",
+      "significanceStatus": "STADIUM_CANDIDATE",
+      "municipalManagementStatus": "NOT_ESTABLISHED",
+      "sharedFootballComplexStatus": "NOT_ESTABLISHED",
+      "source": {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/59171758",
+        "discoveryUrl": "https://mapcarta.com/W59171758",
+        "license": "ODbL 1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "retrievedAt": "2026-11-23"
+      },
+      "reviewNotes": [
+        "OSM-backed discovery page identifies a football stadium in Bilbao",
+        "Not a municipal Illovediza anchor unless the same municipal sports complex also contains a separately qualified major padel venue"
+      ]
+    },
+    {
+      "id": "OSM-WAY-34237293",
+      "sourceRecordId": "way/34237293",
+      "name": "Estadio Municipal de Riazor",
+      "municipalityName": "A Coruña",
+      "municipalityCode": "15030",
+      "sport": "football",
+      "sports": [
+        "football"
+      ],
+      "venueType": "stadium",
+      "latitude": 43.36868,
+      "longitude": -8.41751,
+      "candidateStatus": "FOOTBALL_STADIUM_CANDIDATE_REQUIRES_SHARED_PADEL_COMPLEX_REVIEW",
+      "significanceStatus": "STADIUM_CANDIDATE",
+      "municipalManagementStatus": "NOT_ESTABLISHED",
+      "sharedFootballComplexStatus": "NOT_ESTABLISHED",
+      "source": {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/34237293",
+        "discoveryUrl": "https://mapcarta.com/W34237293",
+        "license": "ODbL 1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "retrievedAt": "2026-11-23"
+      },
+      "reviewNotes": [
+        "OSM-backed discovery page identifies Estadio Municipal de Riazor in A Coruña",
+        "Municipal naming does not by itself prove current Ayuntamiento ownership or management",
+        "Requires same-complex major padel evidence"
+      ]
+    },
+    {
+      "id": "OSM-WAY-26957628",
+      "sourceRecordId": "way/26957628",
+      "name": "Estadio Reino de León",
+      "municipalityName": "León",
+      "municipalityCode": "24089",
+      "sport": "football",
+      "sports": [
+        "football"
+      ],
+      "venueType": "stadium",
+      "latitude": 42.5874,
+      "longitude": -5.57693,
+      "candidateStatus": "FOOTBALL_STADIUM_CANDIDATE_REQUIRES_SHARED_PADEL_COMPLEX_REVIEW",
+      "significanceStatus": "STADIUM_CANDIDATE",
+      "municipalManagementStatus": "NOT_ESTABLISHED",
+      "sharedFootballComplexStatus": "NOT_ESTABLISHED",
+      "source": {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/26957628",
+        "discoveryUrl": "https://mapcarta.com/32915216",
+        "license": "ODbL 1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "retrievedAt": "2026-11-23"
+      },
+      "reviewNotes": [
+        "OSM-backed discovery page identifies Estadio Reino de León",
+        "Municipal venue relationship and co-location with major padel must be independently established"
+      ]
+    },
+    {
+      "id": "OSM-WAY-198982440",
+      "sourceRecordId": "way/198982440",
+      "name": "Estadio Fernando Torres",
+      "municipalityName": "Fuenlabrada",
+      "municipalityCode": "28058",
+      "sport": "football",
+      "sports": [
+        "football"
+      ],
+      "venueType": "stadium",
+      "latitude": 40.29116,
+      "longitude": -3.82672,
+      "candidateStatus": "FOOTBALL_STADIUM_CANDIDATE_REQUIRES_SHARED_PADEL_COMPLEX_REVIEW",
+      "significanceStatus": "STADIUM_CANDIDATE",
+      "municipalManagementStatus": "NOT_ESTABLISHED",
+      "sharedFootballComplexStatus": "NOT_ESTABLISHED",
+      "source": {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/198982440",
+        "discoveryUrl": "https://mapcarta.com/W198982440",
+        "license": "ODbL 1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "retrievedAt": "2026-11-23"
+      },
+      "reviewNotes": [
+        "OSM-backed discovery page identifies a football stadium in Fuenlabrada",
+        "Must establish whether it shares the municipal sports complex with a separately qualified major padel venue"
+      ]
+    }
+  ]
+}
