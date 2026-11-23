@@ -1,0 +1,3323 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "17",
+  "autonomousCommunityName": "La Rioja",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-26001",
+      "ineCode": "26001",
+      "name": "Ábalos",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26002",
+      "ineCode": "26002",
+      "name": "Agoncillo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26003",
+      "ineCode": "26003",
+      "name": "Aguilar del Río Alhama",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26004",
+      "ineCode": "26004",
+      "name": "Ajamil de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26005",
+      "ineCode": "26005",
+      "name": "Albelda de Iregua",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26006",
+      "ineCode": "26006",
+      "name": "Alberite",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26007",
+      "ineCode": "26007",
+      "name": "Alcanadre",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26008",
+      "ineCode": "26008",
+      "name": "Aldeanueva de Ebro",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26009",
+      "ineCode": "26009",
+      "name": "Alesanco",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26010",
+      "ineCode": "26010",
+      "name": "Alesón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26011",
+      "ineCode": "26011",
+      "name": "Alfaro",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26012",
+      "ineCode": "26012",
+      "name": "Almarza de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26013",
+      "ineCode": "26013",
+      "name": "Anguciana",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26014",
+      "ineCode": "26014",
+      "name": "Anguiano",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26015",
+      "ineCode": "26015",
+      "name": "Arenzana de Abajo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26016",
+      "ineCode": "26016",
+      "name": "Arenzana de Arriba",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26017",
+      "ineCode": "26017",
+      "name": "Arnedillo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26018",
+      "ineCode": "26018",
+      "name": "Arnedo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26019",
+      "ineCode": "26019",
+      "name": "Arrúbal",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26020",
+      "ineCode": "26020",
+      "name": "Ausejo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26021",
+      "ineCode": "26021",
+      "name": "Autol",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26022",
+      "ineCode": "26022",
+      "name": "Azofra",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26023",
+      "ineCode": "26023",
+      "name": "Badarán",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26024",
+      "ineCode": "26024",
+      "name": "Bañares",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26026",
+      "ineCode": "26026",
+      "name": "Baños de Río Tobía",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26025",
+      "ineCode": "26025",
+      "name": "Baños de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26027",
+      "ineCode": "26027",
+      "name": "Berceo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26028",
+      "ineCode": "26028",
+      "name": "Bergasa",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26029",
+      "ineCode": "26029",
+      "name": "Bergasillas Bajera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26030",
+      "ineCode": "26030",
+      "name": "Bezares",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26031",
+      "ineCode": "26031",
+      "name": "Bobadilla",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26032",
+      "ineCode": "26032",
+      "name": "Brieva de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26033",
+      "ineCode": "26033",
+      "name": "Briñas",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26034",
+      "ineCode": "26034",
+      "name": "Briones",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26035",
+      "ineCode": "26035",
+      "name": "Cabezón de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26036",
+      "ineCode": "26036",
+      "name": "Calahorra",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26037",
+      "ineCode": "26037",
+      "name": "Camprovín",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26038",
+      "ineCode": "26038",
+      "name": "Canales de la Sierra",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26039",
+      "ineCode": "26039",
+      "name": "Canillas de Río Tuerto",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26040",
+      "ineCode": "26040",
+      "name": "Cañas",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26041",
+      "ineCode": "26041",
+      "name": "Cárdenas",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26042",
+      "ineCode": "26042",
+      "name": "Casalarreina",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26043",
+      "ineCode": "26043",
+      "name": "Castañares de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26044",
+      "ineCode": "26044",
+      "name": "Castroviejo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26045",
+      "ineCode": "26045",
+      "name": "Cellorigo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26046",
+      "ineCode": "26046",
+      "name": "Cenicero",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26047",
+      "ineCode": "26047",
+      "name": "Cervera del Río Alhama",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26048",
+      "ineCode": "26048",
+      "name": "Cidamón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26049",
+      "ineCode": "26049",
+      "name": "Cihuri",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26050",
+      "ineCode": "26050",
+      "name": "Cirueña",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26051",
+      "ineCode": "26051",
+      "name": "Clavijo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26052",
+      "ineCode": "26052",
+      "name": "Cordovín",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26053",
+      "ineCode": "26053",
+      "name": "Corera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26054",
+      "ineCode": "26054",
+      "name": "Cornago",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26055",
+      "ineCode": "26055",
+      "name": "Corporales",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26056",
+      "ineCode": "26056",
+      "name": "Cuzcurrita de Río Tirón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26057",
+      "ineCode": "26057",
+      "name": "Daroca de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26058",
+      "ineCode": "26058",
+      "name": "Enciso",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26059",
+      "ineCode": "26059",
+      "name": "Entrena",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26060",
+      "ineCode": "26060",
+      "name": "Estollo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26061",
+      "ineCode": "26061",
+      "name": "Ezcaray",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26062",
+      "ineCode": "26062",
+      "name": "Foncea",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26063",
+      "ineCode": "26063",
+      "name": "Fonzaleche",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26064",
+      "ineCode": "26064",
+      "name": "Fuenmayor",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26065",
+      "ineCode": "26065",
+      "name": "Galbárruli",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26066",
+      "ineCode": "26066",
+      "name": "Galilea",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26067",
+      "ineCode": "26067",
+      "name": "Gallinero de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26068",
+      "ineCode": "26068",
+      "name": "Gimileo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26069",
+      "ineCode": "26069",
+      "name": "Grañón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26070",
+      "ineCode": "26070",
+      "name": "Grávalos",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26071",
+      "ineCode": "26071",
+      "name": "Haro",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26072",
+      "ineCode": "26072",
+      "name": "Herce",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26073",
+      "ineCode": "26073",
+      "name": "Herramélluri",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26074",
+      "ineCode": "26074",
+      "name": "Hervías",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26075",
+      "ineCode": "26075",
+      "name": "Hormilla",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26076",
+      "ineCode": "26076",
+      "name": "Hormilleja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26077",
+      "ineCode": "26077",
+      "name": "Hornillos de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26078",
+      "ineCode": "26078",
+      "name": "Hornos de Moncalvillo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26079",
+      "ineCode": "26079",
+      "name": "Huércanos",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26080",
+      "ineCode": "26080",
+      "name": "Igea",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26081",
+      "ineCode": "26081",
+      "name": "Jalón de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26082",
+      "ineCode": "26082",
+      "name": "Laguna de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26083",
+      "ineCode": "26083",
+      "name": "Lagunilla del Jubera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26084",
+      "ineCode": "26084",
+      "name": "Lardero",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26086",
+      "ineCode": "26086",
+      "name": "Ledesma de la Cogolla",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26087",
+      "ineCode": "26087",
+      "name": "Leiva",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26088",
+      "ineCode": "26088",
+      "name": "Leza de Río Leza",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26089",
+      "ineCode": "26089",
+      "name": "Logroño",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26091",
+      "ineCode": "26091",
+      "name": "Lumbreras de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26092",
+      "ineCode": "26092",
+      "name": "Manjarrés",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26093",
+      "ineCode": "26093",
+      "name": "Mansilla de la Sierra",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26094",
+      "ineCode": "26094",
+      "name": "Manzanares de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26095",
+      "ineCode": "26095",
+      "name": "Matute",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26096",
+      "ineCode": "26096",
+      "name": "Medrano",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26098",
+      "ineCode": "26098",
+      "name": "Munilla",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26099",
+      "ineCode": "26099",
+      "name": "Murillo de Río Leza",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26100",
+      "ineCode": "26100",
+      "name": "Muro de Aguas",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26101",
+      "ineCode": "26101",
+      "name": "Muro en Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26102",
+      "ineCode": "26102",
+      "name": "Nájera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26103",
+      "ineCode": "26103",
+      "name": "Nalda",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26104",
+      "ineCode": "26104",
+      "name": "Navajún",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26105",
+      "ineCode": "26105",
+      "name": "Navarrete",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26106",
+      "ineCode": "26106",
+      "name": "Nestares",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26107",
+      "ineCode": "26107",
+      "name": "Nieva de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26109",
+      "ineCode": "26109",
+      "name": "Ochánduri",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26108",
+      "ineCode": "26108",
+      "name": "Ocón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26110",
+      "ineCode": "26110",
+      "name": "Ojacastro",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26111",
+      "ineCode": "26111",
+      "name": "Ollauri",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26112",
+      "ineCode": "26112",
+      "name": "Ortigosa de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26113",
+      "ineCode": "26113",
+      "name": "Pazuengos",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26114",
+      "ineCode": "26114",
+      "name": "Pedroso",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26115",
+      "ineCode": "26115",
+      "name": "Pinillos",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26117",
+      "ineCode": "26117",
+      "name": "Pradejón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26118",
+      "ineCode": "26118",
+      "name": "Pradillo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26119",
+      "ineCode": "26119",
+      "name": "Préjano",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26120",
+      "ineCode": "26120",
+      "name": "Quel",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26121",
+      "ineCode": "26121",
+      "name": "Rabanera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26122",
+      "ineCode": "26122",
+      "name": "Rasillo de Cameros, El",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26123",
+      "ineCode": "26123",
+      "name": "Redal, El",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26124",
+      "ineCode": "26124",
+      "name": "Ribafrecha",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26125",
+      "ineCode": "26125",
+      "name": "Rincón de Soto",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26126",
+      "ineCode": "26126",
+      "name": "Robres del Castillo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26127",
+      "ineCode": "26127",
+      "name": "Rodezno",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26128",
+      "ineCode": "26128",
+      "name": "Sajazarra",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26129",
+      "ineCode": "26129",
+      "name": "San Asensio",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26130",
+      "ineCode": "26130",
+      "name": "San Millán de la Cogolla",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26131",
+      "ineCode": "26131",
+      "name": "San Millán de Yécora",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26132",
+      "ineCode": "26132",
+      "name": "San Román de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26139",
+      "ineCode": "26139",
+      "name": "San Torcuato",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26142",
+      "ineCode": "26142",
+      "name": "San Vicente de la Sonsierra",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26134",
+      "ineCode": "26134",
+      "name": "Santa Coloma",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26135",
+      "ineCode": "26135",
+      "name": "Santa Engracia del Jubera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26136",
+      "ineCode": "26136",
+      "name": "Santa Eulalia Bajera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26138",
+      "ineCode": "26138",
+      "name": "Santo Domingo de la Calzada",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26140",
+      "ineCode": "26140",
+      "name": "Santurde de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26141",
+      "ineCode": "26141",
+      "name": "Santurdejo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26143",
+      "ineCode": "26143",
+      "name": "Sojuela",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26144",
+      "ineCode": "26144",
+      "name": "Sorzano",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26145",
+      "ineCode": "26145",
+      "name": "Sotés",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26146",
+      "ineCode": "26146",
+      "name": "Soto en Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26147",
+      "ineCode": "26147",
+      "name": "Terroba",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26148",
+      "ineCode": "26148",
+      "name": "Tirgo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26149",
+      "ineCode": "26149",
+      "name": "Tobía",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26150",
+      "ineCode": "26150",
+      "name": "Tormantos",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26153",
+      "ineCode": "26153",
+      "name": "Torre en Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26151",
+      "ineCode": "26151",
+      "name": "Torrecilla en Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26152",
+      "ineCode": "26152",
+      "name": "Torrecilla sobre Alesanco",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26154",
+      "ineCode": "26154",
+      "name": "Torremontalbo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26155",
+      "ineCode": "26155",
+      "name": "Treviana",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26157",
+      "ineCode": "26157",
+      "name": "Tricio",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26158",
+      "ineCode": "26158",
+      "name": "Tudelilla",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26160",
+      "ineCode": "26160",
+      "name": "Uruñuela",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26161",
+      "ineCode": "26161",
+      "name": "Valdemadera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26162",
+      "ineCode": "26162",
+      "name": "Valgañón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26163",
+      "ineCode": "26163",
+      "name": "Ventosa",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26164",
+      "ineCode": "26164",
+      "name": "Ventrosa",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26165",
+      "ineCode": "26165",
+      "name": "Viguera",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26166",
+      "ineCode": "26166",
+      "name": "Villalba de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26167",
+      "ineCode": "26167",
+      "name": "Villalobar de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26168",
+      "ineCode": "26168",
+      "name": "Villamediana de Iregua",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26169",
+      "ineCode": "26169",
+      "name": "Villanueva de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26170",
+      "ineCode": "26170",
+      "name": "Villar de Arnedo, El",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26171",
+      "ineCode": "26171",
+      "name": "Villar de Torre",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26172",
+      "ineCode": "26172",
+      "name": "Villarejo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26173",
+      "ineCode": "26173",
+      "name": "Villarroya",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26174",
+      "ineCode": "26174",
+      "name": "Villarta-Quintana",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26175",
+      "ineCode": "26175",
+      "name": "Villavelayo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26176",
+      "ineCode": "26176",
+      "name": "Villaverde de Rioja",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26177",
+      "ineCode": "26177",
+      "name": "Villoslada de Cameros",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26178",
+      "ineCode": "26178",
+      "name": "Viniegra de Abajo",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26179",
+      "ineCode": "26179",
+      "name": "Viniegra de Arriba",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26180",
+      "ineCode": "26180",
+      "name": "Zarratón",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26181",
+      "ineCode": "26181",
+      "name": "Zarzosa",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-26183",
+      "ineCode": "26183",
+      "name": "Zorraquín",
+      "provinceCode": "26",
+      "provinceName": "Rioja, La",
+      "autonomousCommunityCode": "17",
+      "autonomousCommunityName": "La Rioja",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
