@@ -112,11 +112,11 @@ export function validateIllovedizaAquaEvent(event) {
     ...event,
     signature: event.deviceSignature
   });
-  validateHarvest(event);
   const expected = createHash('sha256').update(canonicalEventBody({
     ...event,
     signature: event.deviceSignature
   }), 'utf8').digest('hex');
   if (expected !== String(event.payloadHash || '').toLowerCase()) throw new Error('payload hash mismatch');
+  validateHarvest(event);
   return { valid: true, payloadHash: expected, signatureStatus: 'PRESENT_NOT_VERIFIED', cryptographicStatus: 'NOT_ANCHORED' };
 }
