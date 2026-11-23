@@ -1,0 +1,5964 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "12",
+  "autonomousCommunityName": "Galicia",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-15001",
+      "ineCode": "15001",
+      "name": "Abegondo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15002",
+      "ineCode": "15002",
+      "name": "Ames",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15003",
+      "ineCode": "15003",
+      "name": "Aranga",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15004",
+      "ineCode": "15004",
+      "name": "Ares",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15005",
+      "ineCode": "15005",
+      "name": "Arteixo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15006",
+      "ineCode": "15006",
+      "name": "Arzúa",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15007",
+      "ineCode": "15007",
+      "name": "Baña, A",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15008",
+      "ineCode": "15008",
+      "name": "Bergondo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15009",
+      "ineCode": "15009",
+      "name": "Betanzos",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15010",
+      "ineCode": "15010",
+      "name": "Boimorto",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15011",
+      "ineCode": "15011",
+      "name": "Boiro",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15012",
+      "ineCode": "15012",
+      "name": "Boqueixón",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15013",
+      "ineCode": "15013",
+      "name": "Brión",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15014",
+      "ineCode": "15014",
+      "name": "Cabana de Bergantiños",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15015",
+      "ineCode": "15015",
+      "name": "Cabanas",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15016",
+      "ineCode": "15016",
+      "name": "Camariñas",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15017",
+      "ineCode": "15017",
+      "name": "Cambre",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15018",
+      "ineCode": "15018",
+      "name": "Capela, A",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15019",
+      "ineCode": "15019",
+      "name": "Carballo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15901",
+      "ineCode": "15901",
+      "name": "Cariño",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15020",
+      "ineCode": "15020",
+      "name": "Carnota",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15021",
+      "ineCode": "15021",
+      "name": "Carral",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15022",
+      "ineCode": "15022",
+      "name": "Cedeira",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15023",
+      "ineCode": "15023",
+      "name": "Cee",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15024",
+      "ineCode": "15024",
+      "name": "Cerceda",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15025",
+      "ineCode": "15025",
+      "name": "Cerdido",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15027",
+      "ineCode": "15027",
+      "name": "Coirós",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15028",
+      "ineCode": "15028",
+      "name": "Corcubión",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15029",
+      "ineCode": "15029",
+      "name": "Coristanco",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15030",
+      "ineCode": "15030",
+      "name": "Coruña, A",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15031",
+      "ineCode": "15031",
+      "name": "Culleredo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15032",
+      "ineCode": "15032",
+      "name": "Curtis",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15033",
+      "ineCode": "15033",
+      "name": "Dodro",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15034",
+      "ineCode": "15034",
+      "name": "Dumbría",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15035",
+      "ineCode": "15035",
+      "name": "Fene",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15036",
+      "ineCode": "15036",
+      "name": "Ferrol",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15037",
+      "ineCode": "15037",
+      "name": "Fisterra",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15038",
+      "ineCode": "15038",
+      "name": "Frades",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15039",
+      "ineCode": "15039",
+      "name": "Irixoa",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15041",
+      "ineCode": "15041",
+      "name": "Laracha, A",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15040",
+      "ineCode": "15040",
+      "name": "Laxe",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15042",
+      "ineCode": "15042",
+      "name": "Lousame",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15043",
+      "ineCode": "15043",
+      "name": "Malpica de Bergantiños",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15044",
+      "ineCode": "15044",
+      "name": "Mañón",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15045",
+      "ineCode": "15045",
+      "name": "Mazaricos",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15046",
+      "ineCode": "15046",
+      "name": "Melide",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15047",
+      "ineCode": "15047",
+      "name": "Mesía",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15048",
+      "ineCode": "15048",
+      "name": "Miño",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15049",
+      "ineCode": "15049",
+      "name": "Moeche",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15050",
+      "ineCode": "15050",
+      "name": "Monfero",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15051",
+      "ineCode": "15051",
+      "name": "Mugardos",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15053",
+      "ineCode": "15053",
+      "name": "Muros",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15052",
+      "ineCode": "15052",
+      "name": "Muxía",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15054",
+      "ineCode": "15054",
+      "name": "Narón",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15055",
+      "ineCode": "15055",
+      "name": "Neda",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15056",
+      "ineCode": "15056",
+      "name": "Negreira",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15057",
+      "ineCode": "15057",
+      "name": "Noia",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15058",
+      "ineCode": "15058",
+      "name": "Oleiros",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15059",
+      "ineCode": "15059",
+      "name": "Ordes",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15060",
+      "ineCode": "15060",
+      "name": "Oroso",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15061",
+      "ineCode": "15061",
+      "name": "Ortigueira",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15062",
+      "ineCode": "15062",
+      "name": "Outes",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15902",
+      "ineCode": "15902",
+      "name": "Oza-Cesuras",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15064",
+      "ineCode": "15064",
+      "name": "Paderne",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15065",
+      "ineCode": "15065",
+      "name": "Padrón",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15066",
+      "ineCode": "15066",
+      "name": "Pino, O",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15067",
+      "ineCode": "15067",
+      "name": "Pobra do Caramiñal, A",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15068",
+      "ineCode": "15068",
+      "name": "Ponteceso",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15069",
+      "ineCode": "15069",
+      "name": "Pontedeume",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15070",
+      "ineCode": "15070",
+      "name": "Pontes de García Rodríguez, As",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15071",
+      "ineCode": "15071",
+      "name": "Porto do Son",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15072",
+      "ineCode": "15072",
+      "name": "Rianxo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15073",
+      "ineCode": "15073",
+      "name": "Ribeira",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15074",
+      "ineCode": "15074",
+      "name": "Rois",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15075",
+      "ineCode": "15075",
+      "name": "Sada",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15076",
+      "ineCode": "15076",
+      "name": "San Sadurniño",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15077",
+      "ineCode": "15077",
+      "name": "Santa Comba",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15078",
+      "ineCode": "15078",
+      "name": "Santiago de Compostela",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15079",
+      "ineCode": "15079",
+      "name": "Santiso",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15080",
+      "ineCode": "15080",
+      "name": "Sobrado",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15081",
+      "ineCode": "15081",
+      "name": "Somozas, As",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15082",
+      "ineCode": "15082",
+      "name": "Teo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15083",
+      "ineCode": "15083",
+      "name": "Toques",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15084",
+      "ineCode": "15084",
+      "name": "Tordoia",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15085",
+      "ineCode": "15085",
+      "name": "Touro",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15086",
+      "ineCode": "15086",
+      "name": "Trazo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15088",
+      "ineCode": "15088",
+      "name": "Val do Dubra",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15087",
+      "ineCode": "15087",
+      "name": "Valdoviño",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15089",
+      "ineCode": "15089",
+      "name": "Vedra",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15091",
+      "ineCode": "15091",
+      "name": "Vilarmaior",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15090",
+      "ineCode": "15090",
+      "name": "Vilasantar",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15092",
+      "ineCode": "15092",
+      "name": "Vimianzo",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-15093",
+      "ineCode": "15093",
+      "name": "Zas",
+      "provinceCode": "15",
+      "provinceName": "CoruÃ±a, A",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27001",
+      "ineCode": "27001",
+      "name": "Abadín",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27002",
+      "ineCode": "27002",
+      "name": "Alfoz",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27003",
+      "ineCode": "27003",
+      "name": "Antas de Ulla",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27004",
+      "ineCode": "27004",
+      "name": "Baleira",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27901",
+      "ineCode": "27901",
+      "name": "Baralla",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27005",
+      "ineCode": "27005",
+      "name": "Barreiros",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27006",
+      "ineCode": "27006",
+      "name": "Becerreá",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27007",
+      "ineCode": "27007",
+      "name": "Begonte",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27008",
+      "ineCode": "27008",
+      "name": "Bóveda",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27902",
+      "ineCode": "27902",
+      "name": "Burela",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27009",
+      "ineCode": "27009",
+      "name": "Carballedo",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27010",
+      "ineCode": "27010",
+      "name": "Castro de Rei",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27011",
+      "ineCode": "27011",
+      "name": "Castroverde",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27012",
+      "ineCode": "27012",
+      "name": "Cervantes",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27013",
+      "ineCode": "27013",
+      "name": "Cervo",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27016",
+      "ineCode": "27016",
+      "name": "Chantada",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27014",
+      "ineCode": "27014",
+      "name": "Corgo, O",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27015",
+      "ineCode": "27015",
+      "name": "Cospeito",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27017",
+      "ineCode": "27017",
+      "name": "Folgoso do Courel",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27018",
+      "ineCode": "27018",
+      "name": "Fonsagrada, A",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27019",
+      "ineCode": "27019",
+      "name": "Foz",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27020",
+      "ineCode": "27020",
+      "name": "Friol",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27022",
+      "ineCode": "27022",
+      "name": "Guitiriz",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27023",
+      "ineCode": "27023",
+      "name": "Guntín",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27024",
+      "ineCode": "27024",
+      "name": "Incio, O",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27026",
+      "ineCode": "27026",
+      "name": "Láncara",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27027",
+      "ineCode": "27027",
+      "name": "Lourenzá",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27028",
+      "ineCode": "27028",
+      "name": "Lugo",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27029",
+      "ineCode": "27029",
+      "name": "Meira",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27030",
+      "ineCode": "27030",
+      "name": "Mondoñedo",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27031",
+      "ineCode": "27031",
+      "name": "Monforte de Lemos",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27032",
+      "ineCode": "27032",
+      "name": "Monterroso",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27033",
+      "ineCode": "27033",
+      "name": "Muras",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27034",
+      "ineCode": "27034",
+      "name": "Navia de Suarna",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27035",
+      "ineCode": "27035",
+      "name": "Negueira de Muñiz",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27037",
+      "ineCode": "27037",
+      "name": "Nogais, As",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27038",
+      "ineCode": "27038",
+      "name": "Ourol",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27039",
+      "ineCode": "27039",
+      "name": "Outeiro de Rei",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27040",
+      "ineCode": "27040",
+      "name": "Palas de Rei",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27041",
+      "ineCode": "27041",
+      "name": "Pantón",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27042",
+      "ineCode": "27042",
+      "name": "Paradela",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27043",
+      "ineCode": "27043",
+      "name": "Páramo, O",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27044",
+      "ineCode": "27044",
+      "name": "Pastoriza, A",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27045",
+      "ineCode": "27045",
+      "name": "Pedrafita do Cebreiro",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27047",
+      "ineCode": "27047",
+      "name": "Pobra do Brollón, A",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27046",
+      "ineCode": "27046",
+      "name": "Pol",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27048",
+      "ineCode": "27048",
+      "name": "Pontenova, A",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27049",
+      "ineCode": "27049",
+      "name": "Portomarín",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27050",
+      "ineCode": "27050",
+      "name": "Quiroga",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27056",
+      "ineCode": "27056",
+      "name": "Rábade",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27051",
+      "ineCode": "27051",
+      "name": "Ribadeo",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27052",
+      "ineCode": "27052",
+      "name": "Ribas de Sil",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27053",
+      "ineCode": "27053",
+      "name": "Ribeira de Piquín",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27054",
+      "ineCode": "27054",
+      "name": "Riotorto",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27055",
+      "ineCode": "27055",
+      "name": "Samos",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27057",
+      "ineCode": "27057",
+      "name": "Sarria",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27058",
+      "ineCode": "27058",
+      "name": "Saviñao, O",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27059",
+      "ineCode": "27059",
+      "name": "Sober",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27060",
+      "ineCode": "27060",
+      "name": "Taboada",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27061",
+      "ineCode": "27061",
+      "name": "Trabada",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27062",
+      "ineCode": "27062",
+      "name": "Triacastela",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27063",
+      "ineCode": "27063",
+      "name": "Valadouro, O",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27064",
+      "ineCode": "27064",
+      "name": "Vicedo, O",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27065",
+      "ineCode": "27065",
+      "name": "Vilalba",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27066",
+      "ineCode": "27066",
+      "name": "Viveiro",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27021",
+      "ineCode": "27021",
+      "name": "Xermade",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-27025",
+      "ineCode": "27025",
+      "name": "Xove",
+      "provinceCode": "27",
+      "provinceName": "Lugo",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32001",
+      "ineCode": "32001",
+      "name": "Allariz",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32002",
+      "ineCode": "32002",
+      "name": "Amoeiro",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32003",
+      "ineCode": "32003",
+      "name": "Arnoia, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32004",
+      "ineCode": "32004",
+      "name": "Avión",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32005",
+      "ineCode": "32005",
+      "name": "Baltar",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32006",
+      "ineCode": "32006",
+      "name": "Bande",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32007",
+      "ineCode": "32007",
+      "name": "Baños de Molgas",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32008",
+      "ineCode": "32008",
+      "name": "Barbadás",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32009",
+      "ineCode": "32009",
+      "name": "Barco de Valdeorras, O",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32010",
+      "ineCode": "32010",
+      "name": "Beade",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32011",
+      "ineCode": "32011",
+      "name": "Beariz",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32012",
+      "ineCode": "32012",
+      "name": "Blancos, Os",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32013",
+      "ineCode": "32013",
+      "name": "Boborás",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32014",
+      "ineCode": "32014",
+      "name": "Bola, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32015",
+      "ineCode": "32015",
+      "name": "Bolo, O",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32016",
+      "ineCode": "32016",
+      "name": "Calvos de Randín",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32018",
+      "ineCode": "32018",
+      "name": "Carballeda de Avia",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32017",
+      "ineCode": "32017",
+      "name": "Carballeda de Valdeorras",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32019",
+      "ineCode": "32019",
+      "name": "Carballiño, O",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32020",
+      "ineCode": "32020",
+      "name": "Cartelle",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32022",
+      "ineCode": "32022",
+      "name": "Castrelo de Miño",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32021",
+      "ineCode": "32021",
+      "name": "Castrelo do Val",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32023",
+      "ineCode": "32023",
+      "name": "Castro Caldelas",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32024",
+      "ineCode": "32024",
+      "name": "Celanova",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32025",
+      "ineCode": "32025",
+      "name": "Cenlle",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32029",
+      "ineCode": "32029",
+      "name": "Chandrexa de Queixa",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32026",
+      "ineCode": "32026",
+      "name": "Coles",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32027",
+      "ineCode": "32027",
+      "name": "Cortegada",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32028",
+      "ineCode": "32028",
+      "name": "Cualedro",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32030",
+      "ineCode": "32030",
+      "name": "Entrimo",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32031",
+      "ineCode": "32031",
+      "name": "Esgos",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32033",
+      "ineCode": "32033",
+      "name": "Gomesende",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32034",
+      "ineCode": "32034",
+      "name": "Gudiña, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32035",
+      "ineCode": "32035",
+      "name": "Irixo, O",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32038",
+      "ineCode": "32038",
+      "name": "Larouco",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32039",
+      "ineCode": "32039",
+      "name": "Laza",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32040",
+      "ineCode": "32040",
+      "name": "Leiro",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32041",
+      "ineCode": "32041",
+      "name": "Lobeira",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32042",
+      "ineCode": "32042",
+      "name": "Lobios",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32043",
+      "ineCode": "32043",
+      "name": "Maceda",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32044",
+      "ineCode": "32044",
+      "name": "Manzaneda",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32045",
+      "ineCode": "32045",
+      "name": "Maside",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32046",
+      "ineCode": "32046",
+      "name": "Melón",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32047",
+      "ineCode": "32047",
+      "name": "Merca, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32048",
+      "ineCode": "32048",
+      "name": "Mezquita, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32049",
+      "ineCode": "32049",
+      "name": "Montederramo",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32050",
+      "ineCode": "32050",
+      "name": "Monterrei",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32051",
+      "ineCode": "32051",
+      "name": "Muíños",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32052",
+      "ineCode": "32052",
+      "name": "Nogueira de Ramuín",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32053",
+      "ineCode": "32053",
+      "name": "Oímbra",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32054",
+      "ineCode": "32054",
+      "name": "Ourense",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32055",
+      "ineCode": "32055",
+      "name": "Paderne de Allariz",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32056",
+      "ineCode": "32056",
+      "name": "Padrenda",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32057",
+      "ineCode": "32057",
+      "name": "Parada de Sil",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32058",
+      "ineCode": "32058",
+      "name": "Pereiro de Aguiar, O",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32059",
+      "ineCode": "32059",
+      "name": "Peroxa, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32060",
+      "ineCode": "32060",
+      "name": "Petín",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32061",
+      "ineCode": "32061",
+      "name": "Piñor",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32063",
+      "ineCode": "32063",
+      "name": "Pobra de Trives, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32064",
+      "ineCode": "32064",
+      "name": "Pontedeva",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32062",
+      "ineCode": "32062",
+      "name": "Porqueira",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32065",
+      "ineCode": "32065",
+      "name": "Punxín",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32066",
+      "ineCode": "32066",
+      "name": "Quintela de Leirado",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32067",
+      "ineCode": "32067",
+      "name": "Rairiz de Veiga",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32068",
+      "ineCode": "32068",
+      "name": "Ramirás",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32069",
+      "ineCode": "32069",
+      "name": "Ribadavia",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32071",
+      "ineCode": "32071",
+      "name": "Riós",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32072",
+      "ineCode": "32072",
+      "name": "Rúa, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32073",
+      "ineCode": "32073",
+      "name": "Rubiá",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32074",
+      "ineCode": "32074",
+      "name": "San Amaro",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32075",
+      "ineCode": "32075",
+      "name": "San Cibrao das Viñas",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32076",
+      "ineCode": "32076",
+      "name": "San Cristovo de Cea",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32070",
+      "ineCode": "32070",
+      "name": "San Xoán de Río",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32077",
+      "ineCode": "32077",
+      "name": "Sandiás",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32078",
+      "ineCode": "32078",
+      "name": "Sarreaus",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32079",
+      "ineCode": "32079",
+      "name": "Taboadela",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32080",
+      "ineCode": "32080",
+      "name": "Teixeira, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32081",
+      "ineCode": "32081",
+      "name": "Toén",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32082",
+      "ineCode": "32082",
+      "name": "Trasmiras",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32083",
+      "ineCode": "32083",
+      "name": "Veiga, A",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32084",
+      "ineCode": "32084",
+      "name": "Verea",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32085",
+      "ineCode": "32085",
+      "name": "Verín",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32086",
+      "ineCode": "32086",
+      "name": "Viana do Bolo",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32087",
+      "ineCode": "32087",
+      "name": "Vilamarín",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32088",
+      "ineCode": "32088",
+      "name": "Vilamartín de Valdeorras",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32089",
+      "ineCode": "32089",
+      "name": "Vilar de Barrio",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32090",
+      "ineCode": "32090",
+      "name": "Vilar de Santos",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32091",
+      "ineCode": "32091",
+      "name": "Vilardevós",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32092",
+      "ineCode": "32092",
+      "name": "Vilariño de Conso",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32032",
+      "ineCode": "32032",
+      "name": "Xinzo de Limia",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32036",
+      "ineCode": "32036",
+      "name": "Xunqueira de Ambía",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-32037",
+      "ineCode": "32037",
+      "name": "Xunqueira de Espadanedo",
+      "provinceCode": "32",
+      "provinceName": "Ourense",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36020",
+      "ineCode": "36020",
+      "name": "Agolada",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36001",
+      "ineCode": "36001",
+      "name": "Arbo",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36003",
+      "ineCode": "36003",
+      "name": "Baiona",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36002",
+      "ineCode": "36002",
+      "name": "Barro",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36004",
+      "ineCode": "36004",
+      "name": "Bueu",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36005",
+      "ineCode": "36005",
+      "name": "Caldas de Reis",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36006",
+      "ineCode": "36006",
+      "name": "Cambados",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36007",
+      "ineCode": "36007",
+      "name": "Campo Lameiro",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36008",
+      "ineCode": "36008",
+      "name": "Cangas",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36009",
+      "ineCode": "36009",
+      "name": "Cañiza, A",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36010",
+      "ineCode": "36010",
+      "name": "Catoira",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36902",
+      "ineCode": "36902",
+      "name": "Cerdedo-Cotobade",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36013",
+      "ineCode": "36013",
+      "name": "Covelo",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36014",
+      "ineCode": "36014",
+      "name": "Crecente",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36015",
+      "ineCode": "36015",
+      "name": "Cuntis",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36016",
+      "ineCode": "36016",
+      "name": "Dozón",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36017",
+      "ineCode": "36017",
+      "name": "Estrada, A",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36018",
+      "ineCode": "36018",
+      "name": "Forcarei",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36019",
+      "ineCode": "36019",
+      "name": "Fornelos de Montes",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36021",
+      "ineCode": "36021",
+      "name": "Gondomar",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36022",
+      "ineCode": "36022",
+      "name": "Grove, O",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36023",
+      "ineCode": "36023",
+      "name": "Guarda, A",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36901",
+      "ineCode": "36901",
+      "name": "Illa de Arousa, A",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36024",
+      "ineCode": "36024",
+      "name": "Lalín",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36025",
+      "ineCode": "36025",
+      "name": "Lama, A",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36026",
+      "ineCode": "36026",
+      "name": "Marín",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36027",
+      "ineCode": "36027",
+      "name": "Meaño",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36028",
+      "ineCode": "36028",
+      "name": "Meis",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36029",
+      "ineCode": "36029",
+      "name": "Moaña",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36030",
+      "ineCode": "36030",
+      "name": "Mondariz",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36031",
+      "ineCode": "36031",
+      "name": "Mondariz-Balneario",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36032",
+      "ineCode": "36032",
+      "name": "Moraña",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36033",
+      "ineCode": "36033",
+      "name": "Mos",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36034",
+      "ineCode": "36034",
+      "name": "Neves, As",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36035",
+      "ineCode": "36035",
+      "name": "Nigrán",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36036",
+      "ineCode": "36036",
+      "name": "Oia",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36037",
+      "ineCode": "36037",
+      "name": "Pazos de Borbén",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36041",
+      "ineCode": "36041",
+      "name": "Poio",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36043",
+      "ineCode": "36043",
+      "name": "Ponte Caldelas",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36042",
+      "ineCode": "36042",
+      "name": "Ponteareas",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36044",
+      "ineCode": "36044",
+      "name": "Pontecesures",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36038",
+      "ineCode": "36038",
+      "name": "Pontevedra",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36039",
+      "ineCode": "36039",
+      "name": "Porriño, O",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36040",
+      "ineCode": "36040",
+      "name": "Portas",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36045",
+      "ineCode": "36045",
+      "name": "Redondela",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36046",
+      "ineCode": "36046",
+      "name": "Ribadumia",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36047",
+      "ineCode": "36047",
+      "name": "Rodeiro",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36048",
+      "ineCode": "36048",
+      "name": "Rosal, O",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36049",
+      "ineCode": "36049",
+      "name": "Salceda de Caselas",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36050",
+      "ineCode": "36050",
+      "name": "Salvaterra de Miño",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36051",
+      "ineCode": "36051",
+      "name": "Sanxenxo",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36052",
+      "ineCode": "36052",
+      "name": "Silleda",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36053",
+      "ineCode": "36053",
+      "name": "Soutomaior",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36054",
+      "ineCode": "36054",
+      "name": "Tomiño",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36055",
+      "ineCode": "36055",
+      "name": "Tui",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36056",
+      "ineCode": "36056",
+      "name": "Valga",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36057",
+      "ineCode": "36057",
+      "name": "Vigo",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36059",
+      "ineCode": "36059",
+      "name": "Vila de Cruces",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36058",
+      "ineCode": "36058",
+      "name": "Vilaboa",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36060",
+      "ineCode": "36060",
+      "name": "Vilagarcía de Arousa",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-36061",
+      "ineCode": "36061",
+      "name": "Vilanova de Arousa",
+      "provinceCode": "36",
+      "provinceName": "Pontevedra",
+      "autonomousCommunityCode": "12",
+      "autonomousCommunityName": "Galicia",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
