@@ -157,7 +157,7 @@ export function extractSpainMunicipalFeaturesFromIgn(collection, { expectedCodes
     throw new Error('IGN AdministrativeUnit response must be a GeoJSON FeatureCollection');
   }
   if (!Array.isArray(expectedCodes) || !expectedCodes.length ||
-      expectedCodes.some(code => !/^\\d{5}$/.test(String(code)))) {
+      expectedCodes.some(code => !/^\d{5}$/.test(String(code)))) {
     throw new Error('expectedCodes must be a non-empty array of five-digit INE municipality codes');
   }
   const expected = new Set(expectedCodes.map(String));
@@ -167,8 +167,8 @@ export function extractSpainMunicipalFeaturesFromIgn(collection, { expectedCodes
   for (const feature of collection.features) {
     const nationalCode = feature?.properties?.nationalCode ?? feature?.properties?.nationalcode;
     if (typeof nationalCode !== 'string') continue;
-    const exact = nationalCode.match(/^(\\d{5})$/);
-    const namespaced = nationalCode.match(/(?:^|[^0-9])(\\d{5})$/);
+    const exact = nationalCode.match(/^(\d{5})$/);
+    const namespaced = nationalCode.match(/(?:^|[^0-9])(\d{5})$/);
     const code = exact?.[1] || namespaced?.[1];
     if (!code || !expected.has(code)) continue;
     if (selected.has(code)) throw new Error(`duplicate IGN nationalCode match for municipality ${code}`);
