@@ -1,0 +1,150 @@
+{
+  "schemaVersion": "1.0.0",
+  "profileId": "ILL-FUERZA-ES-RAINWATER-PRODUCT-QMS",
+  "projectId": "ILL-FUERZA-ES",
+  "status": "DRAFT_PENDING_COMPETENT_AUTHORITY_AND_AQUADMRV_REVIEW",
+  "intendedProduct": "Municipal-branded rainwater-based packaged drinking water, if legally authorized and compliant",
+  "legalClassification": {
+    "status": "NOT_APPROVED",
+    "candidateRoute": "Prepared packaged drinking water under Spain Real Decreto 1799/2010 may be relevant because prepared waters can originate from any source after authorized physicochemical treatment.",
+    "requiredBeforePilot": "Written legal and competent-authority confirmation of source/product classification, operator/facility approvals, treatment requirements, sampling regime, naming and label rules.",
+    "notPermittedClaims": [
+      "natural mineral water",
+      "spring water",
+      "potable",
+      "safe to drink",
+      "premium drinking water",
+      "carbon neutral"
+    ],
+    "sources": [
+      "https://www.boe.es/eli/es/rd/2010/12/30/1799/con",
+      "https://www.boe.es/eli/es/rd/2023/01/10/3/con",
+      "https://eur-lex.europa.eu/eli/dir/2020/2184/oj",
+      "https://eur-lex.europa.eu/eli/reg/2025/40/oj"
+    ]
+  },
+  "qmsOwner": "AquaDMRV",
+  "specificationPolicy": "The competent-authority-approved product category and current legal specification must be versioned. Parameter names, limits, units, methods, sampling frequency and test scope must be sourced from the applicable current annex/authorization. No generic hard-coded limits are authoritative.",
+  "releaseGates": [
+    {
+      "id": "legal_classification",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "operator_and_facility_authorization",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "approved_source_and_catchment",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "water_safety_risk_assessment",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "treatment_process_validation",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "sampling_plan_and_chain_of_custody",
+      "required": true,
+      "kind": "OBSERVED_AND_DOCUMENTARY"
+    },
+    {
+      "id": "laboratory_scope_and_accreditation",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "all_mandatory_water_quality_parameters",
+      "required": true,
+      "kind": "LABORATORY"
+    },
+    {
+      "id": "haccp_and_hygienic_filling_controls",
+      "required": true,
+      "kind": "OBSERVED_AND_DOCUMENTARY"
+    },
+    {
+      "id": "food_contact_packaging_compliance",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "packaging_waste_compliance",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "batch_lot_seal_and_mass_balance",
+      "required": true,
+      "kind": "OBSERVED_AND_DOCUMENTARY"
+    },
+    {
+      "id": "label_and_consumer_information_review",
+      "required": true,
+      "kind": "DOCUMENTARY"
+    },
+    {
+      "id": "authorized_qa_release_decision",
+      "required": true,
+      "kind": "HUMAN_APPROVAL"
+    }
+  ],
+  "batchStates": [
+    "DRAFT",
+    "FILLING",
+    "QUARANTINED",
+    "LAB_PENDING",
+    "QA_HOLD",
+    "READY_FOR_AUTHORIZED_RELEASE_REVIEW",
+    "RELEASED",
+    "REJECTED",
+    "RECALLED"
+  ],
+  "hardStops": [
+    "Any missing mandatory test result",
+    "Any failed mandatory quality parameter",
+    "Unapproved or expired laboratory accreditation scope",
+    "Broken or incomplete sample custody",
+    "Unvalidated treatment process",
+    "Missing legal classification or operator authorization",
+    "Unresolved critical deviation",
+    "Batch volume or lot identity mismatch",
+    "Missing authorized QA sign-off"
+  ],
+  "packaging": {
+    "regulation": "Regulation (EU) 2025/40",
+    "applicationDate": "2026-08-12",
+    "note": "Apply the regulation's phased obligations to the selected bottle/can material, design, food-contact requirements, recyclability, recycled content, labelling and producer responsibility as applicable."
+  },
+  "batchTraceability": [
+    "municipalityCode",
+    "venueId",
+    "catchmentId",
+    "harvestEventId",
+    "harvestedAt",
+    "meterId",
+    "sampleIds",
+    "custodyRecordIds",
+    "laboratoryReportIds",
+    "treatmentRunId",
+    "productSpecificationVersion",
+    "batchId",
+    "fillTimestamp",
+    "quantity",
+    "containerMaterial",
+    "packagingLot",
+    "sealId",
+    "evidencePackageId",
+    "evidenceRoot",
+    "qaDecisionId"
+  ],
+  "releaseRule": "AquaDMRV may evaluate readiness and record the authorized QA decision. No model, sensor, report generator or blockchain transaction can autonomously override a hold or release a product without the legally required human/operator authorization."
+}
