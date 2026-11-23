@@ -8,6 +8,8 @@ on:
       - 'scripts/fetch-spain-sports-candidates.mjs'
       - 'src/spain-ign-ingestion.mjs'
       - 'src/osm-sports-import.mjs'
+      - 'src/spain-spatial-join.mjs'
+      - 'scripts/crosswalk-spain-venues-to-ign.mjs'
       - 'data/spain/venue-discovery/spain-sports-overpass.ql'
   workflow_dispatch:
     inputs:
@@ -66,6 +68,14 @@ jobs:
       - name: Fetch OSM sports candidates
         if: always() && env.RUN_OSM == 'true'
         run: npm run discover:sports:spain
+      - name: Crosswalk OSM candidates to official IGN municipality polygons
+        if: always() && env.RUN_IGN == 'true' && env.RUN_OSM == 'true'
+        run: |
+          if [ -f .cache/spain/ign/spain-municipalities.geojson ] && [ -f .cache/spain/venues/sports-venue-candidates.json ]; then
+            npm run crosswalk:spain:venues
+          else
+            echo 'IGN geometry or OSM candidates are missing; spatial crosswalk was not run.'
+          fi
       - name: Upload source snapshots and QA manifests
         if: always()
         uses: actions/upload-artifact@v4
