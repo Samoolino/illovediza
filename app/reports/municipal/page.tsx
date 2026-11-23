@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
 import { loadSpainMunicipalities, loadSpainSportsVenues } from "@/lib/spain-registry";
 import { buildMunicipalReportEnvelope } from "@/src/reports/municipal-report.mjs";
 
@@ -16,7 +18,12 @@ export default async function MunicipalReportPage({ searchParams }: Props) {
     return <main className="shell section"><h1>Municipal report</h1><p>Enter a valid five-digit INE municipality code.</p><Link href="/reports">Return to reporting centre ↗</Link></main>;
   }
 
-  const [{ municipalities }, sports] = await Promise.all([loadSpainMunicipalities(), loadSpainSportsVenues()]);
+  const [{ municipalities }, sports, discoveryBatch, officialLeadRegistry] = await Promise.all([
+    loadSpainMunicipalities(),
+    loadSpainSportsVenues(),
+    readFile(join(process.cwd(), 'data/spain/sports-venues.discovery-batch-2026-11-23.json'), 'utf8').then(JSON.parse),
+    readFile(join(process.cwd(), 'data/spain/venue-discovery/official-municipal-leads-2026-11-23.json'), 'utf8').then(JSON.parse)
+  ]);
   const municipality = municipalities.find(item => item.ineCode === ineCode);
   if (!municipality) {
     return <main className="shell section"><h1>Municipality not found</h1><p>The code {ineCode} is not present in the current INE reference registry.</p><Link href="/reports">Return to reporting centre ↗</Link></main>;
@@ -27,7 +34,12 @@ export default async function MunicipalReportPage({ searchParams }: Props) {
     generatedAt: new Date().toISOString(),
     aquaDmrVStatus: "NOT_CONNECTED",
     geometryStatus: municipality.geometryStatus || "NOT_LOADED",
-    activeVenueCount: sports.venues.filter((venue: Record<string, unknown>) => venue.municipalityCode === ineCode && hasQualifiedVenueStatus(venue)).length
+    activeVenueCount: sports.venues.filter((venue: Record<string, unknown>) => venue.municipalityCode === ineCode && hasQualifiedVenueStatus(venue)).length,
+    osmDiscoveryCandidateCount: discoveryBatch.candidates.filter((venue: Record<string, unknown>) => venue.municipalityCode === ineCode).length,
+    officialVenueLeadCount: officialLeadRegistry.leads.filter((lead: Record<string, unknown>) =>
+      String(lead.municipalityName || '').toLocaleLowerCase('es') === municipality.name.toLocaleLowerCase('es')
+    ).length,
+    spatialCrosswalkStatus: 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED'
   });
   const factors = Object.entries(envelope.report.factors) as Array<[string, { value: number | null; unit: string | null; status: string; evidenceClass: string | null; limitations: string[] }]>;
 
@@ -42,6 +54,16 @@ export default async function MunicipalReportPage({ searchParams }: Props) {
         <div className="stat"><strong>{municipality.geometryStatus || "NOT_LOADED"}</strong><span>Municipal geometry state</span></div>
         <div className="stat"><strong>{envelope.sourceStatus.aquaDmrV}</strong><span>AquaDMRV connection</span></div>
         <div className="stat"><strong>{envelope.report.claims.productReleaseStatus}</strong><span>Product release</span></div>
+      </section>
+      <section className="panel" style={{marginTop:20}}>
+        <div className="eyebrow">VENUE DISCOVERY — NOT QUALIFICATION</div>
+        <h2>Sports facility evidence leads</h2>
+        <div className="stats">
+          <div className="stat"><strong>{envelope.sourceStatus.osmDiscoveryCandidatesProvisional}</strong><span>OSM candidates · provisional INE match</span></div>
+          <div className="stat"><strong>{envelope.sourceStatus.officialSourceLeadsAddressOnly}</strong><span>Official source leads · address only</span></div>
+          <div className="stat"><strong>{envelope.sourceStatus.spatialCrosswalk}</strong><span>IGN spatial crosswalk</span></div>
+        </div>
+        <p style={{color:"var(--muted)",fontSize:12,lineHeight:1.7}}>These counts are discovery references, not qualified venues. No facility is promoted to a municipal anchor until the physical location intersects the versioned IGN municipal polygon, its official venue identity is reconciled, significance/management is evidenced and authorization is recorded.</p>
       </section>
       <section className="panel" style={{marginTop:22}}>
         <div className="eyebrow">INDICATOR REGISTER</div>
