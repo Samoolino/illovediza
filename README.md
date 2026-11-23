@@ -54,7 +54,7 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 - [Architecture and repository boundaries](docs/ARCHITECTURE.md)
 - [Sports node and measurement model](docs/SPORTS-NODES-AND-MEASUREMENT.md)\n- [Sports venue discovery and qualification](docs/SPORTS-VENUE-DISCOVERY.md)
 - [Frontend and geospatial specification](docs/FRONTEND-GEO-REPORTING.md)
-- [DMRV and cryptographic evidence lifecycle](docs/DMRV-EVIDENCE-AND-INTEGRITY.md)
+- [DMRV and cryptographic evidence lifecycle](docs/DMRV-EVIDENCE-AND-INTEGRITY.md)\n- [OMI-OJO DMRV contract compatibility](docs/OMI-OJO-DMRV-CONTRACT.md)
 - [Migration and extraction manifest](docs/MIGRATION-MANIFEST.md)\n- [Spain municipal registry](docs/SPAIN-MUNICIPAL-REGISTRY.md)\n- [Official geography and venue crosswalk](docs/SPAIN-GEOGRAPHY-AND-VENUE-CROSSWALK.md)
 - [Integration contracts](docs/INTEGRATIONS.md)
 
