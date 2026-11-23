@@ -52,7 +52,7 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 
 - `data/spain/municipalities/index.json` indexes all 19 autonomous communities/cities and 8,132 municipality records.
 - `GET /api/municipalities?limit=10000&offset=0` returns the complete municipal reference set; supports `q`, `community`, `offset` and `limit`.
-- `GET /api/sports-network` returns source-backed sports venue records. The initial venue registry is empty until qualified geotagged records are imported.
+- `GET /api/sports-network` returns source-backed venue records, qualification results, municipal sports summary and the Illovediza-owned reportable-factor registry. The initial venue registry is empty until qualified geotagged records are imported.
 - `scripts/verify-spain-registry.mjs` and `npm run test:registry` validate record count, uniqueness, hierarchy partition counts and initial unassessed states.
 
 Primary municipal source: INE *Relación de municipios y sus códigos por provincias*, 1 January 2026 (published 4 February 2026), processed through the versioned CodeForSpain dataset snapshot. See [Spain Municipal Registry](docs/SPAIN-MUNICIPAL-REGISTRY.md).
