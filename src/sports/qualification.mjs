@@ -200,12 +200,18 @@ export function buildRainwaterBrandRecord(input) {
         !Number.isSafeInteger(source.blockNumber) || source.blockNumber < 0) {
       throw new Error('anchor network, transaction hash and block timestamp are required');
     }
+    if (source.verificationStatus !== 'MATCHED' ||
+        String(source.readbackRoot || '').toLowerCase() !== String(input.evidenceRoot).toLowerCase()) {
+      throw new Error('independent anchor readback must match the evidence root');
+    }
     anchor = {
       status: 'ANCHORED',
       networkId: source.networkId,
       transactionHash: source.transactionHash,
       blockTimestamp: source.blockTimestamp,
-      blockNumber: source.blockNumber
+      blockNumber: source.blockNumber,
+      readbackRoot: String(source.readbackRoot).toLowerCase(),
+      verificationStatus: source.verificationStatus
     };
   }
 
