@@ -4,11 +4,12 @@ function pointOnSegment(point, a, b, epsilon = 1e-10) {
   const [x, y] = point;
   const [x1, y1] = a;
   const [x2, y2] = b;
+  const lengthSquared = (x2 - x1) ** 2 + (y2 - y1) ** 2;
+  if (lengthSquared <= epsilon) return Math.hypot(x - x1, y - y1) <= epsilon;
   const cross = (x - x1) * (y2 - y1) - (y - y1) * (x2 - x1);
   if (Math.abs(cross) > epsilon) return false;
   const dot = (x - x1) * (x2 - x1) + (y - y1) * (y2 - y1);
   if (dot < -epsilon) return false;
-  const lengthSquared = (x2 - x1) ** 2 + (y2 - y1) ** 2;
   return dot <= lengthSquared + epsilon;
 }
 
