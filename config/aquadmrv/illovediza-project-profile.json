@@ -8,11 +8,16 @@
     "name": "AquaDMRV",
     "ownership": "Shared water, physical-event, quality-management, cryptographic-evidence and climate-accounting engine",
     "repository": "https://github.com/Samoolino/AquaDMRV",
-    "integrationStatus": "BLOCKED_REPOSITORY_ACCESS_404",
-    "apiContractStatus": "NOT_INSPECTED_DO_NOT_INFER_ENDPOINTS",
+    "integrationStatus": "WAITING_FOR_CONFIRMATION_OF_PRIVATE_EMPTY_REPOSITORY_NAME",
+    "apiContractStatus": "NO_SOURCE_OR_API_CONTRACTS_TO_INSPECT",
     "localAdapterStatus": "ILL_FUERZA_PROJECT_EVENT_ENVELOPE_IMPLEMENTED_AND_TESTED",
     "runtimeStatus": "NOT_CONNECTED_NO_LIVE_STREAM_OR_AQUADMRV_PERSISTENCE",
-    "integrationGate": "AquaDMRV repository must be readable before mapping actual event schemas, API routes, broker, database, signing keys, chain adapters and QMS services."
+    "integrationGate": "Confirm whether the private empty repository Samoolino/AquaDMRV- is the intended AquaDMRV target. The provided Samoolino/AquaDMRV URL does not resolve. Do not initialize or mutate the trailing-hyphen repository until confirmed.",
+    "repositoryUrlProvided": "https://github.com/Samoolino/AquaDMRV",
+    "repositoryFound": "https://github.com/Samoolino/AquaDMRV-",
+    "repositoryFullName": "Samoolino/AquaDMRV-",
+    "repositoryVisibility": "PRIVATE",
+    "repositoryState": "EMPTY_NO_COMMITS"
   },
   "jurisdiction": {
     "countryCode": "ES",
