@@ -88,4 +88,4 @@ jobs:
             .cache/spain/ign/
             .cache/spain/venues/
           if-no-files-found: warn
-          retention-days: 30
+          retention-days: 90
