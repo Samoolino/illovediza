@@ -1,6 +1,5 @@
 #!/usr/bin/env node
-import { createHash } from 'node:crypto';
-import { mkdir, readFile, writeFile, copyFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, resolve, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { inspectSpainMunicipalBoundaries, buildSpainBoundaryManifest, sha256Hex } from '../src/spain-ign-ingestion.mjs';
