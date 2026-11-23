@@ -8,3 +8,6 @@ out/
 coverage/
 *.log
 .DS_Store
+
+# Large, reproducible official Spain geometry downloads and conversions
+.cache/spain/ign/
