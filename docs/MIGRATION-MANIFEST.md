@@ -66,3 +66,8 @@ Illovediza's TypeScript package generator passes the OMI-OJO Python canonical SH
 ## Ownership clarification — 2026-11-23
 
 Sports qualification, municipal coverage enrichment, RainWater calculations and reportable-factor definitions are implemented in this Illovediza repository. R consumes the enriched municipality/sports APIs and renders the official IGN boundary overlay, venue markers and factor views. R is not the source of truth for Spain sports eligibility or Illovediza's project-specific climate/product calculations.
+
+
+## Product traceability update — 2026-11-23
+
+RainWater brand records now bind the municipal name and five-digit INE code, canonical venue identity, WGS84 coordinates, harvest event/time, batch, product format, evidence package ID, SHA-256 root and optional anchor network/transaction/block timestamp. An anchor never upgrades water-quality status or product release; those remain QMS and regulatory decisions. Bottle/can formats are traceability options, not a claim that production or sale has commenced.
