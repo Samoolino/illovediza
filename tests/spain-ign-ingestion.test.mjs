@@ -59,9 +59,12 @@ test('rejects invalid geometry, unclosed rings and out-of-range coordinates', ()
 });
 
 test('does not guess the source code property', () => {
-  assert.throws(() => inspectSpainMunicipalBoundaries({
+  const result = inspectSpainMunicipalBoundaries({
     type: 'FeatureCollection', features: [feature('28079')]
-  }, { expectedCodes: ['28079'], codeProperty: 'MISSING_FIELD' }), /explicit codeProperty/);
+  }, { expectedCodes: ['28079'], codeProperty: 'MISSING_FIELD' });
+  assert.equal(result.ok, false);
+  assert.ok(result.errors.some(error => error.code === 'invalid_ine_code'));
+  assert.ok(result.errors.some(error => error.code === 'missing_ine_codes'));
 });
 
 test('creates a provenance manifest with source and transformed geometry checksums', () => {
