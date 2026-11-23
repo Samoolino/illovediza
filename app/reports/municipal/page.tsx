@@ -4,6 +4,12 @@ import { buildMunicipalReportEnvelope } from "@/src/reports/municipal-report.mjs
 
 type Props = { searchParams: Promise<{ ineCode?: string }> };
 
+function hasQualifiedVenueStatus(venue: Record<string, unknown>): boolean {
+  const raw = venue.qualificationStatuses;
+  const statuses: unknown[] = Array.isArray(raw) ? raw : [venue.qualificationStatus];
+  return statuses.some(status => String(status || "").startsWith("QUALIFIED_"));
+}
+
 export default async function MunicipalReportPage({ searchParams }: Props) {
   const { ineCode = "" } = await searchParams;
   if (!/^\d{5}$/.test(ineCode)) {
