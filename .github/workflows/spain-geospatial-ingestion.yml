@@ -9,6 +9,9 @@ on:
       - 'src/spain-ign-ingestion.mjs'
       - 'src/osm-sports-import.mjs'
       - 'src/spain-spatial-join.mjs'
+      - 'tests/spain-spatial-join.test.mjs'
+      - 'tests/spain-ign-ingestion.test.mjs'
+      - 'package.json'
       - 'scripts/crosswalk-spain-venues-to-ign.mjs'
       - 'data/spain/venue-discovery/spain-sports-overpass.ql'
   workflow_dispatch:
