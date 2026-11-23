@@ -139,6 +139,8 @@ export function buildSpainBoundaryManifest(input) {
     geometryQA: 'STRUCTURAL_GEOJSON_QA_PASSED',
     topologyQA: 'NOT_RUN_REQUIRES_GDAL_POSTGIS_VALIDATION',
     boundaryLegalStatus: 'MAY_INCLUDE_PROVISIONAL_BOUNDARY_SEGMENTS',
+    provisionalBoundaryUncertaintyNote: 'CNIG describes some provisional boundary segments with uncertainty of approximately 40 m; consult source metadata and legal records for affected municipalities.',
+    provisionalBoundaryReviewBufferM: 50,
     status: 'QA_PASSED_LOCAL_NOT_PUBLISHED',
     publicationStatus: 'NOT_PUBLISHED',
     generatedAt: input.generatedAt || new Date().toISOString()
