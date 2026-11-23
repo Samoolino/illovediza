@@ -40,10 +40,15 @@ async function main() {
       publisher: 'OpenStreetMap',
       retrievedAt: candidateBatch.retrievedAt,
       license: 'ODbL 1.0',
-      attribution: '© OpenStreetMap contributors'
+      attribution: '© OpenStreetMap contributors',
+      coverageStatus: candidateBatch.coverageStatus || 'UNKNOWN',
+      regionsRequested: candidateBatch.regionsRequested || null,
+      regionsCompleted: candidateBatch.regionsCompleted || [],
+      failedRegions: candidateBatch.failedRegions || []
     },
     summary: result.summary,
     qualificationStatus: 'CANDIDATES_ONLY_NOT_QUALIFIED',
+    publicationStatus: 'NOT_PUBLISHED',
     venues: result.venues
   };
   const outputPath = resolve(venueDir, 'sports-venue-candidates.ign-crosswalked.json');
