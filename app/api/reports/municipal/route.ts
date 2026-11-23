@@ -1,4 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
 import { loadSpainMunicipalities, loadSpainSportsVenues } from "@/lib/spain-registry";
 import { buildMunicipalReportEnvelope } from "@/src/reports/municipal-report.mjs";
 
@@ -17,9 +19,11 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: "Provide a valid five-digit INE municipality code as ineCode." }, { status: 400, headers: { "Cache-Control": "no-store" } });
   }
   try {
-    const [{ municipalities }, sports] = await Promise.all([
+    const [{ municipalities }, sports, discoveryBatch, officialLeadRegistry] = await Promise.all([
       loadSpainMunicipalities(),
-      loadSpainSportsVenues()
+      loadSpainSportsVenues(),
+      readFile(join(process.cwd(), 'data/spain/sports-venues.discovery-batch-2026-11-23.json'), 'utf8').then(JSON.parse),
+      readFile(join(process.cwd(), 'data/spain/venue-discovery/official-municipal-leads-2026-11-23.json'), 'utf8').then(JSON.parse)
     ]);
     const municipality = municipalities.find(item => item.ineCode === ineCode);
     if (!municipality) {
@@ -30,7 +34,12 @@ export async function GET(request: NextRequest) {
       generatedAt: new Date().toISOString(),
       aquaDmrVStatus: "NOT_CONNECTED",
       geometryStatus: municipality.geometryStatus || "NOT_LOADED",
-      activeVenueCount: sports.venues.filter((venue: Record<string, unknown>) => venue.municipalityCode === ineCode && hasQualifiedVenueStatus(venue)).length
+      activeVenueCount: sports.venues.filter((venue: Record<string, unknown>) => venue.municipalityCode === ineCode && hasQualifiedVenueStatus(venue)).length,
+      osmDiscoveryCandidateCount: discoveryBatch.candidates.filter((venue: Record<string, unknown>) => venue.municipalityCode === ineCode).length,
+      officialVenueLeadCount: officialLeadRegistry.leads.filter((lead: Record<string, unknown>) =>
+        String(lead.municipalityName || '').toLocaleLowerCase('es') === municipality.name.toLocaleLowerCase('es')
+      ).length,
+      spatialCrosswalkStatus: 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED'
     });
     return NextResponse.json(report, { status: 200, headers: { "Cache-Control": "no-store" } });
   } catch {
