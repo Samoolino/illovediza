@@ -36,7 +36,16 @@ The former page establishes 17+2 autonomous communities/cities, 50 provinces and
 - [x] Create standalone Next.js app shell, product landing page and CI build workflow (runtime build result not yet verified).
 - [x] Added OMI-OJO project registration and shared DMRV integration contract; legacy route retained pending deployment.
 - [ ] Implement and test R integration against verified versioned interfaces.
-- [ ] Validate Spanish geography identifiers, boundaries, licences and counts.
+- [x] Import the 8,132-record 2026 INE-code municipal reference registry, partitioned across 19 autonomous communities/cities; add deterministic count/uniqueness CI. [ ] Official IGN geometry ingestion and geometry/licence QA remain pending.
 - [ ] End-to-end evidence, anchor readback and report acceptance.
 
 No source files have been deleted from OMI-OJO as part of this bootstrap. This is intentional: a safe migration must not strand the existing route or lose project content.
+
+
+## Sports and product clarification — 2026-11-23
+
+The Spain product is a municipal climate-product enhancer, not a generic sports listing. Padel and football are the primary anchor sports; football stadiums are qualified for the combined municipal node when their shared sports-complex relationship with a major padel anchor is documented. Tennis is selective and requires a significant/sustainability-relevant Ayuntamientos-managed Polideportivo. Every venue must have a geotag and official INE municipality crosswalk.
+
+The municipal sports facility may become a Premium RainWater host only after site permission and physical installation. Bottle/can branding can reference the municipality and Polideportivo/sports-complex, with batch, harvest timestamp, venue coordinates and evidence root. Product quality, release, GHG reductions and carbon-credit issuance remain separate evidence and approval gates.
+
+R integration now includes `/api/illovediza/network`, `/api/illovediza/reporting-factors` and `/illovediza-spain-map.html`. The R deployment still needs `ILLOVEDIZA_API_BASE_URL` (and optional `ILLOVEDIZA_API_TOKEN`) configured before the live map can load the Illovediza API.
