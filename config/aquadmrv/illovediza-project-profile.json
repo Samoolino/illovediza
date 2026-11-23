@@ -3,13 +3,16 @@
   "profileId": "AQUADMRV-PROFILE-ILL-FUERZA-ES",
   "projectId": "ILL-FUERZA-ES",
   "projectName": "Illovediza Fuerza Spain Municipal RainWater Network",
-  "profileStatus": "PROJECT_PROFILE_DRAFT_PENDING_AQUADMRV_REPOSITORY_CONTRACT_ALIGNMENT",
+  "profileStatus": "PROJECT_PROFILE_READY_FOR_AQUADMRV_CONTRACT_ALIGNMENT",
   "sharedEngine": {
     "name": "AquaDMRV",
     "ownership": "Shared water, physical-event, quality-management, cryptographic-evidence and climate-accounting engine",
     "repository": "https://github.com/Samoolino/AquaDMRV",
     "integrationStatus": "BLOCKED_REPOSITORY_ACCESS_404",
-    "apiContractStatus": "NOT_INSPECTED_DO_NOT_INFER_ENDPOINTS"
+    "apiContractStatus": "NOT_INSPECTED_DO_NOT_INFER_ENDPOINTS",
+    "localAdapterStatus": "ILL_FUERZA_PROJECT_EVENT_ENVELOPE_IMPLEMENTED_AND_TESTED",
+    "runtimeStatus": "NOT_CONNECTED_NO_LIVE_STREAM_OR_AQUADMRV_PERSISTENCE",
+    "integrationGate": "AquaDMRV repository must be readable before mapping actual event schemas, API routes, broker, database, signing keys, chain adapters and QMS services."
   },
   "jurisdiction": {
     "countryCode": "ES",
@@ -134,7 +137,14 @@
     "idempotency": "Stable eventId and device sequence; duplicate delivery must not create duplicate observations or volumes",
     "clockPolicy": "Retain device-observed time, server-received time and blockchain block time as distinct timestamps",
     "replayPolicy": "Support replay with original event IDs, signatures and source timestamps; never rewrite original observations",
-    "privacyPolicy": "Raw telemetry and personal data remain off-chain under access control; only minimum cryptographic commitments and non-sensitive identifiers may be anchored"
+    "privacyPolicy": "Raw telemetry and personal data remain off-chain under access control; only minimum cryptographic commitments and non-sensitive identifiers may be anchored",
+    "eventEnvelopeSchema": "AQUADMRV-PROJECT-EVENT-1.0",
+    "localImplementation": "src/dmrv/aquadmrv-project-event.mjs",
+    "signaturePolicy": "Illovediza validates signature presence and event integrity fields only. Device signature cryptographic verification and trust/key lifecycle are owned by AquaDMRV after contract alignment.",
+    "hashPolicy": "Canonical SHA-256 event envelope is calculated locally; AquaDMRV must verify/recompute on ingestion. A locally computed hash is not a chain anchor.",
+    "persistencePolicy": "Illovediza must not create a parallel authoritative event ledger. AquaDMRV remains the system of record; Illovediza stores project identity and references/caches only where permitted by AquaDMRV.",
+    "duplicatePolicy": "AquaDMRV must enforce idempotency using eventId and the deviceId/sequenceNumber pair; duplicate deliveries must not increase harvested volume.",
+    "reportingPolicy": "Municipal and venue reports are generated from versioned AquaDMRV evidence references and methodology versions. Missing or disconnected data must remain NOT_CONNECTED or PENDING, never zero-as-measured."
   },
   "evidenceLifecycle": [
     "DISCOVERED",
@@ -187,20 +197,29 @@
       "project-specific indicators",
       "product and batch reporting",
       "municipal climate-product reports",
-      "project narrative and dashboards"
+      "project narrative and dashboards",
+      "Spain-specific venue, municipal and product branding",
+      "project-specific indicator mapping and climate-finance readiness reports"
     ],
     "rOwns": [
       "geospatial visualization",
       "cross-municipal comparison",
       "spatial/climate context",
-      "reusable report rendering and exports"
+      "reusable report rendering and exports",
+      "read-only AquaDMRV evidence visualization",
+      "automated municipal/provincial/national report rendering and export"
     ],
     "aquaDmrVOwns": [
       "canonical water and harvest observations",
       "QMS/batch evidence",
       "cryptographic lifecycle",
       "climate-accounting assurance",
-      "verification state and evidence receipts"
+      "verification state and evidence receipts",
+      "real-time event ingestion and replay",
+      "device identity, signatures and key lifecycle",
+      "event persistence and idempotency",
+      "QMS parameter specifications and batch hold/release workflow",
+      "Merkle commitments and chain transaction/readback receipts"
     ],
     "commonRule": "Consumers of the same versioned evidence API and methodology references; no independent shadow DMRV ledger or copied master evidence database."
   }
