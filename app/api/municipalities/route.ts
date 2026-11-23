@@ -1,18 +1,25 @@
 import { NextRequest, NextResponse } from "next/server";
-import { loadSpainMunicipalities } from "@/lib/spain-registry";
+import { loadSpainMunicipalities, loadSpainSportsVenues } from "@/lib/spain-registry";
+import { buildMunicipalSportsRegistry } from "@/src/sports/qualification.mjs";
 
 export const dynamic = "force-dynamic";
 
 export async function GET(request: NextRequest) {
   try {
-    const { index, municipalities } = await loadSpainMunicipalities();
+    const [{ index, municipalities }, sportsRegistry] = await Promise.all([
+      loadSpainMunicipalities(),
+      loadSpainSportsVenues()
+    ]);
+    const registry = buildMunicipalSportsRegistry(municipalities, sportsRegistry.venues as never[]);
     const params = request.nextUrl.searchParams;
     const q = (params.get("q") || "").trim().toLocaleLowerCase("es");
     const community = params.get("community");
-    const offset = Math.max(0, Number(params.get("offset") || 0));
-    const limit = Math.min(10000, Math.max(1, Number(params.get("limit") || 100)));
+    const offsetValue = Number(params.get("offset") || 0);
+    const limitValue = Number(params.get("limit") || 100);
+    const offset = Number.isFinite(offsetValue) ? Math.max(0, offsetValue) : 0;
+    const limit = Number.isFinite(limitValue) ? Math.min(10000, Math.max(1, limitValue)) : 100;
 
-    const filtered = municipalities.filter((municipality) => {
+    const filtered = registry.municipalities.filter((municipality) => {
       const matchesQuery = !q || [
         municipality.ineCode,
         municipality.name,
@@ -29,17 +36,19 @@ export async function GET(request: NextRequest) {
       generatedAt: new Date().toISOString(),
       source: index.source,
       referenceCounts: index.referenceCounts,
-      representedMunicipalities: municipalities.length,
+      representedMunicipalities: registry.municipalities.length,
       matchedMunicipalities: filtered.length,
+      venueQualificationSummary: registry.summary,
+      qualificationErrors: registry.errors,
       offset,
       limit,
       items: filtered.slice(offset, offset + limit)
     }, {
-      headers: { "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400" }
+      headers: { "Cache-Control": "public, s-maxage=900, stale-while-revalidate=3600" }
     });
   } catch (error) {
     return NextResponse.json({
-      error: "Spain municipality registry unavailable",
+      error: "Spain municipality and sports registry unavailable",
       detail: error instanceof Error ? error.message : "unknown_registry_error"
     }, { status: 503, headers: { "Cache-Control": "no-store" } });
   }
