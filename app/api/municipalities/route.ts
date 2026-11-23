@@ -10,7 +10,7 @@ export async function GET(request: NextRequest) {
     const q = (params.get("q") || "").trim().toLocaleLowerCase("es");
     const community = params.get("community");
     const offset = Math.max(0, Number(params.get("offset") || 0));
-    const limit = Math.min(250, Math.max(1, Number(params.get("limit") || 100)));
+    const limit = Math.min(10000, Math.max(1, Number(params.get("limit") || 100)));
 
     const filtered = municipalities.filter((municipality) => {
       const matchesQuery = !q || [
