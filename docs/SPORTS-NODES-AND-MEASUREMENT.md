@@ -4,95 +4,70 @@
 
 A physical venue has one canonical `venue_id`, verified address/coordinates, operator, access status, source and evidence. Sports are many-to-many affiliations. A facility with padel courts, tennis courts and a football pitch remains one venue with three sport affiliations and distinct activity records.
 
-Venue fields include:
-- canonical ID, official/local name, operator and venue type;
-- address, coordinates, CRS, geocoding source and positional accuracy;
-- municipality/province/autonomous-community IDs and boundary release;
-- sports offered, facilities/capacity and accessible public/private status;
-- source URL, licence, last-checked time and confidence;
-- partner/permission state and publication visibility.
+Venue fields include canonical ID, official/local name, operator and venue type; WGS84 coordinates and positional accuracy; official INE municipality code, province and autonomous-community IDs; sports offered; municipal management status; source URL, licence and retrieval timestamp; significance evidence; and permission/commissioning status.
 
-## 2. Sports taxonomy
+## 2. Spain sports prioritization
 
-| Sport | Venue types | Engagement records |
-|---|---|---|
-| Padel | dedicated club, municipal courts, multi-sport centre, tournament venue | court use, training, league, tournament, participation |
-| Tennis | club, public courts, academy, multi-sport centre, championship venue | court use, coaching, league, tournament, participation |
-| Football | stadium, municipal pitch, club ground, academy, training centre | match, training, league, tournament, participation |
+The programme prioritizes **football and padel** as its principal sports anchors. Tennis is a selective third category.
 
-Use controlled sport identifiers and source-backed competition/organization identities. Do not assume that a facility hosts a sport based on an unverified web mention.
+### Padel — primary anchor
+Qualify major padel courts, dedicated clubs and municipal sports complexes. An OSM `sport=padel` tag alone does not establish major status. Require source-backed identity, geotag, official municipality crosswalk and significance evidence such as municipal facility report, competition role, operator confirmation or documented scale.
 
-## 3. Competition and institutional hierarchy
+### Football — primary anchor
+Focus on football stadiums and municipal grounds that are part of, or demonstrably co-located within, the same municipal sports complex as a major padel anchor. Record the shared complex relationship and evidence. Other stadiums may remain candidates but are not promoted to the combined primary municipal node class.
 
-Model organization and competition relationships as a graph with typed, dated edges:
-- governed_by;
-- affiliated_to;
-- organizes;
-- participates_in;
-- hosted_at;
-- operates;
-- funds;
-- authorizes;
-- reports_to.
+### Tennis — selective anchor
+Include only significant or sustainability-relevant tennis facilities in Polideportivos where Ayuntamientos management is documented. Qualification requires municipal management evidence and significance/sustainability evidence from an official facility report, municipal sports plan or comparable source. Do not attempt to list every tennis court in Spain.
 
-Competition levels may include national, autonomous-community, provincial, municipal and venue/community. Not every sport or competition has every level. Preserve the actual source hierarchy and its exceptions. A club can participate in multiple competitions and a multi-sport organization can operate multiple facilities.
+## 3. Municipal engagement hierarchy
+
+Represent actual structures rather than assuming one universal federation tree: national; autonomous-community/regional; provincial; municipal/local; venue/event. Every relationship records source, date checked, type, evidence and status. Do not imply endorsement, affiliation or authorization without documentation.
 
 ## 4. Node classes
 
 - `TERRITORIAL_REFERENCE`: administrative reporting unit only.
 - `VENUE_CANDIDATE`: discovered physical sports facility, not yet qualified.
-- `ENGAGEMENT_NODE`: validated club, organizer or institutional relationship.
+- `ENGAGEMENT_NODE`: validated club, operator or institutional relationship.
 - `EVENT_NODE`: bounded event, session or competition.
 - `MEASUREMENT_NODE`: approved instrument or observation workflow.
-- `HARVEST_NODE`: approved physical collection/harvesting installation.
-- `REPORTING_NODE`: derived reporting aggregation, never a physical deployment claim.
+- `HARVEST_NODE`: approved physical collection installation.
+- `REPORTING_NODE`: derived aggregation, never a physical deployment claim.
 
-Node states: `DISCOVERED`, `SOURCE_CHECKED`, `CONTACTED`, `PERMISSION_PENDING`, `AUTHORIZED`, `COMMISSIONED`, `OBSERVING`, `QC_HOLD`, `UNDER_REVIEW`, `VERIFIED`, `SUSPENDED`, `RETIRED`.
+States: `DISCOVERED`, `SOURCE_CHECKED`, `SIGNIFICANCE_REVIEW`, `CONTACTED`, `PERMISSION_PENDING`, `AUTHORIZED`, `COMMISSIONED`, `OBSERVING`, `QC_HOLD`, `UNDER_REVIEW`, `VERIFIED`, `SUSPENDED`, `RETIRED`.
 
-## 5. Measurement plan and indicator registry
+## 5. Sports venue as a RainWater product host
 
-Every indicator definition includes:
-- stable indicator ID and title;
-- ESG pillar and materiality rationale;
-- unit, direction and reporting period;
-- population/asset boundary and spatial support;
-- activity-data source and evidence class;
-- measurement or calculation method/version;
-- baseline and counterfactual where required;
-- emission factor/source/year for GHG calculations;
-- missing-data and uncertainty treatment;
-- quality rules and acceptance threshold;
-- reviewer and publication policy.
+A qualified sports venue can become a candidate RainWater host only after site assessment and permission. Its identity can support a municipal product brand: municipality and INE code; Polideportivo/sports-complex/venue name; actual venue coordinates and catchment reference; authorized collection system and event; first-flush, meter and collection records; sample/custody, laboratory/QMS, batch and seal; timestamped evidence package and cryptographic root.
 
-Potential sports-site measures include metered electricity and fuel, water use, waste mass by stream, travel activity by mode/distance, refrigerant leakage where relevant, facility operating hours, event attendance and participation. Participation is social activity data, not a carbon reduction. Avoided emissions require a defensible baseline and applicable method.
+The label may use municipal venue identity, but a Premium RainWater claim cannot be released until quality, batch, seal, regulatory and product-release gates pass. A map pin or sports partnership does not establish harvest or product quality.
 
-## 6. Event-to-evidence process
+## 6. Indicator registry
+
+Environmental and climate indicators include measured energy, water, waste, transport, rainfall, air quality and other material activity. GHG calculations require activity data, organizational/operational boundary, emission-factor source/version, method, assumptions and uncertainty. Social indicators include event participation, inclusion and access with privacy, consent/legal basis and safeguarding.
+
+Sports participation is not a carbon reduction. Rainfall opportunity is not harvested water. Calculated emissions or potential avoided emissions are not credits until the eligible methodology and independent verification/registry requirements pass.
+
+## 7. Event-to-evidence process
 
 ```
-Approved event/site scope
-  → operator and permission check
-  → instrument/activity source registration
-  → timestamped collection
-  → source validation and QC
-  → reconciliation / calculation
-  → evidence package
-  → reviewer decision
-  → integrity anchor
-  → report publication
+Municipal / venue identity
+  → sports venue qualification
+  → site assessment and permission
+  → approved catchment and monitoring plan
+  → rain event and instrument/source collection
+  → first-flush and measured volume
+  → sampling / custody / laboratory QMS
+  → batch / seal / product identity
+  → QC + reconciliation + calculation
+  → deterministic evidence package
+  → independent review
+  → cryptographic integrity anchor
+  → municipal and institutional report
+  → product / finance release decision
 ```
 
-For physical harvesting nodes, add installation inspection, calibration, maintenance, custody and commissioning records. Event attendance, venue schedules or social-media posts are not substitutes for measured environmental data.
+## 8. Municipal views
 
-## 7. Municipal views
+Each municipal page shows official identity; padel/football/tennis venue assessment; qualified/candidate venues; sports-complex relationships; permissions; climate and rainwater factors; product batch status; GHG/social/governance evidence; package/anchor references; missingness and next actions.
 
-Each municipal page should show:
-- official administrative identity and boundary version;
-- venue discovery coverage by padel, tennis and football;
-- qualified clubs/operators and competition links;
-- candidate vs authorized vs commissioned nodes;
-- reporting-period activity and indicator coverage;
-- evidence quality, review and release status;
-- local engagement, inclusion and governance indicators;
-- missingness, limitations and next actions.
-
-A municipality with no discovered venue is `UNKNOWN/NOT ASSESSED`, not zero sports activity. A municipality with venues but no instrumented node is not an environmental measurement site.
+A municipality with no discovered venue is `NOT_ASSESSED`, not zero sports activity. A municipality with venues but no approved measurement node is not an environmental measurement site.
