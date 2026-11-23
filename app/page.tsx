@@ -9,7 +9,7 @@ export default function Home() {
     <main>
       <header className="shell topbar">
         <a className="brand" href="#"><span className="brandmark">IF</span><span>ILLOVEDIZA <span style={{color:"var(--lime)"}}>FUERZA</span></span></a>
-        <nav className="nav"><a href="#territory">Territory</a><a href="#sports">Sports anchors</a><a href="#rainwater">RainWater product</a><a href="#evidence">DMRV</a><a href="#reports">Reporting</a></nav>
+        <nav className="nav"><a href="#territory">Territory</a><a href="#sports">Sports anchors</a><a href="#rainwater">RainWater product</a><a href="#evidence">DMRV</a><a href="/reports">Reporting centre</a></nav>
         <a className="cta secondary" href="https://r-global-climate.vercel.app/illovediza-spain-map.html" target="_blank" rel="noreferrer">OPEN SPAIN MAP ↗</a>
       </header>
 
@@ -33,7 +33,7 @@ export default function Home() {
           <div className="stat"><strong>17 + 2</strong><span>Autonomous communities / cities</span></div>
           <div className="stat"><strong>50</strong><span>Provinces</span></div>
           <div className="stat"><strong>8,132</strong><span>Municipal reference scope</span></div>
-          <div className="stat"><strong>03</strong><span>Anchor sports</span></div>
+          <div className="stat"><strong>02 + 1</strong><span>Primary sports + selective tennis</span></div>
         </div>
       </section>
 
@@ -53,16 +53,16 @@ export default function Home() {
         <article className="panel"><div className="eyebrow">PHYSICAL PRODUCT CHAIN</div><h2>Every label must resolve to evidence.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>Authorized site → catchment → rain event → first flush → metered collection → sampling and custody → laboratory/QMS → batch and seal → DMRV review → product release.</p><div className="notice">Illustrative brand architecture only. Premium RainWater cannot be sold or labelled as released until water-quality, product, packaging and applicable legal approvals are documented.</div></article>
       </section>
 \n      <section className="shell section" id="evidence">
-        <div className="section-head"><div><div className="eyebrow">THE DMRV EVIDENCE SPINE</div><h2>From activity to an auditable report.</h2></div><p>Illovediza uses the shared OMI-OJO evidence lifecycle while maintaining its own sports-specific measurable indicators, baselines and project identity.</p></div>
+        <div className="section-head"><div><div className="eyebrow">THE DMRV EVIDENCE SPINE</div><h2>From activity to an auditable report.</h2></div><p>Illovediza uses AquaDMRV as its intended shared water, harvest, quality-management, cryptographic and climate-accounting engine while maintaining its own Spanish sports, municipal product and reporting identity.</p></div>
         <div className="panel"><div className="steps">{[["01","Authorize","Project, venue, operator and monitoring scope."],["02","Collect","Timestamped source, activity and instrument records."],["03","Quality","QC, reconciliation, method and uncertainty."],["04","Package","Deterministic evidence package and version."],["05","Review","Independent decision and controlled status."],["06","Anchor","Cryptographic commitment and proof readback."],["07","Report","Municipal, provincial and national outputs."],["08","Release","Authorized publication and claim controls."]].map(s=><div className="step" key={s[0]}><small>{s[0]}</small><strong>{s[1]}</strong><span>{s[2]}</span></div>)}</div><div className="notice">A blockchain anchor establishes integrity of a recorded evidence commitment. It does not independently prove environmental truth, social impact, GHG reductions or carbon-credit issuance.</div></div>
       </section>
 
       <section className="shell section grid-two" id="reports">
-        <article className="panel"><div className="eyebrow">SPATIAL REPORTING</div><h2>One reportable view from venue to municipality.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>The R Spain observatory combines all 8,132 municipal reporting references with source-backed venue geotags, sports qualification, reportable climate factors and DMRV status. Its current Leaflet map uses OpenStreetMap and IGN-CNIG administrative boundary layers; MapLibre/Mapbox and PostGIS remain options for the next spatial upgrade.</p><div className="hierarchy"><span>National map</span><span>Regional / province</span><span>Municipal view</span><span>Sports venues</span><span>Evidence layers</span></div></article>
+        <article className="panel"><div className="eyebrow">SPATIAL REPORTING</div><h2>One reportable view from venue to municipality.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>The R Spain observatory consumes Illovediza's municipal and venue registries and will consume versioned AquaDMRV evidence for geospatial reporting. Its current Leaflet map uses OpenStreetMap and IGN-CNIG administrative boundary layers; local IGN geometry ingestion and official venue crosswalk are the next spatial gates.</p><div className="hierarchy"><span>National map</span><span>Regional / province</span><span>Municipal view</span><span>Sports venues</span><span>Evidence layers</span></div><p><a className="cta" href="/reports">OPEN MUNICIPAL REPORT CENTRE ↗</a></p></article>
         <article className="panel"><div className="eyebrow">INSTITUTIONAL OUTPUTS</div><h2>Climate finance built on qualified evidence.</h2><p style={{color:"var(--muted)",fontSize:13,lineHeight:1.8}}>Municipal reports connect measured venue activity, rainwater production, GHG inventory, social participation and governance controls. Eligible climate-finance instruments require a defined baseline, methodology, additionality where applicable, independent verification and legal/registry acceptance.</p><div className="hierarchy"><span>ESG / GHG</span><span>Social impact</span><span>Governance</span><span>Sports participation</span><span>Evidence register</span></div></article>
       </section>
 
-      <footer className="shell footer"><span>ILLOVEDIZA FUERZA · SPAIN SPORTS ESG</span><span>PROJECT ID: ILL-FUERZA-ES · MUNICIPAL RAINWATER & CLIMATE INTELLIGENCE</span><span>OMI-OJO DMRV × R GEO REPORTING</span></footer>
+      <footer className="shell footer"><span>ILLOVEDIZA FUERZA · SPAIN SPORTS ESG</span><span>PROJECT ID: ILL-FUERZA-ES · MUNICIPAL RAINWATER & CLIMATE INTELLIGENCE</span><span>AQUADMRV ASSURANCE × R GEO REPORTING</span></footer>
     </main>
   );
 }
