@@ -97,3 +97,30 @@ Candidate source pages:
 - Estadio Fernando Torres: https://mapcarta.com/W198982440
 
 The municipality code references are checked against the INE municipal-code source or its official municipal statistical tables. The batch has automated tests that enforce provenance, valid geotags, candidate-only status and the same-complex football qualification rule.
+
+
+## First official-source lead batch — 2026-11-23
+
+A separate authority-backed lead register is stored at `data/spain/venue-discovery/official-municipal-leads-2026-11-23.json`. It currently contains seven address-level leads:
+
+- Ciudad de la Raqueta, Madrid — 22 padel and 20 tennis courts; private operator; strong major-padel candidate, not a municipal facility.
+- L'Hospitalet Nord, Barcelona — official municipal complex with football 11, padel and tennis; stadium status and court counts are not established.
+- Estadio Municipal Fútbol L'Hospitalet — municipal 6,200-seat football stadium; same-complex relationship to the Nord padel facility is not established.
+- Complejo Deportivo El Casal, Grado — three padel courts, three tennis courts and football pitches in one municipal complex; major-padel threshold not established.
+- Complejo Deportivo Municipal Pedrola — two padel courts, one tennis court and football 11/7; multi-sport lead, not a major-padel qualification.
+- Poliesportiu Benimaclet, València — two padel courts, two tennis courts and football 7, managed by the municipal sports foundation.
+- Centro Deportivo Municipal Tenis Casa de Campo, Madrid — 15 tennis courts and direct Ayuntamiento management; selective tennis candidate.
+
+The official-source leads are exposed separately through `GET /api/sports-network` as `officialVenueLeads`. R displays them in an address-only source-lead panel; they are deliberately not rendered as map pins until coordinates have been cross-referenced to an OSM element and tested against the official IGN polygon. Each remains `NOT_QUALIFIED`, has no verified INE code, and has no harvest authorization.
+
+Useful ingestion commands:
+
+```bash
+# Fetch a live national OSM candidate snapshot; no municipal assignment is inferred.
+npm run discover:sports:spain
+
+# Fetch the official IGN administrative-unit geometry snapshot after confirming the current release date.
+npm run fetch:spain:ign -- --boundary-release 2026-08-18
+```
+
+The current official-lead batch and the seven-record OSM seed are different source classes and must not be deduplicated by name alone. Reconcile them using OSM identity, official address, spatial intersection, facility name variants and source evidence.
