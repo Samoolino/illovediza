@@ -71,3 +71,11 @@ Sports qualification, municipal coverage enrichment, RainWater calculations and 
 ## Product traceability update — 2026-11-23
 
 RainWater brand records now bind the municipal name and five-digit INE code, canonical venue identity, WGS84 coordinates, harvest event/time, batch, product format, evidence package ID, SHA-256 root and optional anchor network/transaction/block timestamp. An anchor never upgrades water-quality status or product release; those remain QMS and regulatory decisions. Bottle/can formats are traceability options, not a claim that production or sale has commenced.
+
+## Verification update — 2026-11-23
+
+- Illovediza CI: TypeScript typecheck, 30 unit tests, 8,132-municipality registry verification and Next.js production build passed.
+- R CI: 134 tests and map/observatory build passed after adding sport and qualification filters to the Spain map.
+- OMI-OJO CI: five JavaScript DMRV contract tests, 25 Python production tests and the Next.js web build (including the authenticated Illovediza intake route) passed.
+- RainWater label generation now requires a real Illovediza canonical evidence package whose SHA-256 root matches. An ANCHORED label status additionally requires network, transaction, block timestamp/number and an independent readback root matching the package root.
+- These tests validate software contracts. They do not establish that sports venues have been imported, rainwater has been harvested, product quality has passed, or a blockchain anchor has been submitted in production.
