@@ -1,0 +1,1689 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "05",
+  "autonomousCommunityName": "Canarias",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-35001",
+      "ineCode": "35001",
+      "name": "Agaete",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35002",
+      "ineCode": "35002",
+      "name": "Agüimes",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35020",
+      "ineCode": "35020",
+      "name": "Aldea de San Nicolás, La",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35003",
+      "ineCode": "35003",
+      "name": "Antigua",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35004",
+      "ineCode": "35004",
+      "name": "Arrecife",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35005",
+      "ineCode": "35005",
+      "name": "Artenara",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35006",
+      "ineCode": "35006",
+      "name": "Arucas",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35007",
+      "ineCode": "35007",
+      "name": "Betancuria",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35008",
+      "ineCode": "35008",
+      "name": "Firgas",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35009",
+      "ineCode": "35009",
+      "name": "Gáldar",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35010",
+      "ineCode": "35010",
+      "name": "Haría",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35011",
+      "ineCode": "35011",
+      "name": "Ingenio",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35012",
+      "ineCode": "35012",
+      "name": "Mogán",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35013",
+      "ineCode": "35013",
+      "name": "Moya",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35014",
+      "ineCode": "35014",
+      "name": "Oliva, La",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35015",
+      "ineCode": "35015",
+      "name": "Pájara",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35016",
+      "ineCode": "35016",
+      "name": "Palmas de Gran Canaria, Las",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35017",
+      "ineCode": "35017",
+      "name": "Puerto del Rosario",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35018",
+      "ineCode": "35018",
+      "name": "San Bartolomé",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35019",
+      "ineCode": "35019",
+      "name": "San Bartolomé de Tirajana",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35021",
+      "ineCode": "35021",
+      "name": "Santa Brígida",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35022",
+      "ineCode": "35022",
+      "name": "Santa Lucía de Tirajana",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35023",
+      "ineCode": "35023",
+      "name": "Santa María de Guía de Gran Canaria",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35024",
+      "ineCode": "35024",
+      "name": "Teguise",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35025",
+      "ineCode": "35025",
+      "name": "Tejeda",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35026",
+      "ineCode": "35026",
+      "name": "Telde",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35027",
+      "ineCode": "35027",
+      "name": "Teror",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35028",
+      "ineCode": "35028",
+      "name": "Tías",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35029",
+      "ineCode": "35029",
+      "name": "Tinajo",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35030",
+      "ineCode": "35030",
+      "name": "Tuineje",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35032",
+      "ineCode": "35032",
+      "name": "Valleseco",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35031",
+      "ineCode": "35031",
+      "name": "Valsequillo de Gran Canaria",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35033",
+      "ineCode": "35033",
+      "name": "Vega de San Mateo",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-35034",
+      "ineCode": "35034",
+      "name": "Yaiza",
+      "provinceCode": "35",
+      "provinceName": "Palmas, Las",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38001",
+      "ineCode": "38001",
+      "name": "Adeje",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38002",
+      "ineCode": "38002",
+      "name": "Agulo",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38003",
+      "ineCode": "38003",
+      "name": "Alajeró",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38004",
+      "ineCode": "38004",
+      "name": "Arafo",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38005",
+      "ineCode": "38005",
+      "name": "Arico",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38006",
+      "ineCode": "38006",
+      "name": "Arona",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38007",
+      "ineCode": "38007",
+      "name": "Barlovento",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38008",
+      "ineCode": "38008",
+      "name": "Breña Alta",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38009",
+      "ineCode": "38009",
+      "name": "Breña Baja",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38010",
+      "ineCode": "38010",
+      "name": "Buenavista del Norte",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38011",
+      "ineCode": "38011",
+      "name": "Candelaria",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38012",
+      "ineCode": "38012",
+      "name": "Fasnia",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38013",
+      "ineCode": "38013",
+      "name": "Frontera",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38014",
+      "ineCode": "38014",
+      "name": "Fuencaliente de la Palma",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38015",
+      "ineCode": "38015",
+      "name": "Garachico",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38016",
+      "ineCode": "38016",
+      "name": "Garafía",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38017",
+      "ineCode": "38017",
+      "name": "Granadilla de Abona",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38018",
+      "ineCode": "38018",
+      "name": "Guancha, La",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38019",
+      "ineCode": "38019",
+      "name": "Guía de Isora",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38020",
+      "ineCode": "38020",
+      "name": "Güímar",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38021",
+      "ineCode": "38021",
+      "name": "Hermigua",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38022",
+      "ineCode": "38022",
+      "name": "Icod de los Vinos",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38024",
+      "ineCode": "38024",
+      "name": "Llanos de Aridane, Los",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38025",
+      "ineCode": "38025",
+      "name": "Matanza de Acentejo, La",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38026",
+      "ineCode": "38026",
+      "name": "Orotava, La",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38027",
+      "ineCode": "38027",
+      "name": "Paso, El",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38901",
+      "ineCode": "38901",
+      "name": "Pinar de El Hierro, El",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38028",
+      "ineCode": "38028",
+      "name": "Puerto de la Cruz",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38029",
+      "ineCode": "38029",
+      "name": "Puntagorda",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38030",
+      "ineCode": "38030",
+      "name": "Puntallana",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38031",
+      "ineCode": "38031",
+      "name": "Realejos, Los",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38032",
+      "ineCode": "38032",
+      "name": "Rosario, El",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38033",
+      "ineCode": "38033",
+      "name": "San Andrés y Sauces",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38023",
+      "ineCode": "38023",
+      "name": "San Cristóbal de La Laguna",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38034",
+      "ineCode": "38034",
+      "name": "San Juan de la Rambla",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38035",
+      "ineCode": "38035",
+      "name": "San Miguel de Abona",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38036",
+      "ineCode": "38036",
+      "name": "San Sebastián de la Gomera",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38037",
+      "ineCode": "38037",
+      "name": "Santa Cruz de la Palma",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38038",
+      "ineCode": "38038",
+      "name": "Santa Cruz de Tenerife",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38039",
+      "ineCode": "38039",
+      "name": "Santa Úrsula",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38040",
+      "ineCode": "38040",
+      "name": "Santiago del Teide",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38041",
+      "ineCode": "38041",
+      "name": "Sauzal, El",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38042",
+      "ineCode": "38042",
+      "name": "Silos, Los",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38043",
+      "ineCode": "38043",
+      "name": "Tacoronte",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38044",
+      "ineCode": "38044",
+      "name": "Tanque, El",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38045",
+      "ineCode": "38045",
+      "name": "Tazacorte",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38046",
+      "ineCode": "38046",
+      "name": "Tegueste",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38047",
+      "ineCode": "38047",
+      "name": "Tijarafe",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38049",
+      "ineCode": "38049",
+      "name": "Valle Gran Rey",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38050",
+      "ineCode": "38050",
+      "name": "Vallehermoso",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38048",
+      "ineCode": "38048",
+      "name": "Valverde",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38051",
+      "ineCode": "38051",
+      "name": "Victoria de Acentejo, La",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38052",
+      "ineCode": "38052",
+      "name": "Vilaflor de Chasna",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-38053",
+      "ineCode": "38053",
+      "name": "Villa de Mazo",
+      "provinceCode": "38",
+      "provinceName": "Santa Cruz de Tenerife",
+      "autonomousCommunityCode": "05",
+      "autonomousCommunityName": "Canarias",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
