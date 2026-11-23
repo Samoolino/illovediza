@@ -31,13 +31,13 @@ The former page establishes 17+2 autonomous communities/cities, 50 provinces and
 - [x] Target repository is confirmed empty before bootstrap.
 - [x] Product identity and target architecture documented.
 - [x] Sports node, territorial and DMRV boundaries documented.
-- [x] Initial source inventory identified the legacy page, five project documents and four project configuration files.
-- [x] Migrated five project documents and four configuration files; built a standalone landing-page composition. Full asset/component inventory remains open.
-- [x] Create standalone Next.js app shell, product landing page and CI build workflow (runtime build result not yet verified).
-- [x] Added OMI-OJO project registration and shared DMRV integration contract; legacy route retained pending deployment.
-- [ ] Implement and test R integration against verified versioned interfaces.
-- [x] Import the 8,132-record 2026 INE-code municipal reference registry, partitioned across 19 autonomous communities/cities; add deterministic count/uniqueness CI. [ ] Official IGN geometry ingestion and geometry/licence QA remain pending.
-- [ ] End-to-end evidence, anchor readback and report acceptance.
+- [x] Full OMI-OJO path inventory identified the legacy page, five project documents, four project configurations, the project registry entry and shared DMRV references.
+- [x] Migrated five project documents and four project configurations; archived the original OMI-OJO page source and replaced it with a standalone product frontend. No separate legacy image assets were found in the source route.
+- [x] Standalone Next.js app, product landing page, municipal API, sports API and CI build/typecheck/registry tests pass.
+- [x] Added OMI-OJO project registration, local package compatibility adapter and shared DMRV contract tests; legacy route retained pending an approved redirect.
+- [x] R map service, API proxy, IGN administrative boundary WMS overlay and reportable-factor view are deployed; server-to-server protected API request is verified.
+- [x] Import and CI-validate 8,132 unique 2026 INE-code municipal references across 19 autonomous communities/cities. Official local IGN geometry extract, topology/licence QA and spatial venue crosswalk remain pending.
+- [ ] Import and qualify actual sports venues from official municipal directories and OSM; populate geotags and shared-complex evidence.\n- [ ] Implement authenticated durable evidence persistence and a deployed OMI-OJO runtime service connection.\n- [ ] Physical RainWater field pilot, custody/QMS, batch/seal, product release and independent anchor readback.
 
 No source files have been deleted from OMI-OJO as part of this bootstrap. This is intentional: a safe migration must not strand the existing route or lose project content.
 
@@ -48,4 +48,16 @@ The Spain product is a municipal climate-product enhancer, not a generic sports 
 
 The municipal sports facility may become a Premium RainWater host only after site permission and physical installation. Bottle/can branding can reference the municipality and Polideportivo/sports-complex, with batch, harvest timestamp, venue coordinates and evidence root. Product quality, release, GHG reductions and carbon-credit issuance remain separate evidence and approval gates.
 
-R integration now includes `/api/illovediza/network`, `/api/illovediza/reporting-factors` and `/illovediza-spain-map.html`. The R deployment still needs `ILLOVEDIZA_API_BASE_URL` (and optional `ILLOVEDIZA_API_TOKEN`) configured before the live map can load the Illovediza API.
+R integration includes `/api/illovediza/network` and `/illovediza-spain-map.html`; the network response bundles the reportable-factor registry. The R production deployment has `ILLOVEDIZA_API_BASE_URL` and `ILLOVEDIZA_API_BYPASS_SECRET` configured, and a protected service-to-service request has been verified. The R serverless function count was consolidated to 12 to remain within the Vercel Hobby limit.
+
+
+## Deployment references
+
+- Illovediza production: https://illovediza-fuerza.vercel.app
+- R Spain observatory: https://r-global-climate.vercel.app/illovediza-spain-map.html
+- R integration endpoint: https://r-global-climate.vercel.app/api/illovediza/network
+- Illovediza municipal API: https://illovediza-fuerza.vercel.app/api/municipalities?limit=10000
+
+## DMRV integration boundary
+
+Illovediza's TypeScript package generator passes the OMI-OJO Python canonical SHA-256 test vector. OMI-OJO's local adapter validates the project namespace and package root. There is not yet an authenticated deployed OMI-OJO HTTP service or durable cross-repository evidence store; the contract adapter must not be described as a live backend submission.
