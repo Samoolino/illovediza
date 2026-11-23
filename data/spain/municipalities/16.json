@@ -1,0 +1,4805 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "16",
+  "autonomousCommunityName": "País Vasco",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-01051",
+      "ineCode": "01051",
+      "name": "Agurain/Salvatierra",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01001",
+      "ineCode": "01001",
+      "name": "Alegría-Dulantzi",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01002",
+      "ineCode": "01002",
+      "name": "Amurrio",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01049",
+      "ineCode": "01049",
+      "name": "Añana",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01003",
+      "ineCode": "01003",
+      "name": "Aramaio",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01006",
+      "ineCode": "01006",
+      "name": "Armiñón",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01037",
+      "ineCode": "01037",
+      "name": "Arraia-Maeztu",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01008",
+      "ineCode": "01008",
+      "name": "Arratzua-Ubarrundia",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01004",
+      "ineCode": "01004",
+      "name": "Artziniega",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01009",
+      "ineCode": "01009",
+      "name": "Asparrena",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01010",
+      "ineCode": "01010",
+      "name": "Ayala/Aiara",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01011",
+      "ineCode": "01011",
+      "name": "Baños de Ebro/Mañueta",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01013",
+      "ineCode": "01013",
+      "name": "Barrundia",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01014",
+      "ineCode": "01014",
+      "name": "Berantevilla",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01016",
+      "ineCode": "01016",
+      "name": "Bernedo",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01017",
+      "ineCode": "01017",
+      "name": "Campezo/Kanpezu",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01021",
+      "ineCode": "01021",
+      "name": "Elburgo/Burgelu",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01022",
+      "ineCode": "01022",
+      "name": "Elciego",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01023",
+      "ineCode": "01023",
+      "name": "Elvillar/Bilar",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01046",
+      "ineCode": "01046",
+      "name": "Erriberagoitia/Ribera Alta",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01056",
+      "ineCode": "01056",
+      "name": "Harana/Valle de Arana",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01901",
+      "ineCode": "01901",
+      "name": "Iruña Oka/Iruña de Oca",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01027",
+      "ineCode": "01027",
+      "name": "Iruraiz-Gauna",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01019",
+      "ineCode": "01019",
+      "name": "Kripan",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01020",
+      "ineCode": "01020",
+      "name": "Kuartango",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01028",
+      "ineCode": "01028",
+      "name": "Labastida/Bastida",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01030",
+      "ineCode": "01030",
+      "name": "Lagrán",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01031",
+      "ineCode": "01031",
+      "name": "Laguardia",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01032",
+      "ineCode": "01032",
+      "name": "Lanciego/Lantziego",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01902",
+      "ineCode": "01902",
+      "name": "Lantarón",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01033",
+      "ineCode": "01033",
+      "name": "Lapuebla de Labarca",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01036",
+      "ineCode": "01036",
+      "name": "Laudio/Llodio",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01058",
+      "ineCode": "01058",
+      "name": "Legutio",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01034",
+      "ineCode": "01034",
+      "name": "Leza",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01039",
+      "ineCode": "01039",
+      "name": "Moreda de Álava/Moreda Araba",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01041",
+      "ineCode": "01041",
+      "name": "Navaridas",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01042",
+      "ineCode": "01042",
+      "name": "Okondo",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01043",
+      "ineCode": "01043",
+      "name": "Oyón-Oion",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01044",
+      "ineCode": "01044",
+      "name": "Peñacerrada-Urizaharra",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01047",
+      "ineCode": "01047",
+      "name": "Ribera Baja/Erriberabeitia",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01052",
+      "ineCode": "01052",
+      "name": "Samaniego",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01053",
+      "ineCode": "01053",
+      "name": "San Millán/Donemiliaga",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01054",
+      "ineCode": "01054",
+      "name": "Urkabustaiz",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01055",
+      "ineCode": "01055",
+      "name": "Valdegovía/Gaubea",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01057",
+      "ineCode": "01057",
+      "name": "Villabuena de Álava/Eskuernaga",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01059",
+      "ineCode": "01059",
+      "name": "Vitoria-Gasteiz",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01060",
+      "ineCode": "01060",
+      "name": "Yécora/Iekora",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01061",
+      "ineCode": "01061",
+      "name": "Zalduondo",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01062",
+      "ineCode": "01062",
+      "name": "Zambrana",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01018",
+      "ineCode": "01018",
+      "name": "Zigoitia",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-01063",
+      "ineCode": "01063",
+      "name": "Zuia",
+      "provinceCode": "01",
+      "provinceName": "Araba/Álava",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20001",
+      "ineCode": "20001",
+      "name": "Abaltzisketa",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20002",
+      "ineCode": "20002",
+      "name": "Aduna",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20016",
+      "ineCode": "20016",
+      "name": "Aia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20003",
+      "ineCode": "20003",
+      "name": "Aizarnazabal",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20004",
+      "ineCode": "20004",
+      "name": "Albiztur",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20005",
+      "ineCode": "20005",
+      "name": "Alegia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20006",
+      "ineCode": "20006",
+      "name": "Alkiza",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20906",
+      "ineCode": "20906",
+      "name": "Altzaga",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20007",
+      "ineCode": "20007",
+      "name": "Altzo",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20008",
+      "ineCode": "20008",
+      "name": "Amezketa",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20009",
+      "ineCode": "20009",
+      "name": "Andoain",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20010",
+      "ineCode": "20010",
+      "name": "Anoeta",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20011",
+      "ineCode": "20011",
+      "name": "Antzuola",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20012",
+      "ineCode": "20012",
+      "name": "Arama",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20013",
+      "ineCode": "20013",
+      "name": "Aretxabaleta",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20055",
+      "ineCode": "20055",
+      "name": "Arrasate/Mondragón",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20014",
+      "ineCode": "20014",
+      "name": "Asteasu",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20903",
+      "ineCode": "20903",
+      "name": "Astigarraga",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20015",
+      "ineCode": "20015",
+      "name": "Ataun",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20017",
+      "ineCode": "20017",
+      "name": "Azkoitia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20018",
+      "ineCode": "20018",
+      "name": "Azpeitia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20904",
+      "ineCode": "20904",
+      "name": "Baliarrain",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20019",
+      "ineCode": "20019",
+      "name": "Beasain",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20020",
+      "ineCode": "20020",
+      "name": "Beizama",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20021",
+      "ineCode": "20021",
+      "name": "Belauntza",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20022",
+      "ineCode": "20022",
+      "name": "Berastegi",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20074",
+      "ineCode": "20074",
+      "name": "Bergara",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20023",
+      "ineCode": "20023",
+      "name": "Berrobi",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20024",
+      "ineCode": "20024",
+      "name": "Bidania-Goiatz",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20029",
+      "ineCode": "20029",
+      "name": "Deba",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20069",
+      "ineCode": "20069",
+      "name": "Donostia/San Sebastián",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20030",
+      "ineCode": "20030",
+      "name": "Eibar",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20031",
+      "ineCode": "20031",
+      "name": "Elduain",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20033",
+      "ineCode": "20033",
+      "name": "Elgeta",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20032",
+      "ineCode": "20032",
+      "name": "Elgoibar",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20067",
+      "ineCode": "20067",
+      "name": "Errenteria",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20066",
+      "ineCode": "20066",
+      "name": "Errezil",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20034",
+      "ineCode": "20034",
+      "name": "Eskoriatza",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20035",
+      "ineCode": "20035",
+      "name": "Ezkio-Itsaso",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20038",
+      "ineCode": "20038",
+      "name": "Gabiria",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20037",
+      "ineCode": "20037",
+      "name": "Gaintza",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20907",
+      "ineCode": "20907",
+      "name": "Gaztelu",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20039",
+      "ineCode": "20039",
+      "name": "Getaria",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20040",
+      "ineCode": "20040",
+      "name": "Hernani",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20041",
+      "ineCode": "20041",
+      "name": "Hernialde",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20036",
+      "ineCode": "20036",
+      "name": "Hondarribia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20042",
+      "ineCode": "20042",
+      "name": "Ibarra",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20043",
+      "ineCode": "20043",
+      "name": "Idiazabal",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20044",
+      "ineCode": "20044",
+      "name": "Ikaztegieta",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20045",
+      "ineCode": "20045",
+      "name": "Irun",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20046",
+      "ineCode": "20046",
+      "name": "Irura",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20047",
+      "ineCode": "20047",
+      "name": "Itsasondo",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20048",
+      "ineCode": "20048",
+      "name": "Larraul",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20902",
+      "ineCode": "20902",
+      "name": "Lasarte-Oria",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20049",
+      "ineCode": "20049",
+      "name": "Lazkao",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20050",
+      "ineCode": "20050",
+      "name": "Leaburu",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20051",
+      "ineCode": "20051",
+      "name": "Legazpi",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20052",
+      "ineCode": "20052",
+      "name": "Legorreta",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20068",
+      "ineCode": "20068",
+      "name": "Leintz-Gatzaga",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20053",
+      "ineCode": "20053",
+      "name": "Lezo",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20054",
+      "ineCode": "20054",
+      "name": "Lizartza",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20901",
+      "ineCode": "20901",
+      "name": "Mendaro",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20057",
+      "ineCode": "20057",
+      "name": "Mutiloa",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20056",
+      "ineCode": "20056",
+      "name": "Mutriku",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20063",
+      "ineCode": "20063",
+      "name": "Oiartzun",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20058",
+      "ineCode": "20058",
+      "name": "Olaberria",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20059",
+      "ineCode": "20059",
+      "name": "Oñati",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20076",
+      "ineCode": "20076",
+      "name": "Ordizia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20905",
+      "ineCode": "20905",
+      "name": "Orendain",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20060",
+      "ineCode": "20060",
+      "name": "Orexa",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20061",
+      "ineCode": "20061",
+      "name": "Orio",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20062",
+      "ineCode": "20062",
+      "name": "Ormaiztegi",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20064",
+      "ineCode": "20064",
+      "name": "Pasaia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20070",
+      "ineCode": "20070",
+      "name": "Segura",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20065",
+      "ineCode": "20065",
+      "name": "Soraluze-Placencia de las Armas",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20071",
+      "ineCode": "20071",
+      "name": "Tolosa",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20072",
+      "ineCode": "20072",
+      "name": "Urnieta",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20077",
+      "ineCode": "20077",
+      "name": "Urretxu",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20073",
+      "ineCode": "20073",
+      "name": "Usurbil",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20075",
+      "ineCode": "20075",
+      "name": "Villabona",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20078",
+      "ineCode": "20078",
+      "name": "Zaldibia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20079",
+      "ineCode": "20079",
+      "name": "Zarautz",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20025",
+      "ineCode": "20025",
+      "name": "Zegama",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20026",
+      "ineCode": "20026",
+      "name": "Zerain",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20027",
+      "ineCode": "20027",
+      "name": "Zestoa",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20028",
+      "ineCode": "20028",
+      "name": "Zizurkil",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20081",
+      "ineCode": "20081",
+      "name": "Zumaia",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-20080",
+      "ineCode": "20080",
+      "name": "Zumarraga",
+      "provinceCode": "20",
+      "provinceName": "Gipuzkoa",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48001",
+      "ineCode": "48001",
+      "name": "Abadiño",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48002",
+      "ineCode": "48002",
+      "name": "Abanto y Ciérvana-Abanto Zierbena",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48911",
+      "ineCode": "48911",
+      "name": "Ajangiz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48912",
+      "ineCode": "48912",
+      "name": "Alonsotegi",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48003",
+      "ineCode": "48003",
+      "name": "Amorebieta-Etxano",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48004",
+      "ineCode": "48004",
+      "name": "Amoroto",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48005",
+      "ineCode": "48005",
+      "name": "Arakaldo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48006",
+      "ineCode": "48006",
+      "name": "Arantzazu",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48093",
+      "ineCode": "48093",
+      "name": "Areatza",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48009",
+      "ineCode": "48009",
+      "name": "Arrankudiaga-Zollo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48914",
+      "ineCode": "48914",
+      "name": "Arratzu",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48010",
+      "ineCode": "48010",
+      "name": "Arrieta",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48011",
+      "ineCode": "48011",
+      "name": "Arrigorriaga",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48023",
+      "ineCode": "48023",
+      "name": "Artea",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48008",
+      "ineCode": "48008",
+      "name": "Artzentales",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48091",
+      "ineCode": "48091",
+      "name": "Atxondo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48070",
+      "ineCode": "48070",
+      "name": "Aulesti",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48012",
+      "ineCode": "48012",
+      "name": "Bakio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48090",
+      "ineCode": "48090",
+      "name": "Balmaseda",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48013",
+      "ineCode": "48013",
+      "name": "Barakaldo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48014",
+      "ineCode": "48014",
+      "name": "Barrika",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48015",
+      "ineCode": "48015",
+      "name": "Basauri",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48092",
+      "ineCode": "48092",
+      "name": "Bedia",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48016",
+      "ineCode": "48016",
+      "name": "Berango",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48017",
+      "ineCode": "48017",
+      "name": "Bermeo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48018",
+      "ineCode": "48018",
+      "name": "Berriatua",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48019",
+      "ineCode": "48019",
+      "name": "Berriz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48020",
+      "ineCode": "48020",
+      "name": "Bilbao",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48021",
+      "ineCode": "48021",
+      "name": "Busturia",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48901",
+      "ineCode": "48901",
+      "name": "Derio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48026",
+      "ineCode": "48026",
+      "name": "Dima",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48027",
+      "ineCode": "48027",
+      "name": "Durango",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48028",
+      "ineCode": "48028",
+      "name": "Ea",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48031",
+      "ineCode": "48031",
+      "name": "Elantxobe",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48032",
+      "ineCode": "48032",
+      "name": "Elorrio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48902",
+      "ineCode": "48902",
+      "name": "Erandio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48033",
+      "ineCode": "48033",
+      "name": "Ereño",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48034",
+      "ineCode": "48034",
+      "name": "Ermua",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48079",
+      "ineCode": "48079",
+      "name": "Errigoiti",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48029",
+      "ineCode": "48029",
+      "name": "Etxebarri",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48030",
+      "ineCode": "48030",
+      "name": "Etxebarria",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48906",
+      "ineCode": "48906",
+      "name": "Forua",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48035",
+      "ineCode": "48035",
+      "name": "Fruiz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48036",
+      "ineCode": "48036",
+      "name": "Galdakao",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48037",
+      "ineCode": "48037",
+      "name": "Galdames",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48038",
+      "ineCode": "48038",
+      "name": "Gamiz-Fika",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48039",
+      "ineCode": "48039",
+      "name": "Garai",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48040",
+      "ineCode": "48040",
+      "name": "Gatika",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48041",
+      "ineCode": "48041",
+      "name": "Gautegiz Arteaga",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48046",
+      "ineCode": "48046",
+      "name": "Gernika-Lumo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48044",
+      "ineCode": "48044",
+      "name": "Getxo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48047",
+      "ineCode": "48047",
+      "name": "Gizaburuaga",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48042",
+      "ineCode": "48042",
+      "name": "Gordexola",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48043",
+      "ineCode": "48043",
+      "name": "Gorliz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48045",
+      "ineCode": "48045",
+      "name": "Güeñes",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48048",
+      "ineCode": "48048",
+      "name": "Ibarrangelu",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48094",
+      "ineCode": "48094",
+      "name": "Igorre",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48049",
+      "ineCode": "48049",
+      "name": "Ispaster",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48910",
+      "ineCode": "48910",
+      "name": "Iurreta",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48050",
+      "ineCode": "48050",
+      "name": "Izurtza",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48022",
+      "ineCode": "48022",
+      "name": "Karrantza Harana/Valle de Carranza",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48907",
+      "ineCode": "48907",
+      "name": "Kortezubi",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48051",
+      "ineCode": "48051",
+      "name": "Lanestosa",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48052",
+      "ineCode": "48052",
+      "name": "Larrabetzu",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48053",
+      "ineCode": "48053",
+      "name": "Laukiz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48054",
+      "ineCode": "48054",
+      "name": "Leioa",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48057",
+      "ineCode": "48057",
+      "name": "Lekeitio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48055",
+      "ineCode": "48055",
+      "name": "Lemoa",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48056",
+      "ineCode": "48056",
+      "name": "Lemoiz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48081",
+      "ineCode": "48081",
+      "name": "Lezama",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48903",
+      "ineCode": "48903",
+      "name": "Loiu",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48058",
+      "ineCode": "48058",
+      "name": "Mallabia",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48059",
+      "ineCode": "48059",
+      "name": "Mañaria",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48060",
+      "ineCode": "48060",
+      "name": "Markina-Xemein",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48061",
+      "ineCode": "48061",
+      "name": "Maruri-Jatabe",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48062",
+      "ineCode": "48062",
+      "name": "Mendata",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48063",
+      "ineCode": "48063",
+      "name": "Mendexa",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48064",
+      "ineCode": "48064",
+      "name": "Meñaka",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48066",
+      "ineCode": "48066",
+      "name": "Morga",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48068",
+      "ineCode": "48068",
+      "name": "Mundaka",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48069",
+      "ineCode": "48069",
+      "name": "Mungia",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48007",
+      "ineCode": "48007",
+      "name": "Munitibar-Arbatzegi Gerrikaitz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48908",
+      "ineCode": "48908",
+      "name": "Murueta",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48071",
+      "ineCode": "48071",
+      "name": "Muskiz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48067",
+      "ineCode": "48067",
+      "name": "Muxika",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48909",
+      "ineCode": "48909",
+      "name": "Nabarniz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48073",
+      "ineCode": "48073",
+      "name": "Ondarroa",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48075",
+      "ineCode": "48075",
+      "name": "Orozko",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48083",
+      "ineCode": "48083",
+      "name": "Ortuella",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48072",
+      "ineCode": "48072",
+      "name": "Otxandio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48077",
+      "ineCode": "48077",
+      "name": "Plentzia",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48078",
+      "ineCode": "48078",
+      "name": "Portugalete",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48082",
+      "ineCode": "48082",
+      "name": "Santurtzi",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48084",
+      "ineCode": "48084",
+      "name": "Sestao",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48904",
+      "ineCode": "48904",
+      "name": "Sondika",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48085",
+      "ineCode": "48085",
+      "name": "Sopela",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48086",
+      "ineCode": "48086",
+      "name": "Sopuerta",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48076",
+      "ineCode": "48076",
+      "name": "Sukarrieta",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48087",
+      "ineCode": "48087",
+      "name": "Trucios-Turtzioz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48088",
+      "ineCode": "48088",
+      "name": "Ubide",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48065",
+      "ineCode": "48065",
+      "name": "Ugao-Miraballes",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48089",
+      "ineCode": "48089",
+      "name": "Urduliz",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48074",
+      "ineCode": "48074",
+      "name": "Urduña/Orduña",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48916",
+      "ineCode": "48916",
+      "name": "Usansolo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48080",
+      "ineCode": "48080",
+      "name": "Valle de Trápaga-Trapagaran",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48095",
+      "ineCode": "48095",
+      "name": "Zaldibar",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48096",
+      "ineCode": "48096",
+      "name": "Zalla",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48905",
+      "ineCode": "48905",
+      "name": "Zamudio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48097",
+      "ineCode": "48097",
+      "name": "Zaratamo",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48024",
+      "ineCode": "48024",
+      "name": "Zeanuri",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48025",
+      "ineCode": "48025",
+      "name": "Zeberio",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48913",
+      "ineCode": "48913",
+      "name": "Zierbena",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-48915",
+      "ineCode": "48915",
+      "name": "Ziortza-Bolibar",
+      "provinceCode": "48",
+      "provinceName": "Bizkaia",
+      "autonomousCommunityCode": "16",
+      "autonomousCommunityName": "País Vasco",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
