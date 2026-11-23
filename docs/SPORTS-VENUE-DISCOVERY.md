@@ -11,7 +11,7 @@ Primary anchors:
 
 ## Source discovery
 
-OpenStreetMap is an open discovery source, not a municipal authority or partnership register. Use Overpass exports in manageable regional/provincial batches rather than one unbounded national request. Example query for a bounded Spain area:
+OpenStreetMap is an open discovery source, not a municipal authority or partnership register. Use Overpass exports in manageable regional/provincial batches rather than one unbounded national request. The reusable national discovery query is stored at `data/spain/venue-discovery/spain-sports-overpass.ql`; execute it in manageable regional/provincial partitions to avoid timeout and endpoint load. The query is a starting filter, not a complete national inventory. Example query:
 
 ```overpass
 [out:json][timeout:180];
@@ -71,3 +71,29 @@ Retain OpenStreetMap attribution and assess ODbL obligations before redistributi
 `DISCOVERED → SOURCE_CHECKED → SIGNIFICANCE_REVIEW → MUNICIPAL_CROSSWALKED → OPERATOR_CONFIRMED → PERMISSION_PENDING → AUTHORIZED → COMMISSIONED`.
 
 Only source-checked/crosswalked records should appear as candidate map pins. Only qualified records count toward the programme's major padel, combined football-stadium or selective tennis metrics. Only authorized and commissioned nodes can be represented as physical measurement/harvest installations.
+
+
+## First discovery batch — 23 November 2026
+
+The initial review seed is stored at `data/spain/sports-venues.discovery-batch-2026-11-23.json`.
+
+- 2 padel candidates: Zaragoza and Huércal-Overa.
+- 5 football stadium candidates: Sevilla, Bilbao, A Coruña, León and Fuenlabrada.
+- 0 tennis candidates in this first seed.
+- 0 qualified venues.
+- 0 confirmed same-complex major-padel/football pairs.
+
+These seven records were identified from OSM-backed Mapcarta discovery pages exposing OSM element IDs and coordinates. They are a **secondary discovery seed**, not a completed primary OSM API/Overpass extraction. The source element, tags, geometry and current status must be re-fetched from OpenStreetMap before production ingestion. Municipality codes are linked to the INE municipal reference; the official IGN polygon crosswalk is still pending.
+
+The two padel entries are not yet proven to be major venues. The five football stadiums are not eligible municipal anchors unless the same sports complex also contains a separately qualified major padel anchor. Municipal ownership/management, venue operator, court count, significance, permission and harvesting suitability remain unverified. They must not be copied into `data/spain/sports-venues.json` as active or qualified venues.
+
+Candidate source pages:
+- Zaragoza padel: https://mapcarta.com/es/N5615325321
+- Huércal-Overa padel: https://mapcarta.com/es/W1145637290
+- Estadio Benito Villamarín: https://mapcarta.com/W28355046
+- San Mamés: https://mapcarta.com/W59171758
+- Estadio Municipal de Riazor: https://mapcarta.com/W34237293
+- Estadio Reino de León: https://mapcarta.com/32915216
+- Estadio Fernando Torres: https://mapcarta.com/W198982440
+
+The municipality code references are checked against the INE municipal-code source or its official municipal statistical tables. The batch has automated tests that enforce provenance, valid geotags, candidate-only status and the same-complex football qualification rule.
