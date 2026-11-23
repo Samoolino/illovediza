@@ -272,7 +272,11 @@
       "transactionHash",
       "blockTimestamp",
       "dmrvStatus",
-      "productReleaseStatus"
+      "productReleaseStatus",
+      "blockNumber",
+      "verificationStatus",
+      "readbackRoot",
+      "verificationUrl"
     ],
     "productFormats": [
       "BOTTLE",
@@ -280,7 +284,8 @@
     ],
     "releaseGate": "Do not print Premium/verified/product-release claims until QMS, batch, seal, review and applicable legal/product approvals pass.",
     "timestampPolicy": "Store harvest timestamp, evidence-package creation timestamp and blockchain block timestamp as separate fields; never substitute one for another.",
-    "anchorPolicy": "If anchorStatus is ANCHORED, include network ID, transaction hash, block number and block timestamp. An anchor does not approve water quality or product release."
+    "anchorPolicy": "If anchorStatus is ANCHORED, include network ID, transaction hash, block number and block timestamp, plus an independent readback whose root exactly matches the package SHA-256 root. An anchor does not approve water quality or product release.",
+    "qrLinkPolicy": "A QR verification link may be added only when it resolves to an authorized public batch record; never expose private telemetry, personal data or sensitive site coordinates."
   },
   "financeBoundary": {
     "municipalCarbonFinance": "Potential municipal climate-finance opportunities must be quantified from eligible, additional, measured and independently verified activities under an applicable methodology.",
