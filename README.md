@@ -2,7 +2,7 @@
 
 **Product:** Spain Sports ESG, Territorial Intelligence & Digital MRV Platform  
 **Home repository:** `Samoolino/illovediza`  
-**Parent evidence infrastructure:** [OMI-OJO](https://github.com/Samoolino/OMI-OJO)  
+**Shared water/harvest/QMS/cryptographic DMRV engine:** [AquaDMRV](https://github.com/Samoolino/AquaDMRV) (repository access pending)  
 **Geospatial/reporting platform:** [R](https://github.com/Samoolino/R)
 
 Illovediza Fuerza is a Spain-wide **municipal climate-product enhancer**. Major padel courts and qualifying municipal football stadiums are its primary physical engagement anchors; significant Ayuntamiento-managed tennis venues in selected Polideportivos are a selective extension. Authorized sports complexes can host monitored rainwater catchments and, after physical quality and regulatory approval, municipal-branded Premium RainWater products.
@@ -44,7 +44,7 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 ## Repository boundaries
 
 - This repository owns Illovediza's product identity, Spain sports registry, sports-specific indicators, project UI, Spain project reports and its DMRV project profile.
-- OMI-OJO owns the shared evidence lifecycle, common DMRV contracts, assurance controls and cross-project governance.
+- AquaDMRV is the intended shared water/harvest evidence, QMS, cryptographic and climate-accounting engine. OMI-OJO remains a related evidence/governance platform, but Illovediza's water-specific DMRV runtime must be aligned to AquaDMRV's actual versioned contracts.
 - R owns reusable geospatial discovery, climate/map reporting services and spatial visualization adapters.
 - Repositories integrate through versioned APIs and contracts; they do not merge their unrelated product identities or copy one project's evidence into another.
 
