@@ -30,7 +30,7 @@ async function expectedMunicipalityCodes() {
 
 async function main() {
   const boundaryRelease = arg('--boundary-release');
-  if (!/^\\d{4}-\\d{2}-\\d{2}$/.test(String(boundaryRelease || ''))) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(String(boundaryRelease || ''))) {
     throw new Error('Supply --boundary-release using the release date verified from IGN/CNIG metadata.');
   }
   const pageSize = Number(arg('--page-size') || 1000);
