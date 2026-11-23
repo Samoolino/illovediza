@@ -74,6 +74,26 @@ async function main() {
     console.log(`Fetched ${allFeatures.length} administrative-unit features across ${pages.length} page(s)`);
   }
 
+  await mkdir(outputDir, { recursive: true });
+  const rawPath = resolve(outputDir, 'ign-administrativeunit-raw-pages.json');
+  const diagnosticPath = resolve(outputDir, 'ign-feature-schema-diagnostic.json');
+  await writeFile(rawPath, JSON.stringify({
+    sourceService: 'https://api-features.ign.es/collections/administrativeunit/items',
+    retrievedAt,
+    pages
+  }, null, 2) + '\\n');
+  const diagnostic = {
+    featureCount: allFeatures.length,
+    samplePropertyKeys: [...new Set(allFeatures.slice(0, 50).flatMap(feature => Object.keys(feature.properties || {})))].sort(),
+    sampleFeatures: allFeatures.slice(0, 3).map(feature => ({
+      id: feature.id,
+      properties: feature.properties,
+      geometryType: feature.geometry?.type
+    }))
+  };
+  await writeFile(diagnosticPath, JSON.stringify(diagnostic, null, 2) + '\\n');
+  console.log('IGN_FEATURE_SCHEMA_DIAGNOSTIC ' + JSON.stringify(diagnostic));
+
   const rawCollection = { type: 'FeatureCollection', features: allFeatures };
   const extracted = extractSpainMunicipalFeaturesFromIgn(rawCollection, { expectedCodes });
   if (extracted.missingMunicipalityCodes.length) {
