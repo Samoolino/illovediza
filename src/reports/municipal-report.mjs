@@ -7,7 +7,10 @@ export function buildMunicipalReportEnvelope({
   generatedAt = new Date().toISOString(),
   aquaDmrVStatus = 'NOT_CONNECTED',
   geometryStatus = 'NOT_LOADED',
-  activeVenueCount = 0
+  activeVenueCount = 0,
+  osmDiscoveryCandidateCount = 0,
+  officialVenueLeadCount = 0,
+  spatialCrosswalkStatus = 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED'
 } = {}) {
   if (!municipality || !/^\d{5}$/.test(String(municipality.ineCode || '')) || !nonEmpty(municipality.name)) {
     throw new Error('A valid five-digit INE municipality identity is required');
@@ -18,8 +21,11 @@ export function buildMunicipalReportEnvelope({
   if (!['NOT_CONNECTED', 'CONNECTED', 'DEGRADED', 'ERROR'].includes(aquaDmrVStatus)) {
     throw new Error('invalid AquaDMRV connection state');
   }
-  if (!Number.isSafeInteger(activeVenueCount) || activeVenueCount < 0) {
-    throw new Error('activeVenueCount must be a non-negative integer');
+  for (const [field, value] of Object.entries({ activeVenueCount, osmDiscoveryCandidateCount, officialVenueLeadCount })) {
+    if (!Number.isSafeInteger(value) || value < 0) throw new Error(`${field} must be a non-negative integer`);
+  }
+  if (!['NOT_LOADED', 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED', 'VERIFIED_IGN_POINT_IN_POLYGON'].includes(spatialCrosswalkStatus)) {
+    throw new Error('invalid spatialCrosswalkStatus');
   }
 
   const report = buildMunicipalClimateProductReport({
@@ -50,6 +56,9 @@ export function buildMunicipalReportEnvelope({
       aquaDmrV: aquaDmrVStatus,
       geometry: geometryStatus,
       activeVenueCount,
+      osmDiscoveryCandidatesProvisional: osmDiscoveryCandidateCount,
+      officialSourceLeadsAddressOnly: officialVenueLeadCount,
+      spatialCrosswalk: spatialCrosswalkStatus,
       physicalHarvestEvidence: 'NOT_CONNECTED',
       laboratoryAndQms: 'NOT_CONNECTED',
       cryptographicAnchor: 'NOT_CONNECTED',
