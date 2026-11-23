@@ -46,7 +46,7 @@ test('rejects harvest event when measured meter volume does not reconcile', () =
 
 test('does not treat forecast rainfall or calculated potential as physical harvest', () => {
   const input = event();
-  input.eventType = 'RAINFALL_FORECAST';
+  input.payload.rainfallEvidenceType = 'FORECAST';
   assert.throws(() => buildIllovedizaAquaEvent(input), /must not be submitted as a measured harvest/);
 });
 
