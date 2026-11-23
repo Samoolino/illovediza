@@ -38,7 +38,7 @@ export default function ReportsPage() {
         </div>
       </section>
       <section className="grid-two" style={{marginTop:20}}>
-        <article className="panel"><div className="eyebrow">SHARED ASSURANCE</div><h2>AquaDMRV</h2><p style={{color:"var(--muted)",lineHeight:1.7}}>The intended shared engine for signed water observations, physical harvest evidence, quality management, batch release, cryptographic proof and climate accounting.</p><Link href="/docs/AQUADMRV-ILL-FUERZA-INTEGRATION.md">Integration requirements ↗</Link></article>
+        <article className="panel"><div className="eyebrow">SHARED ASSURANCE</div><h2>AquaDMRV</h2><p style={{color:"var(--muted)",lineHeight:1.7}}>The intended shared engine for signed water observations, physical harvest evidence, quality management, batch release, cryptographic proof and climate accounting.</p><a href="https://github.com/Samoolino/illovediza/blob/main/docs/AQUADMRV-ILL-FUERZA-INTEGRATION.md">Integration requirements ↗</a></article>
         <article className="panel"><div className="eyebrow">GEOSPATIAL REPORTING</div><h2>R observatory</h2><p style={{color:"var(--muted)",lineHeight:1.7}}>R consumes the Illovediza municipal and sports APIs for map-based reporting and municipal comparisons.</p><a href="https://r-global-climate.vercel.app/illovediza-spain-map.html">Open Spain map ↗</a></article>
       </section>
     </main>
