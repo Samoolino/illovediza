@@ -228,6 +228,30 @@
       ],
       "reportability": "ANCHORED only after readback reproduces the package root",
       "notEquivalentTo": "Truth, additionality, water quality or credit issuance"
+    },
+    {
+      "id": "municipal_climate_finance_readiness",
+      "domain": "climate_finance",
+      "label": "Municipal climate-finance eligibility readiness",
+      "unit": "gates",
+      "evidenceClasses": [
+        "DOCUMENTARY",
+        "CALCULATED"
+      ],
+      "required": [
+        "eligible_activity_definition",
+        "project_boundary",
+        "baseline_methodology",
+        "additionality_assessment_when_required",
+        "monitoring_plan",
+        "quantified_activity_data",
+        "independent_validation_or_verification",
+        "registry_eligibility",
+        "legal_review",
+        "municipal_authorization"
+      ],
+      "reportability": "READINESS_ONLY until every applicable methodology, independent assurance, legal and registry gate is accepted",
+      "notEquivalentTo": "Issued carbon credits, approved financial instruments or municipal endorsement"
     }
   ],
   "brandProvenance": {
@@ -242,17 +266,26 @@
       "batchId",
       "harvestedAt",
       "packageId",
-      "evidenceRoot"
+      "evidenceRoot",
+      "anchorStatus",
+      "anchorNetworkId",
+      "transactionHash",
+      "blockTimestamp",
+      "dmrvStatus",
+      "productReleaseStatus"
     ],
     "productFormats": [
       "BOTTLE",
       "CAN"
     ],
-    "releaseGate": "Do not print Premium/verified/product-release claims until QMS, batch, seal, review and applicable legal/product approvals pass."
+    "releaseGate": "Do not print Premium/verified/product-release claims until QMS, batch, seal, review and applicable legal/product approvals pass.",
+    "timestampPolicy": "Store harvest timestamp, evidence-package creation timestamp and blockchain block timestamp as separate fields; never substitute one for another.",
+    "anchorPolicy": "If anchorStatus is ANCHORED, include network ID, transaction hash, block number and block timestamp. An anchor does not approve water quality or product release."
   },
   "financeBoundary": {
     "municipalCarbonFinance": "Potential municipal climate-finance opportunities must be quantified from eligible, additional, measured and independently verified activities under an applicable methodology.",
     "credits": "No credit is created by a map pin, sports event, rainfall forecast, bottle label, evidence hash or token.",
-    "tokens": "Any project token or financial instrument requires separate legal, regulatory, accounting, custody, consumer and governance review."
+    "tokens": "Any project token or financial instrument requires separate legal, regulatory, accounting, custody, consumer and governance review.",
+    "readinessReport": "Municipal climate-finance readiness is a documentary and methodology gate, not a credit or revenue claim."
   }
 }
