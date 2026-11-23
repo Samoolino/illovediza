@@ -1,3 +1,5 @@
+> **Migration and scope note (2026-11-23):** This artifact was migrated from the former OMI-OJO project composition. Illovediza Fuerza is now an independent Spain sports ESG product (`ILL-FUERZA-ES`) in `Samoolino/illovediza`. The current product charter, sports node model, architecture and project-scoped DMRV profile in this repository take precedence for product ownership and sports-specific measurables. This legacy module remains applicable to environmental/climate evidence where relevant; it does not make water-harvesting operations the defining sports programme. OMI-OJO supplies shared DMRV/assurance contracts, not product ownership. See [Project Charter](PROJECT-CHARTER.md), [Sports Nodes](SPORTS-NODES-AND-MEASUREMENT.md) and [Architecture](ARCHITECTURE.md).
+
 # Illovediza Fuerza — ES-4 Provider & Reconciliation Gate
 
 ## Objective
