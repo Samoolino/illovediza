@@ -23,7 +23,49 @@ Sources:
 
 Retain the exact release date, layer name, source CRS, transformed CRS, attribution, licence, checksum and boundary validity metadata. The CNIG product page describes a licence compatible with CC-BY 4.0 and requires attribution to IGN-CNIG; inspect the actual archive's licence notice before redistribution. The current CNIG product describes a CC-BY-compatible licence with required source acknowledgement. Confirm the licence notice attached to the actual download before redistributing derivative geometry.
 
-## 3. Convert to a spatially queryable format
+## 3. Current official file and local ingestion
+
+The CNIG catalogue identifies the 2026 current GML archive as `LINEAS_LIMITE_GML.ZIP`, dated **10 August 2026**, 63.18 MB, and the Shapefile archive as `LINEAS_LIMITE.ZIP`, dated **28 July 2026**, 156.96 MB. CNIG's update notice records a new national boundary release on **18 August 2026**. Keep the catalogue file date and product update date as separate provenance fields; the actual downloaded archive must be checked against the selected release.
+
+- [Current GML archive record](https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=12408588)
+- [Current Shapefile archive record](https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=9000029)
+- [CNIG 18 August 2026 update notice](https://centrodedescargas.cnig.es/CentroDescargas/novedades?codSerie=LILIM)
+
+The Illovediza ingestion implementation is:
+- `src/spain-ign-ingestion.mjs` — structural geometry and INE identity QA;
+- `scripts/ingest-spain-ign-boundaries.mjs` — local CLI and checksum manifest;
+- `tests/spain-ign-ingestion.test.mjs` — test coverage;
+- `npm run ingest:spain:ign` — command entry point.
+
+First inspect the real archive's layer and property names. Never guess the five-digit municipality field:
+
+```bash
+unzip -l LINEAS_LIMITE_GML.ZIP
+ogrinfo -so -al /path/to/extracted/LINEAS_LIMITE.gml
+```
+
+After selecting the actual municipal polygon layer and its verified INE code property, convert it to RFC 7946 GeoJSON:
+
+```bash
+ogr2ogr -f GeoJSON /tmp/spain-municipalities.geojson \
+  /path/to/extracted/LINEAS_LIMITE.gml VERIFIED_MUNICIPAL_POLYGON_LAYER \
+  -t_srs EPSG:4326 -lco RFC7946=YES
+```
+
+Then run structural QA against the complete 8,132-code Illovediza registry:
+
+```bash
+npm run ingest:spain:ign -- \
+  --source-archive /path/to/LINEAS_LIMITE_GML.ZIP \
+  --geojson /tmp/spain-municipalities.geojson \
+  --code-property VERIFIED_INE_FIELD \
+  --boundary-release 2026-08-18 \
+  --archive-date 2026-08-10
+```
+
+The command writes the large geometry and manifest to `.cache/spain/ign/`, which is intentionally excluded from Git. It requires exactly 8,132 unique features matching the 8,132 municipal codes. The structural QA does not claim topology validity or legal finality.
+
+## 4. Convert to a spatially queryable format
 
 Use GDAL/OGR to inspect and convert the downloaded official source. Do not guess the layer name or field names:
 
@@ -36,13 +78,13 @@ ogr2ogr -f PostgreSQL PG:"host=$PGHOST dbname=$PGDATABASE user=$PGUSER" \
 
 The actual input file and layer must be selected after inspecting the official archive. The output table must include an official five-digit INE code, geometry, boundary release, source CRS and provenance. Validate polygon topology and official code coverage before using it.
 
-## 4. OSM venue crosswalk
+## 5. OSM venue crosswalk
 
 OpenStreetMap venue coordinates are discovery data. Join each OSM point to the official municipal polygon in PostGIS and export an element-to-INE-code crosswalk. Use `scripts/build-osm-ine-crosswalk.sql` as the starting template.
 
 A venue is not assigned by matching its name to a municipality or by using a municipality centroid. Points with zero or multiple polygon matches, invalid geometry, or proximity to a disputed/provisional boundary are exceptions for manual review.
 
-## 5. Acceptance
+## 6. Acceptance
 
 - One active municipality polygon per INE municipality code for the selected release, subject to documented exceptions.
 - All 8,132 active municipality reference codes match or have an explicit exception.
@@ -52,6 +94,6 @@ A venue is not assigned by matching its name to a municipality or by using a mun
 - Venue crosswalk contains only unique one-to-one accepted point-in-polygon matches.
 - Every exception remains unassigned until reviewed; do not guess.
 
-## 6. Historical reporting
+## 7. Historical reporting
 
 A municipal report must retain the boundary release valid for its reporting period. IGN's administrative WMS supports a temporal parameter for historical boundary display from 2009 onward. Do not recompute old venue/indicator reports against a new boundary release without recording the changed spatial basis.
