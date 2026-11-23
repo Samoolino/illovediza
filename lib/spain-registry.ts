@@ -62,7 +62,7 @@ export async function loadSpainMunicipalities(): Promise<{
   const codes = municipalities.map((item) => item.ineCode);
   if (municipalities.length !== index.referenceCounts.municipalities ||
       new Set(codes).size !== codes.length ||
-      codes.some((code) => !/^\\d{5}$/.test(code))) {
+      codes.some((code) => !/^\d{5}$/.test(code))) {
     throw new Error("Spain municipal registry failed count, uniqueness or INE-code validation");
   }
 
