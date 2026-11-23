@@ -24,3 +24,5 @@ export function buildIllovedizaEvidencePackage(input: IllovedizaEvidencePackageI
     submissionStatus: "NOT_CONNECTED";
   };
 };
+
+export function verifyEvidenceRoot(packageRecord: Record<string, unknown>, anchoredRoot: string): 'NOT_FOUND' | 'MATCHED' | 'MISMATCHED';
