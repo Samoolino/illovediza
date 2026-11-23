@@ -5,7 +5,7 @@
 **Parent evidence infrastructure:** [OMI-OJO](https://github.com/Samoolino/OMI-OJO)  
 **Geospatial/reporting platform:** [R](https://github.com/Samoolino/R)
 
-Illovediza Fuerza is a Spain-wide sports-anchored territorial engagement and environmental/social/governance evidence programme. It uses **padel, tennis and football** venues, clubs, facilities and their competition ecosystems as the primary institutional and operational network through which local participation, environmental activity and measurable impact can be organized.
+Illovediza Fuerza is a Spain-wide **municipal climate-product enhancer**. Major padel courts and qualifying municipal football stadiums are its primary physical engagement anchors; significant Ayuntamiento-managed tennis venues in selected Polideportivos are a selective extension. Authorized sports complexes can host monitored rainwater catchments and, after physical quality and regulatory approval, municipal-branded Premium RainWater products.
 
 ## Spain territorial reference
 
@@ -30,7 +30,7 @@ A venue may host multiple sports. Model one physical venue with multiple sport a
 - Discover Spain through an accessible territorial map and municipal directory.
 - Locate and qualify sports venues and potential harvest/measurement nodes.
 - Connect clubs, facilities, local organizers, municipal actors and competition structures.
-- Record approved environmental, climate, participation and social-impact activity.
+- Qualify sports venues as potential authorized rainwater harvesting hosts.\n- Bind municipal/Polideportivo product identity to venue coordinates, rain event, harvest timestamp, batch, seal, evidence package and SHA-256 root.\n- Record approved environmental, climate, participation and social-impact activity.
 - Run project-specific digital MRV (dMRV), quality controls, review and reporting.
 - Anchor approved evidence-package hashes for integrity and independent checking.
 - Produce municipal, provincial, autonomous-community, national and institutional reports.
@@ -52,12 +52,12 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 
 - `data/spain/municipalities/index.json` indexes all 19 autonomous communities/cities and 8,132 municipality records.
 - `GET /api/municipalities?limit=10000&offset=0` returns the complete municipal reference set; supports `q`, `community`, `offset` and `limit`.
-- `GET /api/sports-network` returns source-backed venue records, qualification results, municipal sports summary and the Illovediza-owned reportable-factor registry. The initial venue registry is empty until qualified geotagged records are imported.
+- `GET /api/sports-network` returns source-backed venue records, qualification results, municipal sports summary and the Illovediza-owned reportable-factor registry. The current venue registry is empty until qualified geotagged records are imported.\n- [R Spain map](https://r-global-climate.vercel.app/illovediza-spain-map.html) consumes the Illovediza APIs, displays the 8,132 municipal directory, IGN boundary overlay, sports filters and reportable factors.
 - `scripts/verify-spain-registry.mjs` and `npm run test:registry` validate record count, uniqueness, hierarchy partition counts and initial unassessed states.
 
 Primary municipal source: INE *Relación de municipios y sus códigos por provincias*, 1 January 2026 (published 4 February 2026), processed through the versioned CodeForSpain dataset snapshot. See [Spain Municipal Registry](docs/SPAIN-MUNICIPAL-REGISTRY.md).
 
-## Documentation
+## Shared DMRV runtime boundary\n\n- Illovediza prepares canonical `BE-EVIDENCE-1.0` packages and SHA-256 roots.\n- `POST /api/dmrv/validate-shared` relays a package to OMI-OJO's authenticated `POST /api/integrations/illovediza/evidence` intake.\n- OMI-OJO validates the project namespace, canonical package and root, returning `VALIDATED_NOT_PERSISTED`. Durable evidence storage, reviewer workflow, audit receipts and blockchain anchor submission/readback are separate deployment gates.\n- A cryptographic anchor never proves water quality, product release or carbon-credit eligibility.\n\n## Documentation
 
 - [Project charter](docs/PROJECT-CHARTER.md)
 - [Architecture and repository boundaries](docs/ARCHITECTURE.md)
