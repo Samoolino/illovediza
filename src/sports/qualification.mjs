@@ -57,7 +57,7 @@ function isQualifiedFootball(venue, municipalityVenues) {
 
 function isSignificantMunicipalTennis(venue) {
   return supportsSport(venue, 'tennis') &&
-    venue.qualification === 'SIGNIFICANT_TENNIS_POLIDEPORTIVO' &&
+    hasQualification(venue, 'SIGNIFICANT_TENNIS_POLIDEPORTIVO') &&
     venue.venueType === 'polideportivo' &&
     venue.municipalOperator === true &&
     nonEmpty(venue.municipalManagementEvidence) &&
