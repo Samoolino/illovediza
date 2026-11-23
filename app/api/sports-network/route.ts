@@ -1,4 +1,6 @@
 import { NextResponse } from "next/server";
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
 import { loadSpainMunicipalities, loadSpainSportsVenues } from "@/lib/spain-registry";
 import { buildMunicipalSportsRegistry } from "@/src/sports/qualification.mjs";
 import reportableFactors from "@/data/spain/reportable-factors.json";
@@ -11,6 +13,7 @@ export async function GET() {
       loadSpainMunicipalities(),
       loadSpainSportsVenues()
     ]);
+    const discoveryBatch = JSON.parse(await readFile(join(process.cwd(), "data/spain/sports-venues.discovery-batch-2026-11-23.json"), "utf8"));
     const registry = buildMunicipalSportsRegistry(municipalities, sportsRegistry.venues as never[]);
     const venues = registry.municipalities.flatMap(municipality => municipality.venues);
     return NextResponse.json({
