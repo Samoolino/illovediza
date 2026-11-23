@@ -12,14 +12,16 @@ This is the visualization layer. It does not replace a versioned local geometry 
 
 ## 2. Official geometry source
 
-Use the IGN-CNIG *Límites municipales, provinciales y autonómicos* product and the corresponding WFS/OGC API Features services. The current downloadable product offers Shapefile and GML; the national administrative-unit dataset is also exposed through the IGN API Features collection. The IGN states that the geometry registered in the Registro Central de Cartografía can contain provisional boundary segments and that general geometric uncertainty is around 40 metres, with more precise exceptions where formal technical/legal delimitation work has been completed.
+Use the IGN-CNIG *Límites municipales, provinciales y autonómicos* product and the corresponding WFS/OGC API Features services. The CNIG download catalogue currently lists the national current-boundaries release dated **18 August 2026**, available as Shapefile (156.96 MB) and GML (63.18 MB); the catalogue also lists historical GeoPackage releases. The national administrative-unit dataset is exposed through the IGN WFS and API Features services. Pin the exact downloaded archive and checksum in each geometry-ingestion run; do not rely on a moving 'current' download URL. The IGN states that the geometry registered in the Registro Central de Cartografía can contain provisional boundary segments and that general geometric uncertainty is around 40 metres, with more precise exceptions where formal technical/legal delimitation work has been completed.
 
 Sources:
-- IGN/CNIG product and licence: https://centrodedescargas.cnig.es/CentroDescargas/limites-municipales-provinciales-autonomicos
+- IGN/CNIG product and licence (current 18-08-2026 release): https://centrodedescargas.cnig.es/CentroDescargas/limites-municipales-provinciales-autonomicos
+- IGN-CNIG service catalogue: https://centrodedescargas.cnig.es/CentroDescargas/servicios-web
+- IGN administrative-unit WFS: https://www.ign.es/wfs-inspire/unidades-administrativas?REQUEST=GetCapabilities&SERVICE=WFS&VERSION=2.0.0
 - IGN WFS/API metadata: https://datos.gob.es/es/catalogo/e0dat0002-divisiones-administrativas-de-espana1
 - IGN WMS: https://www.ign.es/wms-inspire/unidades-administrativas?
 
-Retain the exact release date, layer name, source CRS, transformed CRS, attribution, licence, checksum and boundary validity metadata. The current CNIG product describes a CC-BY-compatible licence with required source acknowledgement. Confirm the licence notice attached to the actual download before redistributing derivative geometry.
+Retain the exact release date, layer name, source CRS, transformed CRS, attribution, licence, checksum and boundary validity metadata. The CNIG product page describes a licence compatible with CC-BY 4.0 and requires attribution to IGN-CNIG; inspect the actual archive's licence notice before redistribution. The current CNIG product describes a CC-BY-compatible licence with required source acknowledgement. Confirm the licence notice attached to the actual download before redistributing derivative geometry.
 
 ## 3. Convert to a spatially queryable format
 
