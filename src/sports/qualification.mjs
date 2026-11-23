@@ -158,12 +158,15 @@ export function buildMunicipalSportsRegistry(municipalities, venues = []) {
 
 export function buildRainwaterBrandRecord(input) {
   if (!input || typeof input !== 'object') throw new Error('RainWater brand input is required');
-  if (!nonEmpty(input.projectId) || !nonEmpty(input.municipalityCode) ||
-      !nonEmpty(input.venueId) || !nonEmpty(input.venueName)) {
-    throw new Error('project, municipality and venue identity are required');
+  if (input.projectId !== 'ILL-FUERZA-ES') throw new Error('projectId must be ILL-FUERZA-ES');
+  if (!/^\\d{5}$/.test(String(input.municipalityCode || ''))) {
+    throw new Error('valid five-digit INE municipality code is required');
   }
-  if (!nonEmpty(input.batchId) || !nonEmpty(input.harvestedAt)) {
-    throw new Error('batchId and harvestedAt are required');
+  if (!nonEmpty(input.municipalityName) || !nonEmpty(input.venueId) || !nonEmpty(input.venueName)) {
+    throw new Error('municipality and venue identity are required');
+  }
+  if (!nonEmpty(input.batchId) || !nonEmpty(input.harvestEventId) || !nonEmpty(input.harvestedAt)) {
+    throw new Error('batchId, harvestEventId and harvestedAt are required');
   }
   if (!Number.isFinite(Date.parse(input.harvestedAt)) ||
       !finite(input.coordinates?.latitude) || input.coordinates.latitude < -90 || input.coordinates.latitude > 90 ||
@@ -173,25 +176,57 @@ export function buildRainwaterBrandRecord(input) {
   if (!VALID_FORMATS.includes(input.productFormat)) throw new Error('productFormat must be BOTTLE or CAN');
   if (!nonEmpty(input.brandName)) throw new Error('brandName is required');
   if (!VALID_DMRV_STATES.includes(input.dmrvStatus)) throw new Error('invalid dmrvStatus');
+  if (!nonEmpty(input.packageId)) throw new Error('packageId is required');
+  if (!/^[a-f0-9]{64}$/i.test(String(input.evidenceRoot || ''))) {
+    throw new Error('64-character SHA-256 evidenceRoot is required');
+  }
+
+  const anchorStatus = input.anchorStatus || 'NOT_SUBMITTED';
+  if (!['NOT_SUBMITTED', 'PENDING', 'ANCHORED', 'MISMATCHED', 'NOT_FOUND', 'HOLD'].includes(anchorStatus)) {
+    throw new Error('invalid anchorStatus');
+  }
+  let anchor = { status: anchorStatus, networkId: null, transactionHash: null, blockTimestamp: null, blockNumber: null };
+  if (anchorStatus === 'ANCHORED') {
+    const source = input.anchor || {};
+    if (!nonEmpty(source.networkId) || !/^0x[a-f0-9]{64}$/i.test(String(source.transactionHash || '')) ||
+        !nonEmpty(source.blockTimestamp) || !Number.isFinite(Date.parse(source.blockTimestamp)) ||
+        !Number.isSafeInteger(source.blockNumber) || source.blockNumber < 0) {
+      throw new Error('anchor network, transaction hash and block timestamp are required');
+    }
+    anchor = {
+      status: 'ANCHORED',
+      networkId: source.networkId,
+      transactionHash: source.transactionHash,
+      blockTimestamp: source.blockTimestamp,
+      blockNumber: source.blockNumber
+    };
+  }
+
   return {
-    schemaVersion: '1.0.0',
-    projectId: input.projectId,
+    schemaVersion: '1.1.0',
+    projectId: 'ILL-FUERZA-ES',
     branding: {
+      municipalityName: input.municipalityName,
       municipalityCode: input.municipalityCode,
       venueId: input.venueId,
       venueName: input.venueName,
       brandName: input.brandName,
-      productFormat: input.productFormat
+      productFormat: input.productFormat,
+      displayIdentity: `${input.municipalityName} · ${input.venueName}`
     },
     provenance: {
       batchId: input.batchId,
-      harvestEventId: input.harvestEventId || null,
+      harvestEventId: input.harvestEventId,
       harvestedAt: input.harvestedAt,
       coordinates: { latitude: input.coordinates.latitude, longitude: input.coordinates.longitude },
-      dmrvStatus: input.dmrvStatus
+      packageId: input.packageId,
+      evidenceRoot: String(input.evidenceRoot).toLowerCase(),
+      dmrvStatus: input.dmrvStatus,
+      anchor
     },
     claims: {
       waterQualityStatus: 'PENDING_QMS_REVIEW',
+      premiumRainwaterStatus: 'REVIEW_PENDING',
       verifiedClimateClaim: false,
       carbonCreditIssued: false,
       productReleaseStatus: 'NOT_RELEASED'
