@@ -15,7 +15,7 @@ const square = (x1, y1, x2, y2) => [[
 
 test('assigns an OSM venue to exactly one official IGN municipality polygon', () => {
   const result = assignVenuesToIgnMunicipalities(
-    [{ id: 'OSM-WAY-1', latitude: -3.5, longitude: 40.5, municipalityCode: null }],
+    [{ id: 'OSM-WAY-1', latitude: 40.5, longitude: -3.5, municipalityCode: null }],
     { type: 'FeatureCollection', features: [polygon('28079', square(-4,40,-3,41))] }
   );
   assert.equal(result.venues[0].municipalityCode, '28079');
@@ -25,7 +25,7 @@ test('assigns an OSM venue to exactly one official IGN municipality polygon', ()
 
 test('preserves a provisional name match but never uses it when the polygon disagrees', () => {
   const result = assignVenuesToIgnMunicipalities(
-    [{ id: 'OSM-WAY-2', latitude: -3.5, longitude: 40.5, municipalityCode: '08019' }],
+    [{ id: 'OSM-WAY-2', latitude: 40.5, longitude: -3.5, municipalityCode: '08019' }],
     { type: 'FeatureCollection', features: [polygon('28079', square(-4,40,-3,41))] }
   );
   assert.equal(result.venues[0].municipalityCode, '28079');
@@ -35,14 +35,14 @@ test('preserves a provisional name match but never uses it when the polygon disa
 
 test('does not assign points on a boundary or in overlapping polygons', () => {
   const boundary = assignVenuesToIgnMunicipalities(
-    [{ id: 'OSM-NODE-3', latitude: -4, longitude: 40.5 }],
+    [{ id: 'OSM-NODE-3', latitude: 40.5, longitude: -4 }],
     { type: 'FeatureCollection', features: [polygon('28079', square(-4,40,-3,41))] }
   );
   assert.equal(boundary.venues[0].municipalityCode, null);
   assert.equal(boundary.venues[0].spatialCrosswalkStatus, 'AMBIGUOUS_BOUNDARY_OR_OVERLAP');
 
   const overlap = assignVenuesToIgnMunicipalities(
-    [{ id: 'OSM-NODE-4', latitude: -3.5, longitude: 40.5 }],
+    [{ id: 'OSM-NODE-4', latitude: 40.5, longitude: -3.5 }],
     { type: 'FeatureCollection', features: [
       polygon('28079', square(-4,40,-3,41)),
       polygon('08019', square(-3.8,40.2,-2.8,41.2))
@@ -63,7 +63,7 @@ test('respects polygon holes and handles MultiPolygon geometry', () => {
     ] }
   };
   const holeResult = assignVenuesToIgnMunicipalities(
-    [{ id: 'OSM-NODE-5', latitude: -3.5, longitude: 40.5 }],
+    [{ id: 'OSM-NODE-5', latitude: 40.5, longitude: -3.5 }],
     { type: 'FeatureCollection', features: [withHole] }
   );
   assert.equal(holeResult.venues[0].spatialCrosswalkStatus, 'NO_IGN_POLYGON_MATCH');
@@ -75,7 +75,7 @@ test('respects polygon holes and handles MultiPolygon geometry', () => {
     geometry: { type: 'MultiPolygon', coordinates: [square(-4,40,-3,41), square(1,40,2,41)] }
   };
   const multiResult = assignVenuesToIgnMunicipalities(
-    [{ id: 'OSM-NODE-6', latitude: 1.5, longitude: 40.5 }],
+    [{ id: 'OSM-NODE-6', latitude: 40.5, longitude: 1.5 }],
     { type: 'FeatureCollection', features: [multi] }
   );
   assert.equal(multiResult.venues[0].municipalityCode, '08019');
