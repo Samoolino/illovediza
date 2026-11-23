@@ -5,8 +5,8 @@
   "status": "DRAFT_PENDING_COMPETENT_AUTHORITY_AND_AQUADMRV_REVIEW",
   "intendedProduct": "Municipal-branded rainwater-based packaged drinking water, if legally authorized and compliant",
   "legalClassification": {
-    "status": "NOT_APPROVED",
-    "candidateRoute": "Prepared packaged drinking water under Spain Real Decreto 1799/2010 may be relevant because prepared waters can originate from any source after authorized physicochemical treatment.",
+    "status": "LEGAL_CLASSIFICATION_REVIEW_REQUIRED_NOT_AUTHORIZED_FOR_SALE",
+    "candidateRoute": "Real Decreto 1799/2010 governs prepared packaged drinking waters other than natural mineral and spring waters. Article 2 defines prepared waters as waters of any origin subjected to authorized physicochemical treatments necessary to meet Annex I potability characteristics. Whether this specific harvested rainwater source and proposed operating model fit the prepared packaged-water route requires written competent-authority/legal confirmation.",
     "requiredBeforePilot": "Written legal and competent-authority confirmation of source/product classification, operator/facility approvals, treatment requirements, sampling regime, naming and label rules.",
     "notPermittedClaims": [
       "natural mineral water",
@@ -21,6 +21,12 @@
       "https://www.boe.es/eli/es/rd/2023/01/10/3/con",
       "https://eur-lex.europa.eu/eli/dir/2020/2184/oj",
       "https://eur-lex.europa.eu/eli/reg/2025/40/oj"
+    ],
+    "regulatoryInterpretation": [
+      "RD 1799/2010 is the primary candidate packaged-water framework, subject to legal classification and authorization.",
+      "RD 3/2023 excludes waters governed by RD 1799/2010 from its general scope, but RD 1799/2010 cross-references RD 3/2023's list of observation for prepared packaged waters.",
+      "Do not apply RD 3/2023 distribution-zone sampling schedules as a substitute for RD 1799/2010's packaged-water operator and finished-product controls.",
+      "Rainwater source, collection, treatment, source authorization, food-business registration and product naming must be confirmed with the competent Spanish authorities."
     ]
   },
   "qmsOwner": "AquaDMRV",
@@ -146,5 +152,87 @@
     "evidenceRoot",
     "qaDecisionId"
   ],
-  "releaseRule": "AquaDMRV may evaluate readiness and record the authorized QA decision. No model, sensor, report generator or blockchain transaction can autonomously override a hold or release a product without the legally required human/operator authorization."
+  "releaseRule": "AquaDMRV may evaluate readiness and record the authorized QA decision. No model, sensor, report generator or blockchain transaction can autonomously override a hold or release a product without the legally required human/operator authorization.",
+  "samplingSchedule": [
+    {
+      "id": "finished_product_daily",
+      "frequency": "EACH_DAY",
+      "samplePoint": "Finished product at packaging/filling point",
+      "requiredTests": [
+        "RD1799_ANNEX_I_PART_A_MICROBIOLOGICAL_PARAMETERS",
+        "CONDUCTIVITY",
+        "PH"
+      ],
+      "source": "RD 1799/2010 Article 11(b)(1)",
+      "hardStop": "Missing or nonconforming daily results hold the affected batch and trigger deviation review."
+    },
+    {
+      "id": "finished_product_quarterly",
+      "frequency": "AT_LEAST_EVERY_THREE_MONTHS",
+      "samplePoint": "Finished product",
+      "requiredTests": [
+        "RD1799_ANNEX_I_PART_A_MICROBIOLOGICAL_PARAMETERS",
+        "RD1799_ANNEX_I_PART_C_INDICATOR_PARAMETERS",
+        "NITRITES",
+        "NITRATES"
+      ],
+      "source": "RD 1799/2010 Article 11(b)(2)",
+      "hardStop": "Overdue or missing periodic results block release of batches in the affected review window until assessed."
+    },
+    {
+      "id": "finished_product_full_a_b_c",
+      "frequency": "AT_LEAST_EVERY_FIVE_YEARS",
+      "samplePoint": "Finished product",
+      "requiredTests": [
+        "ALL_RD1799_ANNEX_I_PART_A_PARAMETERS",
+        "ALL_RD1799_ANNEX_I_PART_B_PARAMETERS",
+        "ALL_RD1799_ANNEX_I_PART_C_PARAMETERS"
+      ],
+      "source": "RD 1799/2010 Article 11(b)(3)",
+      "hardStop": "An overdue full analysis blocks release until compliance is restored."
+    },
+    {
+      "id": "finished_product_radiological",
+      "frequency": "AT_LEAST_ANNUALLY",
+      "samplePoint": "Finished product",
+      "requiredTests": [
+        "RD1799_ANNEX_I_PART_D_PARAMETERS",
+        "INDICATIVE_DOSE_AS_APPLICABLE"
+      ],
+      "source": "RD 1799/2010 Article 11(b)(4)",
+      "hardStop": "An overdue or failed radiological assessment blocks release pending authority/QA review."
+    }
+  ],
+  "operationalQms": [
+    "Take representative samples of product quality throughout the year at the packaging point.",
+    "Ensure laboratory technical competence and analytical result quality; retain laboratory identity, accreditation/competence scope, methods, units, detection limits and report identifiers.",
+    "Validate authorized physicochemical treatment, disinfection efficacy and treatment by-product controls.",
+    "Maintain cleanable/inspectable collection, conveyance, storage and filling circuits; retain cleaning, sanitation and maintenance records.",
+    "Use automated, hygienic filling and closure processes; retain fill-line and packaging-lot traceability.",
+    "Use closures designed to prevent falsification and contamination; reject cracked, broken or defective containers.",
+    "Register the food business operator in the applicable Spanish food-business register (RGSEAA) when required by the selected route."
+  ],
+  "labeling": [
+    "Where the prepared packaged-water route is confirmed, use the legally required product denomination; RD 1799/2010 Article 8 specifies 'agua potable preparada' for prepared potable water from a spring or catchment.",
+    "The mandatory denomination must be visually more prominent than the brand or distinctive sign under the applicable Article 8 rule.",
+    "Municipal/Polideportivo branding must not mislead consumers about the source, origin, classification or nature of the water.",
+    "Never use 'natural mineral water' or 'spring water' unless the source and legal classification independently qualify."
+  ],
+  "regulatoryReferences": [
+    {
+      "instrument": "Real Decreto 1799/2010",
+      "scope": "Primary candidate prepared packaged drinking-water framework; Articles 2, 3, 5–8, 10–13 and Annex I",
+      "url": "https://www.boe.es/eli/es/rd/2010/12/30/1799/con"
+    },
+    {
+      "instrument": "Real Decreto 3/2023",
+      "scope": "General drinking-water framework; Article 3 excludes waters governed by RD 1799/2010, with RD 1799/2010 cross-reference to its observation list",
+      "url": "https://www.boe.es/eli/es/rd/2023/01/10/3/con"
+    },
+    {
+      "instrument": "Regulation (EU) 2025/40",
+      "scope": "Packaging and packaging waste; applies from 12 August 2026 subject to phased obligations",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj"
+    }
+  ]
 }
