@@ -22,7 +22,7 @@ for (const partition of index.files) {
 const codes = records.map(item => item.ineCode);
 assert.equal(records.length, 8132);
 assert.equal(new Set(codes).size, 8132, 'INE municipality codes must be unique');
-assert.ok(codes.every(code => /^\\d{5}$/.test(code)), 'INE municipality codes must be five digits');
+assert.ok(codes.every(code => /^\d{5}$/.test(code)), 'INE municipality codes must be five digits');
 assert.ok(records.every(item => item.countryCode === 'ES' && item.reportingNodeStatus === 'ADMINISTRATIVE_REFERENCE'));
 assert.ok(records.every(item => item.sportsCoverage?.padel === 'NOT_ASSESSED' &&
   item.sportsCoverage?.football === 'NOT_ASSESSED' && item.sportsCoverage?.tennis === 'NOT_ASSESSED'));
