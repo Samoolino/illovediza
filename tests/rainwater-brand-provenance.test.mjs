@@ -79,7 +79,9 @@ test('a cryptographic anchor never upgrades water quality or authorizes product 
       networkId: 'eip155:1',
       transactionHash: '0x' + 'b'.repeat(64),
       blockTimestamp: '2026-11-23T10:20:00Z',
-      blockNumber: 24000000
+      blockNumber: 24000000,
+      readbackRoot: evidence.evidenceRoot,
+      verificationStatus: 'MATCHED'
     }
   });
   assert.equal(brand.claims.waterQualityStatus, 'PENDING_QMS_REVIEW');
