@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "sourcePublisher": "IGN-CNIG",
+  "sourceProduct": "Límites municipales, provinciales y autonómicos",
+  "boundaryRelease": "2026-08-18",
+  "sourceService": "https://api-features.ign.es/collections/administrativeunit/items",
+  "sourceSnapshotRetrievedAt": "2026-11-23T20:05:59.881Z",
+  "sourceArchive": "OGC API Features administrativeunit paginated snapshot",
+  "sourceSha256": "f79ee9d38c6052fe9930adf6d3ca462231378cbfc7aabbe6f193f43518472478",
+  "geojsonSha256": "c7c0f856060582c7c07d95038702c917a31dc021ebdd3739f92122087a2f205c",
+  "featureCount": 8132,
+  "matchedMunicipalityCount": 8132,
+  "codeProperty": "ineCode",
+  "sourceCrs": "OGC:CRS84 (IGN API Features storage CRS)",
+  "targetCrs": "OGC:CRS84 / EPSG:4326",
+  "license": "CC-BY-4.0 ign.es",
+  "attribution": "Obra derivada de BDLJE CC-BY 4.0 ign.es",
+  "geometryQA": {
+    "ok": true,
+    "errors": [],
+    "featureCount": 8132,
+    "matchedMunicipalityCount": 8132,
+    "coordinateCount": 4434537,
+    "geometryTypeCounts": {
+      "MultiPolygon": 8132
+    },
+    "missingMunicipalityCount": 0
+  },
+  "topologyQA": "NOT_RUN_REQUIRES_GDAL_POSTGIS_VALIDATION",
+  "boundaryLegalStatus": "MAY_INCLUDE_PROVISIONAL_BOUNDARY_SEGMENTS",
+  "provisionalBoundaryUncertaintyNote": "CNIG describes some provisional boundary segments with uncertainty of approximately 40 m; consult source metadata and legal records for affected municipalities.",
+  "provisionalBoundaryReviewBufferM": 50,
+  "status": "QA_PASSED_LOCAL_SNAPSHOT_NOT_PUBLISHED",
+  "publicationStatus": "NOT_PUBLISHED",
+  "spatialCrosswalkStatus": "PENDING_OSM_VENUE_CANDIDATES",
+  "storageStatus": "GITHUB_ACTIONS_ARTIFACT_90_DAY_RETENTION_NOT_PRODUCTION_STORAGE",
+  "workflowRunId": 45255753589,
+  "artifactId": 14858052851,
+  "workflowUrl": "https://github.com/Samoolino/illovediza/actions/runs/45255753589",
+  "nextGate": "Complete GDAL/OGR topology QA, retry regional OSM candidate discovery, run IGN point-in-polygon venue crosswalk, and promote only reviewed outputs."
+}
