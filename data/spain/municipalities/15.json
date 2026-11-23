@@ -1,0 +1,5185 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "15",
+  "autonomousCommunityName": "Comunidad Foral de Navarra",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-31001",
+      "ineCode": "31001",
+      "name": "Abáigar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31002",
+      "ineCode": "31002",
+      "name": "Abárzuza/Abartzuza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31003",
+      "ineCode": "31003",
+      "name": "Abaurregaina/Abaurrea Alta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31004",
+      "ineCode": "31004",
+      "name": "Abaurrepea/Abaurrea Baja",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31005",
+      "ineCode": "31005",
+      "name": "Aberin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31006",
+      "ineCode": "31006",
+      "name": "Ablitas",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31007",
+      "ineCode": "31007",
+      "name": "Adiós",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31008",
+      "ineCode": "31008",
+      "name": "Aguilar de Codés",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31009",
+      "ineCode": "31009",
+      "name": "Aibar/Oibar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31011",
+      "ineCode": "31011",
+      "name": "Allín/Allin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31012",
+      "ineCode": "31012",
+      "name": "Allo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31010",
+      "ineCode": "31010",
+      "name": "Altsasu/Alsasua",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31013",
+      "ineCode": "31013",
+      "name": "Améscoa Baja",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31014",
+      "ineCode": "31014",
+      "name": "Ancín/Antzin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31015",
+      "ineCode": "31015",
+      "name": "Andosilla",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31016",
+      "ineCode": "31016",
+      "name": "Ansoáin/Antsoain",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31017",
+      "ineCode": "31017",
+      "name": "Anue",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31018",
+      "ineCode": "31018",
+      "name": "Añorbe",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31019",
+      "ineCode": "31019",
+      "name": "Aoiz/Agoitz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31020",
+      "ineCode": "31020",
+      "name": "Araitz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31025",
+      "ineCode": "31025",
+      "name": "Arakil",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31021",
+      "ineCode": "31021",
+      "name": "Aranarache/Aranaratxe",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31023",
+      "ineCode": "31023",
+      "name": "Aranguren",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31024",
+      "ineCode": "31024",
+      "name": "Arano",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31022",
+      "ineCode": "31022",
+      "name": "Arantza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31026",
+      "ineCode": "31026",
+      "name": "Aras",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31027",
+      "ineCode": "31027",
+      "name": "Arbizu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31028",
+      "ineCode": "31028",
+      "name": "Arce/Artzi",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31029",
+      "ineCode": "31029",
+      "name": "Arcos, Los",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31030",
+      "ineCode": "31030",
+      "name": "Arellano",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31031",
+      "ineCode": "31031",
+      "name": "Areso",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31032",
+      "ineCode": "31032",
+      "name": "Arguedas",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31033",
+      "ineCode": "31033",
+      "name": "Aria",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31034",
+      "ineCode": "31034",
+      "name": "Aribe",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31035",
+      "ineCode": "31035",
+      "name": "Armañanzas",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31036",
+      "ineCode": "31036",
+      "name": "Arróniz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31037",
+      "ineCode": "31037",
+      "name": "Arruazu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31038",
+      "ineCode": "31038",
+      "name": "Artajona",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31039",
+      "ineCode": "31039",
+      "name": "Artazu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31040",
+      "ineCode": "31040",
+      "name": "Atetz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31058",
+      "ineCode": "31058",
+      "name": "Auritz/Burguete",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31041",
+      "ineCode": "31041",
+      "name": "Ayegui/Aiegi",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31042",
+      "ineCode": "31042",
+      "name": "Azagra",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31043",
+      "ineCode": "31043",
+      "name": "Azuelo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31044",
+      "ineCode": "31044",
+      "name": "Bakaiku",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31901",
+      "ineCode": "31901",
+      "name": "Barañáin/Barañain",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31045",
+      "ineCode": "31045",
+      "name": "Barásoain",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31046",
+      "ineCode": "31046",
+      "name": "Barbarin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31047",
+      "ineCode": "31047",
+      "name": "Bargota",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31048",
+      "ineCode": "31048",
+      "name": "Barillas",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31049",
+      "ineCode": "31049",
+      "name": "Basaburua",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31050",
+      "ineCode": "31050",
+      "name": "Baztan",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31137",
+      "ineCode": "31137",
+      "name": "Beintza-Labaien",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31051",
+      "ineCode": "31051",
+      "name": "Beire",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31052",
+      "ineCode": "31052",
+      "name": "Belascoáin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31250",
+      "ineCode": "31250",
+      "name": "Bera",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31053",
+      "ineCode": "31053",
+      "name": "Berbinzana",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31905",
+      "ineCode": "31905",
+      "name": "Beriáin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31902",
+      "ineCode": "31902",
+      "name": "Berrioplano/Berriobeiti",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31903",
+      "ineCode": "31903",
+      "name": "Berriozar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31054",
+      "ineCode": "31054",
+      "name": "Bertizarana",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31055",
+      "ineCode": "31055",
+      "name": "Betelu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31253",
+      "ineCode": "31253",
+      "name": "Bidaurreta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31056",
+      "ineCode": "31056",
+      "name": "Biurrun-Olcoz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31057",
+      "ineCode": "31057",
+      "name": "Buñuel",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31059",
+      "ineCode": "31059",
+      "name": "Burgui/Burgi",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31060",
+      "ineCode": "31060",
+      "name": "Burlada/Burlata",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31061",
+      "ineCode": "31061",
+      "name": "Busto, El",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31062",
+      "ineCode": "31062",
+      "name": "Cabanillas",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31063",
+      "ineCode": "31063",
+      "name": "Cabredo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31064",
+      "ineCode": "31064",
+      "name": "Cadreita",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31065",
+      "ineCode": "31065",
+      "name": "Caparroso",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31066",
+      "ineCode": "31066",
+      "name": "Cárcar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31067",
+      "ineCode": "31067",
+      "name": "Carcastillo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31068",
+      "ineCode": "31068",
+      "name": "Cascante",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31069",
+      "ineCode": "31069",
+      "name": "Cáseda",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31070",
+      "ineCode": "31070",
+      "name": "Castejón",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31071",
+      "ineCode": "31071",
+      "name": "Castillonuevo/Gazteluberri",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31193",
+      "ineCode": "31193",
+      "name": "Cendea de Olza/Oltza Zendea",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31072",
+      "ineCode": "31072",
+      "name": "Cintruénigo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31074",
+      "ineCode": "31074",
+      "name": "Cirauqui/Zirauki",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31075",
+      "ineCode": "31075",
+      "name": "Ciriza/Ziritza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31076",
+      "ineCode": "31076",
+      "name": "Cizur",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31077",
+      "ineCode": "31077",
+      "name": "Corella",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31078",
+      "ineCode": "31078",
+      "name": "Cortes",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31079",
+      "ineCode": "31079",
+      "name": "Desojo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31080",
+      "ineCode": "31080",
+      "name": "Dicastillo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31081",
+      "ineCode": "31081",
+      "name": "Donamaria",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31221",
+      "ineCode": "31221",
+      "name": "Doneztebe/Santesteban",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31083",
+      "ineCode": "31083",
+      "name": "Echarri/Etxarri",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31087",
+      "ineCode": "31087",
+      "name": "Elgorriaga",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31089",
+      "ineCode": "31089",
+      "name": "Enériz/Eneritz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31090",
+      "ineCode": "31090",
+      "name": "Eratsun",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31091",
+      "ineCode": "31091",
+      "name": "Ergoiena",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31092",
+      "ineCode": "31092",
+      "name": "Erro",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31094",
+      "ineCode": "31094",
+      "name": "Eslava",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31095",
+      "ineCode": "31095",
+      "name": "Esparza de Salazar/Espartza Zaraitzu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31096",
+      "ineCode": "31096",
+      "name": "Espronceda",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31097",
+      "ineCode": "31097",
+      "name": "Estella-Lizarra",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31098",
+      "ineCode": "31098",
+      "name": "Esteribar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31099",
+      "ineCode": "31099",
+      "name": "Etayo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31082",
+      "ineCode": "31082",
+      "name": "Etxalar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31084",
+      "ineCode": "31084",
+      "name": "Etxarri Aranatz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31085",
+      "ineCode": "31085",
+      "name": "Etxauri",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31100",
+      "ineCode": "31100",
+      "name": "Eulate",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31101",
+      "ineCode": "31101",
+      "name": "Ezcabarte",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31093",
+      "ineCode": "31093",
+      "name": "Ezcároz/Ezkaroze",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31102",
+      "ineCode": "31102",
+      "name": "Ezkurra",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31103",
+      "ineCode": "31103",
+      "name": "Ezprogui",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31104",
+      "ineCode": "31104",
+      "name": "Falces",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31105",
+      "ineCode": "31105",
+      "name": "Fitero",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31106",
+      "ineCode": "31106",
+      "name": "Fontellas",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31107",
+      "ineCode": "31107",
+      "name": "Funes",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31108",
+      "ineCode": "31108",
+      "name": "Fustiñana",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31109",
+      "ineCode": "31109",
+      "name": "Galar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31110",
+      "ineCode": "31110",
+      "name": "Gallipienzo/Galipentzu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31111",
+      "ineCode": "31111",
+      "name": "Gallués/Galoze",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31112",
+      "ineCode": "31112",
+      "name": "Garaioa",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31113",
+      "ineCode": "31113",
+      "name": "Garde",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31114",
+      "ineCode": "31114",
+      "name": "Garínoain",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31115",
+      "ineCode": "31115",
+      "name": "Garralda",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31116",
+      "ineCode": "31116",
+      "name": "Genevilla",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31117",
+      "ineCode": "31117",
+      "name": "Goizueta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31119",
+      "ineCode": "31119",
+      "name": "Güesa/Gorza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31120",
+      "ineCode": "31120",
+      "name": "Guesálaz/Gesalatz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31121",
+      "ineCode": "31121",
+      "name": "Guirguillano",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31256",
+      "ineCode": "31256",
+      "name": "Hiriberri/Villanueva de Aezkoa",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31122",
+      "ineCode": "31122",
+      "name": "Huarte/Uharte",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31124",
+      "ineCode": "31124",
+      "name": "Ibargoiti",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31259",
+      "ineCode": "31259",
+      "name": "Igantzi",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31125",
+      "ineCode": "31125",
+      "name": "Igúzquiza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31126",
+      "ineCode": "31126",
+      "name": "Imotz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31127",
+      "ineCode": "31127",
+      "name": "Irañeta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31904",
+      "ineCode": "31904",
+      "name": "Irurtzun",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31128",
+      "ineCode": "31128",
+      "name": "Isaba/Izaba",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31129",
+      "ineCode": "31129",
+      "name": "Ituren",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31130",
+      "ineCode": "31130",
+      "name": "Iturmendi",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31131",
+      "ineCode": "31131",
+      "name": "Iza/Itza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31132",
+      "ineCode": "31132",
+      "name": "Izagaondoa",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31133",
+      "ineCode": "31133",
+      "name": "Izalzu/Itzaltzu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31134",
+      "ineCode": "31134",
+      "name": "Jaurrieta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31135",
+      "ineCode": "31135",
+      "name": "Javier",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31136",
+      "ineCode": "31136",
+      "name": "Juslapeña/Txulapain",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31138",
+      "ineCode": "31138",
+      "name": "Lakuntza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31139",
+      "ineCode": "31139",
+      "name": "Lana",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31140",
+      "ineCode": "31140",
+      "name": "Lantz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31141",
+      "ineCode": "31141",
+      "name": "Lapoblación",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31142",
+      "ineCode": "31142",
+      "name": "Larraga",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31143",
+      "ineCode": "31143",
+      "name": "Larraona",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31144",
+      "ineCode": "31144",
+      "name": "Larraun",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31145",
+      "ineCode": "31145",
+      "name": "Lazagurría",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31146",
+      "ineCode": "31146",
+      "name": "Leache/Leatxe",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31147",
+      "ineCode": "31147",
+      "name": "Legarda",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31148",
+      "ineCode": "31148",
+      "name": "Legaria",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31149",
+      "ineCode": "31149",
+      "name": "Leitza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31908",
+      "ineCode": "31908",
+      "name": "Lekunberri",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31150",
+      "ineCode": "31150",
+      "name": "Leoz/Leotz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31151",
+      "ineCode": "31151",
+      "name": "Lerga",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31152",
+      "ineCode": "31152",
+      "name": "Lerín",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31153",
+      "ineCode": "31153",
+      "name": "Lesaka",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31154",
+      "ineCode": "31154",
+      "name": "Lezaun",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31155",
+      "ineCode": "31155",
+      "name": "Liédena",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31156",
+      "ineCode": "31156",
+      "name": "Lizoain-Arriasgoiti/Lizoainibar-Arriasgoiti",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31157",
+      "ineCode": "31157",
+      "name": "Lodosa",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31158",
+      "ineCode": "31158",
+      "name": "Lónguida/Longida",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31159",
+      "ineCode": "31159",
+      "name": "Lumbier",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31160",
+      "ineCode": "31160",
+      "name": "Luquin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31248",
+      "ineCode": "31248",
+      "name": "Luzaide/Valcarlos",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31161",
+      "ineCode": "31161",
+      "name": "Mañeru",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31162",
+      "ineCode": "31162",
+      "name": "Marañón",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31163",
+      "ineCode": "31163",
+      "name": "Marcilla",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31164",
+      "ineCode": "31164",
+      "name": "Mélida",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31165",
+      "ineCode": "31165",
+      "name": "Mendavia",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31166",
+      "ineCode": "31166",
+      "name": "Mendaza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31167",
+      "ineCode": "31167",
+      "name": "Mendigorria",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31168",
+      "ineCode": "31168",
+      "name": "Metauten",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31169",
+      "ineCode": "31169",
+      "name": "Milagro",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31170",
+      "ineCode": "31170",
+      "name": "Mirafuentes",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31171",
+      "ineCode": "31171",
+      "name": "Miranda de Arga",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31172",
+      "ineCode": "31172",
+      "name": "Monreal/Elo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31173",
+      "ineCode": "31173",
+      "name": "Monteagudo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31174",
+      "ineCode": "31174",
+      "name": "Morentin",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31175",
+      "ineCode": "31175",
+      "name": "Mues",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31176",
+      "ineCode": "31176",
+      "name": "Murchante",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31177",
+      "ineCode": "31177",
+      "name": "Murieta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31178",
+      "ineCode": "31178",
+      "name": "Murillo el Cuende",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31179",
+      "ineCode": "31179",
+      "name": "Murillo el Fruto",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31180",
+      "ineCode": "31180",
+      "name": "Muruzábal",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31181",
+      "ineCode": "31181",
+      "name": "Navascués/Nabaskoze",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31182",
+      "ineCode": "31182",
+      "name": "Nazar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31183",
+      "ineCode": "31183",
+      "name": "Obanos",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31185",
+      "ineCode": "31185",
+      "name": "Ochagavía/Otsagabia",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31184",
+      "ineCode": "31184",
+      "name": "Oco",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31186",
+      "ineCode": "31186",
+      "name": "Odieta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31187",
+      "ineCode": "31187",
+      "name": "Oiz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31188",
+      "ineCode": "31188",
+      "name": "Olaibar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31189",
+      "ineCode": "31189",
+      "name": "Olazti/Olazagutía",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31190",
+      "ineCode": "31190",
+      "name": "Olejua",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31191",
+      "ineCode": "31191",
+      "name": "Olite/Erriberri",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31192",
+      "ineCode": "31192",
+      "name": "Olóriz/Oloritz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31195",
+      "ineCode": "31195",
+      "name": "Orbaizeta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31196",
+      "ineCode": "31196",
+      "name": "Orbara",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31197",
+      "ineCode": "31197",
+      "name": "Orísoain",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31906",
+      "ineCode": "31906",
+      "name": "Orkoien",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31198",
+      "ineCode": "31198",
+      "name": "Oronz/Orontze",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31199",
+      "ineCode": "31199",
+      "name": "Oroz-Betelu/Orotz-Betelu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31211",
+      "ineCode": "31211",
+      "name": "Orreaga/Roncesvalles",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31200",
+      "ineCode": "31200",
+      "name": "Oteiza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31201",
+      "ineCode": "31201",
+      "name": "Pamplona/Iruña",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31202",
+      "ineCode": "31202",
+      "name": "Peralta/Azkoien",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31203",
+      "ineCode": "31203",
+      "name": "Petilla de Aragón",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31204",
+      "ineCode": "31204",
+      "name": "Piedramillera",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31205",
+      "ineCode": "31205",
+      "name": "Pitillas",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31206",
+      "ineCode": "31206",
+      "name": "Puente la Reina/Gares",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31207",
+      "ineCode": "31207",
+      "name": "Pueyo/Puiu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31208",
+      "ineCode": "31208",
+      "name": "Ribaforada",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31209",
+      "ineCode": "31209",
+      "name": "Romanzado/Erromantzatua",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31210",
+      "ineCode": "31210",
+      "name": "Roncal/Erronkari",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31212",
+      "ineCode": "31212",
+      "name": "Sada",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31213",
+      "ineCode": "31213",
+      "name": "Saldías",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31214",
+      "ineCode": "31214",
+      "name": "Salinas de Oro/Jaitz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31215",
+      "ineCode": "31215",
+      "name": "San Adrián",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31217",
+      "ineCode": "31217",
+      "name": "San Martín de Unx",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31216",
+      "ineCode": "31216",
+      "name": "Sangüesa/Zangoza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31219",
+      "ineCode": "31219",
+      "name": "Sansol",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31220",
+      "ineCode": "31220",
+      "name": "Santacara",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31222",
+      "ineCode": "31222",
+      "name": "Sarriés/Sartze",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31223",
+      "ineCode": "31223",
+      "name": "Sartaguda",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31224",
+      "ineCode": "31224",
+      "name": "Sesma",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31225",
+      "ineCode": "31225",
+      "name": "Sorlada",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31226",
+      "ineCode": "31226",
+      "name": "Sunbilla",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31227",
+      "ineCode": "31227",
+      "name": "Tafalla",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31228",
+      "ineCode": "31228",
+      "name": "Tiebas-Muruarte de Reta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31229",
+      "ineCode": "31229",
+      "name": "Tirapu",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31230",
+      "ineCode": "31230",
+      "name": "Torralba del Río",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31231",
+      "ineCode": "31231",
+      "name": "Torres del Río",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31232",
+      "ineCode": "31232",
+      "name": "Tudela",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31233",
+      "ineCode": "31233",
+      "name": "Tulebras",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31234",
+      "ineCode": "31234",
+      "name": "Ucar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31123",
+      "ineCode": "31123",
+      "name": "Uharte Arakil",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31235",
+      "ineCode": "31235",
+      "name": "Ujué/Uxue",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31236",
+      "ineCode": "31236",
+      "name": "Ultzama",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31237",
+      "ineCode": "31237",
+      "name": "Unciti",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31238",
+      "ineCode": "31238",
+      "name": "Unzué/Untzue",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31239",
+      "ineCode": "31239",
+      "name": "Urdazubi/Urdax",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31240",
+      "ineCode": "31240",
+      "name": "Urdiain",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31241",
+      "ineCode": "31241",
+      "name": "Urraul Alto",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31242",
+      "ineCode": "31242",
+      "name": "Urraul Bajo",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31244",
+      "ineCode": "31244",
+      "name": "Urroz",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31243",
+      "ineCode": "31243",
+      "name": "Urroz-Villa",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31245",
+      "ineCode": "31245",
+      "name": "Urzainqui/Urzainki",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31246",
+      "ineCode": "31246",
+      "name": "Uterga",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31247",
+      "ineCode": "31247",
+      "name": "Uztárroz/Uztarroze",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31118",
+      "ineCode": "31118",
+      "name": "Val de Goñi/Goñerri",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31086",
+      "ineCode": "31086",
+      "name": "Valle de Egüés/Eguesibar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31088",
+      "ineCode": "31088",
+      "name": "Valle de Elorz/Elortzibar",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31194",
+      "ineCode": "31194",
+      "name": "Valle de Ollo/Ollaran",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31260",
+      "ineCode": "31260",
+      "name": "Valle de Yerri/Deierri",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31249",
+      "ineCode": "31249",
+      "name": "Valtierra",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31251",
+      "ineCode": "31251",
+      "name": "Viana",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31252",
+      "ineCode": "31252",
+      "name": "Vidángoz/Bidankoze",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31254",
+      "ineCode": "31254",
+      "name": "Villafranca",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31255",
+      "ineCode": "31255",
+      "name": "Villamayor de Monjardín",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31257",
+      "ineCode": "31257",
+      "name": "Villatuerta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31258",
+      "ineCode": "31258",
+      "name": "Villava/Atarrabia",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31261",
+      "ineCode": "31261",
+      "name": "Yesa",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31262",
+      "ineCode": "31262",
+      "name": "Zabalza/Zabaltza",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31073",
+      "ineCode": "31073",
+      "name": "Ziordia",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31907",
+      "ineCode": "31907",
+      "name": "Zizur Mayor/Zizur Nagusia",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31263",
+      "ineCode": "31263",
+      "name": "Zubieta",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31264",
+      "ineCode": "31264",
+      "name": "Zugarramurdi",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-31265",
+      "ineCode": "31265",
+      "name": "Zúñiga",
+      "provinceCode": "31",
+      "provinceName": "Navarra",
+      "autonomousCommunityCode": "15",
+      "autonomousCommunityName": "Comunidad Foral de Navarra",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
