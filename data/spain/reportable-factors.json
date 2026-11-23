@@ -252,6 +252,28 @@
       ],
       "reportability": "READINESS_ONLY until every applicable methodology, independent assurance, legal and registry gate is accepted",
       "notEquivalentTo": "Issued carbon credits, approved financial instruments or municipal endorsement"
+    },
+    {
+      "id": "municipal_boundary_assignment_confidence",
+      "domain": "geography",
+      "label": "Municipal boundary assignment confidence",
+      "unit": "status",
+      "evidenceClasses": [
+        "DOCUMENTARY",
+        "CALCULATED"
+      ],
+      "required": [
+        "municipality_ine_code",
+        "ign_cnig_boundary_release",
+        "polygon_feature_id",
+        "spatial_join_method",
+        "coordinate_reference_system",
+        "boundary_validity_status",
+        "provisional_segment_distance_when_applicable",
+        "manual_review_receipt_when_flagged"
+      ],
+      "reportability": "REPORTABLE only after an authoritative polygon crosswalk; candidate name-to-INE matching remains PROVISIONAL",
+      "notEquivalentTo": "Final legal boundary determination; provisional segments require source/legal review"
     }
   ],
   "brandProvenance": {
@@ -292,5 +314,13 @@
     "credits": "No credit is created by a map pin, sports event, rainfall forecast, bottle label, evidence hash or token.",
     "tokens": "Any project token or financial instrument requires separate legal, regulatory, accounting, custody, consumer and governance review.",
     "readinessReport": "Municipal climate-finance readiness is a documentary and methodology gate, not a credit or revenue claim."
+  },
+  "geographyPolicy": {
+    "boundarySource": "IGN-CNIG Límites municipales, provinciales y autonómicos",
+    "currentGmlArchiveDate": "2026-08-10",
+    "productUpdateDate": "2026-08-18",
+    "boundaryCaveat": "CNIG notes some provisional boundary segments may have approximately 40 m uncertainty",
+    "venueReviewBufferM": 50,
+    "rule": "Do not auto-assign venue municipality when the point is within the conservative review buffer of a provisional segment; require manual review and preserve candidate municipalities."
   }
 }
