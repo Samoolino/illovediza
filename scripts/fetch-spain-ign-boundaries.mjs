@@ -81,7 +81,7 @@ async function main() {
     sourceService: 'https://api-features.ign.es/collections/administrativeunit/items',
     retrievedAt,
     pages
-  }, null, 2) + '\\n');
+  }, null, 2) + '\n');
   const diagnostic = {
     featureCount: allFeatures.length,
     samplePropertyKeys: [...new Set(allFeatures.slice(0, 50).flatMap(feature => Object.keys(feature.properties || {})))].sort(),
@@ -91,7 +91,7 @@ async function main() {
       geometryType: feature.geometry?.type
     }))
   };
-  await writeFile(diagnosticPath, JSON.stringify(diagnostic, null, 2) + '\\n');
+  await writeFile(diagnosticPath, JSON.stringify(diagnostic, null, 2) + '\n');
   console.log('IGN_FEATURE_SCHEMA_DIAGNOSTIC ' + JSON.stringify(diagnostic));
 
   const rawCollection = { type: 'FeatureCollection', features: allFeatures };
@@ -106,7 +106,7 @@ async function main() {
   console.log(JSON.stringify({ geometryQA: qa }, null, 2));
   if (!qa.ok) throw new Error('IGN municipal polygons failed structural QA; no snapshot was promoted.');
 
-  const sourceBytes = Buffer.from(pages.map(page => page.url + '\\n' + page.body).join('\\n---PAGE---\\n'), 'utf8');
+  const sourceBytes = Buffer.from(pages.map(page => page.url + '\n' + page.body).join('\n---PAGE---\n'), 'utf8');
   const geojsonBytes = Buffer.from(JSON.stringify(extracted), 'utf8');
   const hash = bytes => createHash('sha256').update(bytes).digest('hex');
   const manifest = buildSpainBoundaryManifest({
@@ -138,7 +138,7 @@ async function main() {
     geometryQA: qa,
     publicationStatus: 'NOT_PUBLISHED',
     topologyQA: 'NOT_RUN_REQUIRES_GDAL_POSTGIS_VALIDATION'
-  }, null, 2) + '\\n');
+  }, null, 2) + '\n');
 
   console.log(JSON.stringify({
     status: 'STRUCTURAL_QA_PASSED_LOCAL_SNAPSHOT_NOT_PUBLISHED',
