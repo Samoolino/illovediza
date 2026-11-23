@@ -61,3 +61,8 @@ R integration includes `/api/illovediza/network` and `/illovediza-spain-map.html
 ## DMRV integration boundary
 
 Illovediza's TypeScript package generator passes the OMI-OJO Python canonical SHA-256 test vector. OMI-OJO's local adapter validates the project namespace and package root. There is not yet an authenticated deployed OMI-OJO HTTP service or durable cross-repository evidence store; the contract adapter must not be described as a live backend submission.
+
+
+## Ownership clarification — 2026-11-23
+
+Sports qualification, municipal coverage enrichment, RainWater calculations and reportable-factor definitions are implemented in this Illovediza repository. R consumes the enriched municipality/sports APIs and renders the official IGN boundary overlay, venue markers and factor views. R is not the source of truth for Spain sports eligibility or Illovediza's project-specific climate/product calculations.
