@@ -274,6 +274,271 @@
       ],
       "reportability": "REPORTABLE only after an authoritative polygon crosswalk; candidate name-to-INE matching remains PROVISIONAL",
       "notEquivalentTo": "Final legal boundary determination; provisional segments require source/legal review"
+    },
+    {
+      "id": "first_flush_diversion",
+      "domain": "water_operations",
+      "label": "First-flush diversion volume",
+      "unit": "litres",
+      "evidenceClasses": [
+        "OBSERVED",
+        "CALCULATED"
+      ],
+      "required": [
+        "catchment_id",
+        "first_flush_device_id",
+        "meter_or_level_sensor",
+        "observed_at",
+        "calibration_reference"
+      ],
+      "reportability": "Observed diversion volume only; never infer from rainfall totals."
+    },
+    {
+      "id": "treated_water_volume",
+      "domain": "water_operations",
+      "label": "Treated water volume",
+      "unit": "litres",
+      "evidenceClasses": [
+        "OBSERVED"
+      ],
+      "required": [
+        "treatment_run_id",
+        "input_volume",
+        "output_volume",
+        "meter_ids",
+        "observed_at"
+      ],
+      "reportability": "Must reconcile with source water balance and batch volumes."
+    },
+    {
+      "id": "water_balance_losses",
+      "domain": "water_operations",
+      "label": "Water balance losses and overflow",
+      "unit": "litres",
+      "evidenceClasses": [
+        "OBSERVED",
+        "CALCULATED"
+      ],
+      "required": [
+        "input_volume",
+        "first_flush_volume",
+        "treatment_volume",
+        "overflow_volume",
+        "storage_change",
+        "method_version"
+      ],
+      "reportability": "Must retain measured and calculated components separately."
+    },
+    {
+      "id": "meter_calibration_validity",
+      "domain": "integrity",
+      "label": "Harvest meter calibration validity",
+      "unit": "status",
+      "evidenceClasses": [
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "meter_id",
+        "calibration_certificate_id",
+        "calibrated_at",
+        "valid_until",
+        "calibration_provider"
+      ],
+      "reportability": "Expired or missing calibration places affected harvest events on QA hold."
+    },
+    {
+      "id": "treatment_energy",
+      "domain": "climate_accounting",
+      "label": "Treatment and pumping energy",
+      "unit": "kWh",
+      "evidenceClasses": [
+        "OBSERVED"
+      ],
+      "required": [
+        "meter_id",
+        "energy_period",
+        "treatment_run_id",
+        "source_record"
+      ],
+      "reportability": "Retain meter readings and reporting period; do not estimate as measured energy."
+    },
+    {
+      "id": "packaging_materials",
+      "domain": "climate_accounting",
+      "label": "Packaging material mass by material",
+      "unit": "kg",
+      "evidenceClasses": [
+        "OBSERVED",
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "batch_id",
+        "material_type",
+        "material_mass",
+        "recycled_content",
+        "supplier_declaration"
+      ],
+      "reportability": "Retain separate material types, primary/secondary packaging and supplier evidence."
+    },
+    {
+      "id": "distribution_transport",
+      "domain": "climate_accounting",
+      "label": "Distribution transport activity",
+      "unit": "tonne_km",
+      "evidenceClasses": [
+        "OBSERVED",
+        "CALCULATED"
+      ],
+      "required": [
+        "shipment_id",
+        "mass",
+        "distance",
+        "transport_mode",
+        "emission_factor_version"
+      ],
+      "reportability": "Keep activity data distinct from emission-factor calculations."
+    },
+    {
+      "id": "ghg_project_emissions",
+      "domain": "climate_accounting",
+      "label": "Project greenhouse-gas emissions",
+      "unit": "kgCO2e",
+      "evidenceClasses": [
+        "CALCULATED"
+      ],
+      "required": [
+        "project_boundary",
+        "activity_data",
+        "emission_factor_source",
+        "emission_factor_version",
+        "calculation_method",
+        "uncertainty"
+      ],
+      "reportability": "Project emissions are not the same as avoided emissions or credits."
+    },
+    {
+      "id": "ghg_baseline_emissions",
+      "domain": "climate_accounting",
+      "label": "Baseline greenhouse-gas emissions",
+      "unit": "kgCO2e",
+      "evidenceClasses": [
+        "CALCULATED"
+      ],
+      "required": [
+        "baseline_scenario",
+        "baseline_period",
+        "methodology_id",
+        "methodology_version",
+        "activity_data",
+        "uncertainty"
+      ],
+      "reportability": "Baseline must be justified and methodologically valid."
+    },
+    {
+      "id": "ghg_leakage",
+      "domain": "climate_accounting",
+      "label": "Project leakage",
+      "unit": "kgCO2e",
+      "evidenceClasses": [
+        "CALCULATED"
+      ],
+      "required": [
+        "methodology_id",
+        "leakage_boundary",
+        "activity_data",
+        "factor_source",
+        "uncertainty"
+      ],
+      "reportability": "Report only when required and within the selected methodology."
+    },
+    {
+      "id": "ghg_net_impact",
+      "domain": "climate_accounting",
+      "label": "Net greenhouse-gas impact",
+      "unit": "kgCO2e",
+      "evidenceClasses": [
+        "CALCULATED"
+      ],
+      "required": [
+        "baseline_emissions",
+        "project_emissions",
+        "leakage",
+        "methodology_id",
+        "methodology_version",
+        "uncertainty"
+      ],
+      "reportability": "No net impact or reduction claim without an approved methodology and independent review."
+    },
+    {
+      "id": "ghg_uncertainty",
+      "domain": "climate_accounting",
+      "label": "GHG inventory uncertainty",
+      "unit": "percent",
+      "evidenceClasses": [
+        "CALCULATED"
+      ],
+      "required": [
+        "data_quality_assessment",
+        "factor_uncertainty",
+        "methodology_id",
+        "calculation_method"
+      ],
+      "reportability": "Uncertainty must be quantified and shown with the reported result."
+    },
+    {
+      "id": "laboratory_parameter_coverage",
+      "domain": "product_quality",
+      "label": "Mandatory laboratory parameter coverage",
+      "unit": "percent",
+      "evidenceClasses": [
+        "LABORATORY",
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "product_specification_version",
+        "required_parameter_set",
+        "sample_id",
+        "laboratory_report_id",
+        "test_results"
+      ],
+      "reportability": "Missing mandatory parameters remain missing; coverage is not equivalent to passing quality."
+    },
+    {
+      "id": "batch_release_status",
+      "domain": "product_quality",
+      "label": "Product batch release state",
+      "unit": "status",
+      "evidenceClasses": [
+        "DOCUMENTARY",
+        "HUMAN_APPROVAL"
+      ],
+      "required": [
+        "batch_id",
+        "product_specification_version",
+        "sample_ids",
+        "lab_reports",
+        "deviation_register",
+        "qa_decision_id"
+      ],
+      "reportability": "Only authorized human/operator decision may release a batch."
+    },
+    {
+      "id": "climate_verification_status",
+      "domain": "climate_finance",
+      "label": "Independent climate verification state",
+      "unit": "status",
+      "evidenceClasses": [
+        "DOCUMENTARY"
+      ],
+      "required": [
+        "methodology_id",
+        "baseline_approval",
+        "monitoring_period",
+        "verification_body",
+        "verification_report",
+        "registry_reference"
+      ],
+      "reportability": "Verification status is distinct from credit issuance and retirement."
     }
   ],
   "brandProvenance": {
@@ -322,5 +587,6 @@
     "boundaryCaveat": "CNIG notes some provisional boundary segments may have approximately 40 m uncertainty",
     "venueReviewBufferM": 50,
     "rule": "Do not auto-assign venue municipality when the point is within the conservative review buffer of a provisional segment; require manual review and preserve candidate municipalities."
-  }
+  },
+  "climateAccountingPolicy": "Separate observed activity data, calculated emissions, baseline, project emissions, leakage, uncertainty, independently verified impact, credit issuance and credit retirement. Never combine measured water volume or product sales with carbon-credit status."
 }
