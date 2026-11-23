@@ -1,0 +1,1290 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "04",
+  "autonomousCommunityName": "Illes Balears",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-07002",
+      "ineCode": "07002",
+      "name": "Alaior",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07001",
+      "ineCode": "07001",
+      "name": "Alaró",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07003",
+      "ineCode": "07003",
+      "name": "Alcúdia",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07004",
+      "ineCode": "07004",
+      "name": "Algaida",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07005",
+      "ineCode": "07005",
+      "name": "Andratx",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07901",
+      "ineCode": "07901",
+      "name": "Ariany",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07006",
+      "ineCode": "07006",
+      "name": "Artà",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07007",
+      "ineCode": "07007",
+      "name": "Banyalbufar",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07008",
+      "ineCode": "07008",
+      "name": "Binissalem",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07009",
+      "ineCode": "07009",
+      "name": "Búger",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07010",
+      "ineCode": "07010",
+      "name": "Bunyola",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07011",
+      "ineCode": "07011",
+      "name": "Calvià",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07012",
+      "ineCode": "07012",
+      "name": "Campanet",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07013",
+      "ineCode": "07013",
+      "name": "Campos",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07014",
+      "ineCode": "07014",
+      "name": "Capdepera",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07064",
+      "ineCode": "07064",
+      "name": "Castell, Es",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07015",
+      "ineCode": "07015",
+      "name": "Ciutadella de Menorca",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07016",
+      "ineCode": "07016",
+      "name": "Consell",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07017",
+      "ineCode": "07017",
+      "name": "Costitx",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07018",
+      "ineCode": "07018",
+      "name": "Deià",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07026",
+      "ineCode": "07026",
+      "name": "Eivissa",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07019",
+      "ineCode": "07019",
+      "name": "Escorca",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07020",
+      "ineCode": "07020",
+      "name": "Esporles",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07021",
+      "ineCode": "07021",
+      "name": "Estellencs",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07022",
+      "ineCode": "07022",
+      "name": "Felanitx",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07023",
+      "ineCode": "07023",
+      "name": "Ferreries",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07024",
+      "ineCode": "07024",
+      "name": "Formentera",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07025",
+      "ineCode": "07025",
+      "name": "Fornalutx",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07027",
+      "ineCode": "07027",
+      "name": "Inca",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07028",
+      "ineCode": "07028",
+      "name": "Lloret de Vistalegre",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07029",
+      "ineCode": "07029",
+      "name": "Lloseta",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07030",
+      "ineCode": "07030",
+      "name": "Llubí",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07031",
+      "ineCode": "07031",
+      "name": "Llucmajor",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07033",
+      "ineCode": "07033",
+      "name": "Manacor",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07034",
+      "ineCode": "07034",
+      "name": "Mancor de la Vall",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07032",
+      "ineCode": "07032",
+      "name": "Maó",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07035",
+      "ineCode": "07035",
+      "name": "Maria de la Salut",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07036",
+      "ineCode": "07036",
+      "name": "Marratxí",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07037",
+      "ineCode": "07037",
+      "name": "Mercadal, Es",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07902",
+      "ineCode": "07902",
+      "name": "Migjorn Gran, Es",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07038",
+      "ineCode": "07038",
+      "name": "Montuïri",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07039",
+      "ineCode": "07039",
+      "name": "Muro",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07040",
+      "ineCode": "07040",
+      "name": "Palma",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07041",
+      "ineCode": "07041",
+      "name": "Petra",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07044",
+      "ineCode": "07044",
+      "name": "Pobla, Sa",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07042",
+      "ineCode": "07042",
+      "name": "Pollença",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07043",
+      "ineCode": "07043",
+      "name": "Porreres",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07045",
+      "ineCode": "07045",
+      "name": "Puigpunyent",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07059",
+      "ineCode": "07059",
+      "name": "Salines, Ses",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07046",
+      "ineCode": "07046",
+      "name": "Sant Antoni de Portmany",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07049",
+      "ineCode": "07049",
+      "name": "Sant Joan",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07050",
+      "ineCode": "07050",
+      "name": "Sant Joan de Labritja",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07048",
+      "ineCode": "07048",
+      "name": "Sant Josep de sa Talaia",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07051",
+      "ineCode": "07051",
+      "name": "Sant Llorenç des Cardassar",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07052",
+      "ineCode": "07052",
+      "name": "Sant Lluís",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07053",
+      "ineCode": "07053",
+      "name": "Santa Eugènia",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07054",
+      "ineCode": "07054",
+      "name": "Santa Eulària des Riu",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07055",
+      "ineCode": "07055",
+      "name": "Santa Margalida",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07056",
+      "ineCode": "07056",
+      "name": "Santa María del Camí",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07057",
+      "ineCode": "07057",
+      "name": "Santanyí",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07058",
+      "ineCode": "07058",
+      "name": "Selva",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07047",
+      "ineCode": "07047",
+      "name": "Sencelles",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07060",
+      "ineCode": "07060",
+      "name": "Sineu",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07061",
+      "ineCode": "07061",
+      "name": "Sóller",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07062",
+      "ineCode": "07062",
+      "name": "Son Servera",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07063",
+      "ineCode": "07063",
+      "name": "Valldemossa",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-07065",
+      "ineCode": "07065",
+      "name": "Vilafranca de Bonany",
+      "provinceCode": "07",
+      "provinceName": "Balears, Illes",
+      "autonomousCommunityCode": "04",
+      "autonomousCommunityName": "Illes Balears",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
