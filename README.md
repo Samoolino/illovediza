@@ -48,7 +48,7 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 - R owns reusable geospatial discovery, climate/map reporting services and spatial visualization adapters.
 - Repositories integrate through versioned APIs and contracts; they do not merge their unrelated product identities or copy one project's evidence into another.
 
-## Spain municipal registry and APIs
+## Reporting centre\n\n- `/reports` — municipal reporting catalogue and INE-code launcher.\n- `/reports/municipal?ineCode=28079` — rendered municipal evidence report.\n- `/api/reports/municipal?ineCode=28079` — machine-readable municipal report envelope. Until AquaDMRV and physical source feeds are authenticated, reports are explicitly reference-only and contain no invented measurements.\n\n## Spain municipal registry and APIs
 
 - `data/spain/municipalities/index.json` indexes all 19 autonomous communities/cities and 8,132 municipality records.
 - `GET /api/municipalities?limit=10000&offset=0` returns the complete municipal reference set; supports `q`, `community`, `offset` and `limit`.
