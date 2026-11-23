@@ -3,12 +3,67 @@
   "country": "Spain",
   "purpose": "Map normalized environmental and operational records into controlled DMRV evidence classes without upgrading unsupported claims.",
   "indicator_domains": {
-    "meteorology": ["rainfall", "rainfall_forecast", "temperature", "relative_humidity", "pressure", "wind_speed", "wind_direction", "atmospheric_moisture"],
-    "air_quality": ["NO2", "O3", "PM2_5", "PM10", "SO2", "CO", "aerosol_or_dust"],
-    "remote_sensing": ["satellite_precipitation", "land_surface_context", "vegetation_or_land_cover_when_relevant"],
-    "water": ["collection_volume", "first_flush_state", "sample_custody", "water_quality_parameters", "batch_id", "seal_state"],
-    "esg_ghg": ["energy", "fuel", "transport", "materials", "waste", "emission_factor", "calculated_emissions", "uncertainty"],
-    "governance": ["site_authorization", "operator_identity", "method_version", "review_state", "exception_state"]
+    "meteorology": [
+      "rainfall",
+      "rainfall_forecast",
+      "temperature",
+      "relative_humidity",
+      "pressure",
+      "wind_speed",
+      "wind_direction",
+      "atmospheric_moisture"
+    ],
+    "air_quality": [
+      "NO2",
+      "O3",
+      "PM2_5",
+      "PM10",
+      "SO2",
+      "CO",
+      "aerosol_or_dust"
+    ],
+    "remote_sensing": [
+      "satellite_precipitation",
+      "land_surface_context",
+      "vegetation_or_land_cover_when_relevant"
+    ],
+    "water": [
+      "collection_volume",
+      "first_flush_state",
+      "sample_custody",
+      "water_quality_parameters",
+      "batch_id",
+      "seal_state"
+    ],
+    "esg_ghg": [
+      "energy",
+      "fuel",
+      "transport",
+      "materials",
+      "waste",
+      "emission_factor",
+      "calculated_emissions",
+      "uncertainty"
+    ],
+    "governance": [
+      "site_authorization",
+      "operator_identity",
+      "method_version",
+      "review_state",
+      "exception_state"
+    ],
+    "sports": [
+      "venue_energy",
+      "venue_fuel",
+      "water_use",
+      "waste_by_stream",
+      "event_travel_activity",
+      "facility_operating_hours",
+      "event_attendance",
+      "sports_participation",
+      "accessibility_and_inclusion",
+      "community_engagement"
+    ]
   },
   "evidence_classes": {
     "REPORTABLE": "Source, timestamp, unit, spatial identity, provenance and quality checks pass.",
@@ -20,8 +75,29 @@
     "RELEASED": "Applicable operational, QMS and regulatory/product-release gates have passed."
   },
   "dmrv_record": {
-    "required": ["node_id", "indicator", "value", "unit", "timestamp", "spatial_reference", "source_id", "source_record_id", "method", "evidence_class", "quality_state", "provenance", "schema_version"],
-    "optional": ["uncertainty", "calculation_formula", "emission_factor_id", "reviewer_id", "supersedes", "exception_id"]
+    "required": [
+      "node_id",
+      "indicator",
+      "value",
+      "unit",
+      "timestamp",
+      "spatial_reference",
+      "source_id",
+      "source_record_id",
+      "method",
+      "evidence_class",
+      "quality_state",
+      "provenance",
+      "schema_version"
+    ],
+    "optional": [
+      "uncertainty",
+      "calculation_formula",
+      "emission_factor_id",
+      "reviewer_id",
+      "supersedes",
+      "exception_id"
+    ]
   },
   "package_rules": {
     "canonicalization": "Deterministic field ordering, explicit units and normalized timestamps.",
@@ -35,7 +111,22 @@
     "VALIDATED requires a defined validation method and retained evidence.",
     "VERIFIED requires an authorized review procedure.",
     "ANCHORED only describes cryptographic anchoring.",
-    "RELEASED requires all applicable physical, QMS, regulatory and governance gates."
+    "RELEASED requires all applicable physical, QMS, regulatory and governance gates.",
+    "Sports participation and event counts are social/activity data, not automatically environmental reductions or carbon credits."
   ],
-  "fail_closed": ["missing_source", "unit_conflict", "material_time_conflict", "material_spatial_conflict", "unknown_method", "invalid_provenance", "unresolved_cross_source_conflict"]
+  "fail_closed": [
+    "missing_source",
+    "unit_conflict",
+    "material_time_conflict",
+    "material_spatial_conflict",
+    "unknown_method",
+    "invalid_provenance",
+    "unresolved_cross_source_conflict"
+  ],
+  "project_id": "ILL-FUERZA-ES",
+  "project_sports": [
+    "padel",
+    "tennis",
+    "football"
+  ]
 }
