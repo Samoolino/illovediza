@@ -1,6 +1,16 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { buildRainwaterBrandRecord } from '../src/sports/qualification.mjs';
+import { buildIllovedizaEvidencePackage } from '../src/dmrv/omi-ojo-contract.mjs';
+
+const evidence = buildIllovedizaEvidencePackage({
+  evidenceId: 'ILL-EVID-2026-0001', evidenceClass: 'OBSERVED',
+  sourceRefs: ['meter:PAD-01'], observationRefs: ['OBS-HARVEST-01'],
+  eventSiteRefs: ['VENUE-MADRID-001'], methodologyRef: 'ILL-RW-1.0',
+  qualityState: 'REPORTABLE', createdAt: '2026-11-23T10:20:00Z',
+  observationWindow: { start: '2026-11-23T10:00:00Z', end: '2026-11-23T10:20:00Z' },
+  geographyRef: 'ES-MUNI-28079', contentHashes: ['a'.repeat(64)]
+});
 
 const input = {
   projectId: 'ILL-FUERZA-ES',
@@ -15,8 +25,9 @@ const input = {
   productFormat: 'BOTTLE',
   brandName: 'Madrid · Polideportivo Municipal · RainWater',
   dmrvStatus: 'REVIEW_PENDING',
-  packageId: 'ILL-EVID-2026-0001',
-  evidenceRoot: 'a'.repeat(64),
+  packageId: evidence.package.evidence_id,
+  evidenceRoot: evidence.evidenceRoot,
+  evidencePackage: evidence.package,
   anchorStatus: 'NOT_SUBMITTED'
 };
 
@@ -73,4 +84,9 @@ test('a cryptographic anchor never upgrades water quality or authorizes product 
   assert.equal(brand.claims.productReleaseStatus, 'NOT_RELEASED');
   assert.equal(brand.claims.verifiedClimateClaim, false);
   assert.equal(brand.claims.carbonCreditIssued, false);
+});
+
+
+test('rejects a brand record when the evidence root does not match its referenced package', () => {
+  assert.throws(() => buildRainwaterBrandRecord({ ...input, evidenceRoot: '0'.repeat(64) }), /does not match the referenced evidence package/);
 });
