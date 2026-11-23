@@ -2,8 +2,8 @@
   "project_id": "ILL-FUERZA-ES",
   "tag": "Illovediza Fuerza",
   "project_type": "INDEPENDENT_SPORTS_ESG_TERRITORIAL_PROGRAMME",
-  "parent_program": "Independent product; shared DMRV services supplied by OMI-OJO",
-  "relationship_to_global_lagos_dubai": "Independent Spain programme using common OMI-OJO evidence contracts; no cross-project evidence inheritance",
+  "parent_program": "Independent Spain product; shared water/harvest DMRV services designated to AquaDMRV",
+  "relationship_to_global_lagos_dubai": "Independent Spain programme; no cross-project evidence inheritance. Legacy OMI-OJO evidence schema compatibility is retained only as a test fixture.",
   "country": "Spain",
   "scope": "Whole of Spain",
   "status": "DESIGNED_FOR_CONTROLLED_IMPLEMENTATION",
@@ -108,6 +108,9 @@
     "verification": "Reference counts; validate against dated authoritative INE releases before claiming verified coverage."
   },
   "product_home": "https://github.com/Samoolino/illovediza",
-  "shared_dmrv_home": "https://github.com/Samoolino/OMI-OJO",
-  "geospatial_home": "https://github.com/Samoolino/R"
+  "shared_dmrv_home": "https://github.com/Samoolino/AquaDMRV",
+  "geospatial_home": "https://github.com/Samoolino/R",
+  "related_evidence_platform": "https://github.com/Samoolino/OMI-OJO",
+  "dmrv_runtime_status": "NOT_CONNECTED_AQUADMRV_REPOSITORY_ACCESS_REQUIRED",
+  "dmrv_ownership": "AquaDMRV owns canonical physical water events, QMS/batch evidence, cryptographic anchoring/readback and climate-accounting assurance; Illovediza owns Spain project profiles, municipal/venue/product identity and reports; R is a read-only spatial/reporting consumer."
 }
