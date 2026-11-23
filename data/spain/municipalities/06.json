@@ -1,0 +1,1955 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "06",
+  "autonomousCommunityName": "Cantabria",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-39001",
+      "ineCode": "39001",
+      "name": "Alfoz de Lloredo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39002",
+      "ineCode": "39002",
+      "name": "Ampuero",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39003",
+      "ineCode": "39003",
+      "name": "Anievas",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39004",
+      "ineCode": "39004",
+      "name": "Arenas de Iguña",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39005",
+      "ineCode": "39005",
+      "name": "Argoños",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39006",
+      "ineCode": "39006",
+      "name": "Arnuero",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39007",
+      "ineCode": "39007",
+      "name": "Arredondo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39008",
+      "ineCode": "39008",
+      "name": "Astillero, El",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39009",
+      "ineCode": "39009",
+      "name": "Bárcena de Cicero",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39010",
+      "ineCode": "39010",
+      "name": "Bárcena de Pie de Concha",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39011",
+      "ineCode": "39011",
+      "name": "Bareyo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39012",
+      "ineCode": "39012",
+      "name": "Cabezón de la Sal",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39013",
+      "ineCode": "39013",
+      "name": "Cabezón de Liébana",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39014",
+      "ineCode": "39014",
+      "name": "Cabuérniga",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39015",
+      "ineCode": "39015",
+      "name": "Camaleño",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39016",
+      "ineCode": "39016",
+      "name": "Camargo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39027",
+      "ineCode": "39027",
+      "name": "Campoo de Enmedio",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39017",
+      "ineCode": "39017",
+      "name": "Campoo de Yuso",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39018",
+      "ineCode": "39018",
+      "name": "Cartes",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39019",
+      "ineCode": "39019",
+      "name": "Castañeda",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39020",
+      "ineCode": "39020",
+      "name": "Castro-Urdiales",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39021",
+      "ineCode": "39021",
+      "name": "Cieza",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39022",
+      "ineCode": "39022",
+      "name": "Cillorigo de Liébana",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39023",
+      "ineCode": "39023",
+      "name": "Colindres",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39024",
+      "ineCode": "39024",
+      "name": "Comillas",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39025",
+      "ineCode": "39025",
+      "name": "Corrales de Buelna, Los",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39026",
+      "ineCode": "39026",
+      "name": "Corvera de Toranzo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39028",
+      "ineCode": "39028",
+      "name": "Entrambasaguas",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39029",
+      "ineCode": "39029",
+      "name": "Escalante",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39030",
+      "ineCode": "39030",
+      "name": "Guriezo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39031",
+      "ineCode": "39031",
+      "name": "Hazas de Cesto",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39032",
+      "ineCode": "39032",
+      "name": "Hermandad de Campoo de Suso",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39033",
+      "ineCode": "39033",
+      "name": "Herrerías",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39034",
+      "ineCode": "39034",
+      "name": "Lamasón",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39035",
+      "ineCode": "39035",
+      "name": "Laredo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39036",
+      "ineCode": "39036",
+      "name": "Liendo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39037",
+      "ineCode": "39037",
+      "name": "Liérganes",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39038",
+      "ineCode": "39038",
+      "name": "Limpias",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39039",
+      "ineCode": "39039",
+      "name": "Luena",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39040",
+      "ineCode": "39040",
+      "name": "Marina de Cudeyo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39041",
+      "ineCode": "39041",
+      "name": "Mazcuerras",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39042",
+      "ineCode": "39042",
+      "name": "Medio Cudeyo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39043",
+      "ineCode": "39043",
+      "name": "Meruelo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39044",
+      "ineCode": "39044",
+      "name": "Miengo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39045",
+      "ineCode": "39045",
+      "name": "Miera",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39046",
+      "ineCode": "39046",
+      "name": "Molledo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39047",
+      "ineCode": "39047",
+      "name": "Noja",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39048",
+      "ineCode": "39048",
+      "name": "Penagos",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39049",
+      "ineCode": "39049",
+      "name": "Peñarrubia",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39050",
+      "ineCode": "39050",
+      "name": "Pesaguero",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39051",
+      "ineCode": "39051",
+      "name": "Pesquera",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39052",
+      "ineCode": "39052",
+      "name": "Piélagos",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39053",
+      "ineCode": "39053",
+      "name": "Polaciones",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39054",
+      "ineCode": "39054",
+      "name": "Polanco",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39055",
+      "ineCode": "39055",
+      "name": "Potes",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39056",
+      "ineCode": "39056",
+      "name": "Puente Viesgo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39057",
+      "ineCode": "39057",
+      "name": "Ramales de la Victoria",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39058",
+      "ineCode": "39058",
+      "name": "Rasines",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39059",
+      "ineCode": "39059",
+      "name": "Reinosa",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39060",
+      "ineCode": "39060",
+      "name": "Reocín",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39061",
+      "ineCode": "39061",
+      "name": "Ribamontán al Mar",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39062",
+      "ineCode": "39062",
+      "name": "Ribamontán al Monte",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39063",
+      "ineCode": "39063",
+      "name": "Rionansa",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39064",
+      "ineCode": "39064",
+      "name": "Riotuerto",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39065",
+      "ineCode": "39065",
+      "name": "Rozas de Valdearroyo, Las",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39066",
+      "ineCode": "39066",
+      "name": "Ruente",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39067",
+      "ineCode": "39067",
+      "name": "Ruesga",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39068",
+      "ineCode": "39068",
+      "name": "Ruiloba",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39069",
+      "ineCode": "39069",
+      "name": "San Felices de Buelna",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39070",
+      "ineCode": "39070",
+      "name": "San Miguel de Aguayo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39071",
+      "ineCode": "39071",
+      "name": "San Pedro del Romeral",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39072",
+      "ineCode": "39072",
+      "name": "San Roque de Riomiera",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39080",
+      "ineCode": "39080",
+      "name": "San Vicente de la Barquera",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39073",
+      "ineCode": "39073",
+      "name": "Santa Cruz de Bezana",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39074",
+      "ineCode": "39074",
+      "name": "Santa María de Cayón",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39075",
+      "ineCode": "39075",
+      "name": "Santander",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39076",
+      "ineCode": "39076",
+      "name": "Santillana del Mar",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39077",
+      "ineCode": "39077",
+      "name": "Santiurde de Reinosa",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39078",
+      "ineCode": "39078",
+      "name": "Santiurde de Toranzo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39079",
+      "ineCode": "39079",
+      "name": "Santoña",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39081",
+      "ineCode": "39081",
+      "name": "Saro",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39082",
+      "ineCode": "39082",
+      "name": "Selaya",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39083",
+      "ineCode": "39083",
+      "name": "Soba",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39084",
+      "ineCode": "39084",
+      "name": "Solórzano",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39085",
+      "ineCode": "39085",
+      "name": "Suances",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39086",
+      "ineCode": "39086",
+      "name": "Tojos, Los",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39087",
+      "ineCode": "39087",
+      "name": "Torrelavega",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39088",
+      "ineCode": "39088",
+      "name": "Tresviso",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39089",
+      "ineCode": "39089",
+      "name": "Tudanca",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39090",
+      "ineCode": "39090",
+      "name": "Udías",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39095",
+      "ineCode": "39095",
+      "name": "Val de San Vicente",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39091",
+      "ineCode": "39091",
+      "name": "Valdáliga",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39092",
+      "ineCode": "39092",
+      "name": "Valdeolea",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39093",
+      "ineCode": "39093",
+      "name": "Valdeprado del Río",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39094",
+      "ineCode": "39094",
+      "name": "Valderredible",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39101",
+      "ineCode": "39101",
+      "name": "Valle de Villaverde",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39096",
+      "ineCode": "39096",
+      "name": "Vega de Liébana",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39097",
+      "ineCode": "39097",
+      "name": "Vega de Pas",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39098",
+      "ineCode": "39098",
+      "name": "Villacarriedo",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39099",
+      "ineCode": "39099",
+      "name": "Villaescusa",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39100",
+      "ineCode": "39100",
+      "name": "Villafufre",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-39102",
+      "ineCode": "39102",
+      "name": "Voto",
+      "provinceCode": "39",
+      "provinceName": "Cantabria",
+      "autonomousCommunityCode": "06",
+      "autonomousCommunityName": "Cantabria",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
