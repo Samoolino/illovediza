@@ -79,3 +79,27 @@ RainWater brand records now bind the municipal name and five-digit INE code, can
 - OMI-OJO CI: five JavaScript DMRV contract tests, 25 Python production tests and the Next.js web build (including the authenticated Illovediza intake route) passed.
 - RainWater label generation now requires a real Illovediza canonical evidence package whose SHA-256 root matches. An ANCHORED label status additionally requires network, transaction, block timestamp/number and an independent readback root matching the package root.
 - These tests validate software contracts. They do not establish that sports venues have been imported, rainwater has been harvested, product quality has passed, or a blockchain anchor has been submitted in production.
+
+## Execution update — 2026-11-23: IGN, venue candidates and AquaDMRV
+
+### Completed in source
+
+- Added a separate seven-record OSM-backed discovery seed: two padel and five football-stadium candidates. Zero are qualified; zero same-complex major-padel/football relationships are confirmed.
+- Added a national Spain Overpass discovery query and candidate-only API payload. Candidate records are separate from the active qualified sports registry.
+- Added IGN municipal polygon structural QA, 8,132-code crosswalk acceptance, SHA-256 source/GeoJSON manifest generation and a local-cache-only CLI.
+- Added Illovediza reporting centre, rendered municipal report and machine-readable report API. The report envelope explicitly refuses to infer live rainfall, harvest, laboratory, product release, blockchain or climate-verification data.
+- Added an R read-only municipal-report proxy and candidate map layer with dashed/hollow candidate pins, qualification filters and municipal report links.
+- Added AquaDMRV Illovediza project and RainWater QMS profiles, including physical harvest, stream, cryptographic, water-quality, batch release, GHG and climate-finance acceptance requirements.
+
+### Verification
+
+- Illovediza CI: 41 tests passed; 8,132-municipality registry verification and Next.js build passed, including /reports, /reports/municipal and /api/reports/municipal.
+- R CI: 138 tests passed; observatory build passed, including candidate filtering and municipal-report proxy.
+- These tests validate software and report contracts only.
+
+### Open execution gates
+
+- IGN archive not yet downloaded or ingested. The current execution environment cannot resolve the CNIG download host. The ingestion command requires the downloaded official archive and a verified polygon layer/code property. The CNIG archive may contain boundary-line layers; use validated AU.AdministrativeUnit municipal polygons or a topology-validated polygonization path, not boundary lines mislabeled as polygons.
+- Candidate venues require primary OSM API/Overpass re-fetch, exact geometry-to-IGN polygon crosswalk, municipal ownership/management evidence, significance evidence and venue/operator permission.
+- AquaDMRV repository currently returns GitHub 404 through the connected integration. Its actual contracts and runtime have not been inspected; no live AquaDMRV event stream, persistence, QMS or blockchain anchoring is claimed.
+- Vercel production deployment API returned HTTP 402 because the team reached its daily deployment API limit. GitHub commits and CI are successful, but the latest Illovediza/R changes have not been confirmed deployed to production.
