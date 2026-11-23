@@ -57,7 +57,9 @@ test('anchored bottle provenance requires a transaction, network and block times
       networkId: 'eip155:1',
       transactionHash: '0x' + 'b'.repeat(64),
       blockTimestamp: '2026-11-23T10:20:00Z',
-      blockNumber: 24000000
+      blockNumber: 24000000,
+      readbackRoot: evidence.evidenceRoot,
+      verificationStatus: 'MATCHED'
     }
   });
   assert.equal(brand.provenance.anchor.status, 'ANCHORED');
@@ -89,4 +91,20 @@ test('a cryptographic anchor never upgrades water quality or authorizes product 
 
 test('rejects a brand record when the evidence root does not match its referenced package', () => {
   assert.throws(() => buildRainwaterBrandRecord({ ...input, evidenceRoot: '0'.repeat(64) }), /does not match the referenced evidence package/);
+});
+
+
+test('refuses an ANCHORED product label without an independent matching readback', () => {
+  assert.throws(() => buildRainwaterBrandRecord({
+    ...input,
+    anchorStatus: 'ANCHORED',
+    anchor: {
+      networkId: 'eip155:1',
+      transactionHash: '0x' + 'b'.repeat(64),
+      blockTimestamp: '2026-11-23T10:20:00Z',
+      blockNumber: 24000000,
+      readbackRoot: '0'.repeat(64),
+      verificationStatus: 'MATCHED'
+    }
+  }), /independent anchor readback must match the evidence root/);
 });
