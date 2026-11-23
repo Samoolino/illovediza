@@ -2,7 +2,7 @@
 
 ## 1. Experience direction
 
-Build an **airport/observatory-style command interface**: a polished national programme landing experience with a high-clarity geographic control surface, live-looking but truthfully labelled status panels, municipal drill-down and institutional reporting. The visual language should communicate a national sports network, not imply that all nodes are already live.
+Build an **airport/observatory-style municipal climate-product command interface**: a premium RainWater product story, national geography control surface, sports-venue discovery/qualification, physical harvest/QMS lifecycle, municipal drill-down and institutional reporting. The visual language must distinguish administrative references, candidates, authorized sites, commissioned harvest nodes and independently verified evidence.
 
 Primary navigation:
 - Overview
@@ -28,10 +28,10 @@ A connected Spain-wide programme using padel, tennis and football facilities to 
 
 The landing page must explain:
 - why sport venues are the local engagement infrastructure;
-- how padel, tennis and football provide complementary reach;
+- why padel and qualifying football define the primary venue strategy, with selective tennis;
 - how national/regional/provincial/municipal competition structures connect communities;
 - how venue nodes differ from municipal reporting references;
-- how measured data becomes reviewed evidence and reports;
+- how rainfall, measured harvest, treatment, laboratory custody, batch release and cryptographic evidence become reviewed municipal reports;
 - how the programme protects data quality and avoids unsupported impact claims.
 
 ## 3. Map views
@@ -61,7 +61,7 @@ Do not make Unity/Unreal a dependency of the public web application. Treat engin
 
 ## 5. Climate and environmental data
 
-R's provider adapters can supply source-linked climate/context data. Clearly distinguish weather forecasts, modelled/reanalysis data, satellite products, direct instrument observations, calculations and proxies. A point weather response is not a municipal area average. Municipal aggregation requires documented spatial weighting, geometry version, coverage threshold and missingness treatment.
+AquaDMRV is the intended canonical source for authenticated physical harvest, water-quality/QMS and climate-accounting evidence. R's provider adapters can supply source-linked climate/context data. Clearly distinguish weather forecasts, modelled/reanalysis data, satellite products, direct instrument observations, calculations and proxies. A rainfall estimate is not harvested volume, and harvested volume is not a product-quality result. A point weather response is not a municipal area average. Municipal aggregation requires documented spatial weighting, geometry version, coverage threshold and missingness treatment.
 
 ## 6. Reporting products
 
@@ -69,7 +69,7 @@ R's provider adapters can supply source-linked climate/context data. Clearly dis
 - Provincial and autonomous-community portfolio reports with preserved municipal provenance.
 - National programme report with coverage and comparability qualifications.
 - Sports-club / venue report scoped to the authorized operator and period.
-- ESG/GHG report with methodology, boundary, factors, calculations, uncertainty and review.
+- Product and batch QMS report with specification version, lab scope, custody, deviations, QA holds and authorized release decisions.\n- ESG/GHG report with methodology, boundary, factors, calculations, uncertainty and independent review.\n- Climate-finance readiness report distinguishing eligibility screening, verified impact, credit issuance and retirement.
 - Social impact report with definitions, consent, disaggregation safeguards and limitations.
 - Governance report with permissions, accountability, controls, complaints and review trail.
 - Evidence appendix linking every material figure to source and package identifiers.
@@ -81,3 +81,12 @@ Support loading, unavailable, stale, insufficient coverage, restricted, disputed
 ## 8. Secrets and configuration
 
 Use server-side environment variables only. Commit `.env.example` with names and descriptions, never secrets. Mapbox access tokens must be restricted to intended origins/scopes. Keep provider credentials and anchor keys out of browser bundles, reports and public exports.
+
+
+## 9. AquaDMRV integration and report access
+
+AquaDMRV owns canonical event ingestion, signed physical observations, evidence-package lifecycle, water-quality/QMS state, cryptographic anchoring/readback and climate-accounting assurance. Illovediza owns the Spanish project profile and municipal product/reporting experience. R is a read-only geospatial and analytical consumer.
+
+The Illovediza frontend includes a municipal reporting centre at `/reports`, a rendered report at `/reports/municipal?ineCode=<five-digit-INE>`, and a machine-readable endpoint at `/api/reports/municipal?ineCode=<five-digit-INE>`. R exposes a read-only proxy at `/api/illovediza/municipal-report?ineCode=<five-digit-INE>`.
+
+Until AquaDMRV's repository schemas are inspected and the service connection passes a live authenticated handshake, these reports are reference-only and must show unavailable/pending evidence states. No scheduled report may claim live harvest, laboratory compliance, product release, carbon verification or blockchain anchoring without source-backed records and persisted run receipts.
