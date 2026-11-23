@@ -1,0 +1,3418 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "13",
+  "autonomousCommunityName": "Comunidad de Madrid",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-28001",
+      "ineCode": "28001",
+      "name": "Acebeda, La",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28002",
+      "ineCode": "28002",
+      "name": "Ajalvir",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28003",
+      "ineCode": "28003",
+      "name": "Alameda del Valle",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28004",
+      "ineCode": "28004",
+      "name": "Álamo, El",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28005",
+      "ineCode": "28005",
+      "name": "Alcalá de Henares",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28006",
+      "ineCode": "28006",
+      "name": "Alcobendas",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28007",
+      "ineCode": "28007",
+      "name": "Alcorcón",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28008",
+      "ineCode": "28008",
+      "name": "Aldea del Fresno",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28009",
+      "ineCode": "28009",
+      "name": "Algete",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28010",
+      "ineCode": "28010",
+      "name": "Alpedrete",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28011",
+      "ineCode": "28011",
+      "name": "Ambite",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28012",
+      "ineCode": "28012",
+      "name": "Anchuelo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28013",
+      "ineCode": "28013",
+      "name": "Aranjuez",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28014",
+      "ineCode": "28014",
+      "name": "Arganda del Rey",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28015",
+      "ineCode": "28015",
+      "name": "Arroyomolinos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28016",
+      "ineCode": "28016",
+      "name": "Atazar, El",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28017",
+      "ineCode": "28017",
+      "name": "Batres",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28018",
+      "ineCode": "28018",
+      "name": "Becerril de la Sierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28019",
+      "ineCode": "28019",
+      "name": "Belmonte de Tajo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28021",
+      "ineCode": "28021",
+      "name": "Berrueco, El",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28020",
+      "ineCode": "28020",
+      "name": "Berzosa del Lozoya",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28022",
+      "ineCode": "28022",
+      "name": "Boadilla del Monte",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28023",
+      "ineCode": "28023",
+      "name": "Boalo, El",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28024",
+      "ineCode": "28024",
+      "name": "Braojos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28025",
+      "ineCode": "28025",
+      "name": "Brea de Tajo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28026",
+      "ineCode": "28026",
+      "name": "Brunete",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28027",
+      "ineCode": "28027",
+      "name": "Buitrago del Lozoya",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28028",
+      "ineCode": "28028",
+      "name": "Bustarviejo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28029",
+      "ineCode": "28029",
+      "name": "Cabanillas de la Sierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28030",
+      "ineCode": "28030",
+      "name": "Cabrera, La",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28031",
+      "ineCode": "28031",
+      "name": "Cadalso de los Vidrios",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28032",
+      "ineCode": "28032",
+      "name": "Camarma de Esteruelas",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28033",
+      "ineCode": "28033",
+      "name": "Campo Real",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28034",
+      "ineCode": "28034",
+      "name": "Canencia",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28035",
+      "ineCode": "28035",
+      "name": "Carabaña",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28036",
+      "ineCode": "28036",
+      "name": "Casarrubuelos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28037",
+      "ineCode": "28037",
+      "name": "Cenicientos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28038",
+      "ineCode": "28038",
+      "name": "Cercedilla",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28039",
+      "ineCode": "28039",
+      "name": "Cervera de Buitrago",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28051",
+      "ineCode": "28051",
+      "name": "Chapinería",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28052",
+      "ineCode": "28052",
+      "name": "Chinchón",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28040",
+      "ineCode": "28040",
+      "name": "Ciempozuelos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28041",
+      "ineCode": "28041",
+      "name": "Cobeña",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28046",
+      "ineCode": "28046",
+      "name": "Collado Mediano",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28047",
+      "ineCode": "28047",
+      "name": "Collado Villalba",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28043",
+      "ineCode": "28043",
+      "name": "Colmenar de Oreja",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28042",
+      "ineCode": "28042",
+      "name": "Colmenar del Arroyo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28045",
+      "ineCode": "28045",
+      "name": "Colmenar Viejo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28044",
+      "ineCode": "28044",
+      "name": "Colmenarejo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28048",
+      "ineCode": "28048",
+      "name": "Corpa",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28049",
+      "ineCode": "28049",
+      "name": "Coslada",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28050",
+      "ineCode": "28050",
+      "name": "Cubas de la Sagra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28053",
+      "ineCode": "28053",
+      "name": "Daganzo de Arriba",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28054",
+      "ineCode": "28054",
+      "name": "Escorial, El",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28055",
+      "ineCode": "28055",
+      "name": "Estremera",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28056",
+      "ineCode": "28056",
+      "name": "Fresnedillas de la Oliva",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28057",
+      "ineCode": "28057",
+      "name": "Fresno de Torote",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28058",
+      "ineCode": "28058",
+      "name": "Fuenlabrada",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28059",
+      "ineCode": "28059",
+      "name": "Fuente el Saz de Jarama",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28060",
+      "ineCode": "28060",
+      "name": "Fuentidueña de Tajo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28061",
+      "ineCode": "28061",
+      "name": "Galapagar",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28062",
+      "ineCode": "28062",
+      "name": "Garganta de los Montes",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28063",
+      "ineCode": "28063",
+      "name": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28064",
+      "ineCode": "28064",
+      "name": "Gascones",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28065",
+      "ineCode": "28065",
+      "name": "Getafe",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28066",
+      "ineCode": "28066",
+      "name": "Griñón",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28067",
+      "ineCode": "28067",
+      "name": "Guadalix de la Sierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28068",
+      "ineCode": "28068",
+      "name": "Guadarrama",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28069",
+      "ineCode": "28069",
+      "name": "Hiruela, La",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28070",
+      "ineCode": "28070",
+      "name": "Horcajo de la Sierra-Aoslos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28071",
+      "ineCode": "28071",
+      "name": "Horcajuelo de la Sierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28072",
+      "ineCode": "28072",
+      "name": "Hoyo de Manzanares",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28073",
+      "ineCode": "28073",
+      "name": "Humanes de Madrid",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28074",
+      "ineCode": "28074",
+      "name": "Leganés",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28075",
+      "ineCode": "28075",
+      "name": "Loeches",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28076",
+      "ineCode": "28076",
+      "name": "Lozoya",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28901",
+      "ineCode": "28901",
+      "name": "Lozoyuela-Navas-Sieteiglesias",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28078",
+      "ineCode": "28078",
+      "name": "Madarcos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28079",
+      "ineCode": "28079",
+      "name": "Madrid",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28080",
+      "ineCode": "28080",
+      "name": "Majadahonda",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28082",
+      "ineCode": "28082",
+      "name": "Manzanares el Real",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28083",
+      "ineCode": "28083",
+      "name": "Meco",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28084",
+      "ineCode": "28084",
+      "name": "Mejorada del Campo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28085",
+      "ineCode": "28085",
+      "name": "Miraflores de la Sierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28086",
+      "ineCode": "28086",
+      "name": "Molar, El",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28087",
+      "ineCode": "28087",
+      "name": "Molinos, Los",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28088",
+      "ineCode": "28088",
+      "name": "Montejo de la Sierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28089",
+      "ineCode": "28089",
+      "name": "Moraleja de Enmedio",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28090",
+      "ineCode": "28090",
+      "name": "Moralzarzal",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28091",
+      "ineCode": "28091",
+      "name": "Morata de Tajuña",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28092",
+      "ineCode": "28092",
+      "name": "Móstoles",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28093",
+      "ineCode": "28093",
+      "name": "Navacerrada",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28094",
+      "ineCode": "28094",
+      "name": "Navalafuente",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28095",
+      "ineCode": "28095",
+      "name": "Navalagamella",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28096",
+      "ineCode": "28096",
+      "name": "Navalcarnero",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28097",
+      "ineCode": "28097",
+      "name": "Navarredonda y San Mamés",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28099",
+      "ineCode": "28099",
+      "name": "Navas del Rey",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28100",
+      "ineCode": "28100",
+      "name": "Nuevo Baztán",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28101",
+      "ineCode": "28101",
+      "name": "Olmeda de las Fuentes",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28102",
+      "ineCode": "28102",
+      "name": "Orusco de Tajuña",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28104",
+      "ineCode": "28104",
+      "name": "Paracuellos de Jarama",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28106",
+      "ineCode": "28106",
+      "name": "Parla",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28107",
+      "ineCode": "28107",
+      "name": "Patones",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28108",
+      "ineCode": "28108",
+      "name": "Pedrezuela",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28109",
+      "ineCode": "28109",
+      "name": "Pelayos de la Presa",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28110",
+      "ineCode": "28110",
+      "name": "Perales de Tajuña",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28111",
+      "ineCode": "28111",
+      "name": "Pezuela de las Torres",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28112",
+      "ineCode": "28112",
+      "name": "Pinilla del Valle",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28113",
+      "ineCode": "28113",
+      "name": "Pinto",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28114",
+      "ineCode": "28114",
+      "name": "Piñuécar-Gandullas",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28115",
+      "ineCode": "28115",
+      "name": "Pozuelo de Alarcón",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28116",
+      "ineCode": "28116",
+      "name": "Pozuelo del Rey",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28117",
+      "ineCode": "28117",
+      "name": "Prádena del Rincón",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28118",
+      "ineCode": "28118",
+      "name": "Puebla de la Sierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28902",
+      "ineCode": "28902",
+      "name": "Puentes Viejas",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28119",
+      "ineCode": "28119",
+      "name": "Quijorna",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28120",
+      "ineCode": "28120",
+      "name": "Rascafría",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28121",
+      "ineCode": "28121",
+      "name": "Redueña",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28122",
+      "ineCode": "28122",
+      "name": "Ribatejada",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28123",
+      "ineCode": "28123",
+      "name": "Rivas-Vaciamadrid",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28124",
+      "ineCode": "28124",
+      "name": "Robledillo de la Jara",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28125",
+      "ineCode": "28125",
+      "name": "Robledo de Chavela",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28126",
+      "ineCode": "28126",
+      "name": "Robregordo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28127",
+      "ineCode": "28127",
+      "name": "Rozas de Madrid, Las",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28128",
+      "ineCode": "28128",
+      "name": "Rozas de Puerto Real",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28129",
+      "ineCode": "28129",
+      "name": "San Agustín del Guadalix",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28130",
+      "ineCode": "28130",
+      "name": "San Fernando de Henares",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28131",
+      "ineCode": "28131",
+      "name": "San Lorenzo de El Escorial",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28132",
+      "ineCode": "28132",
+      "name": "San Martín de la Vega",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28133",
+      "ineCode": "28133",
+      "name": "San Martín de Valdeiglesias",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28134",
+      "ineCode": "28134",
+      "name": "San Sebastián de los Reyes",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28135",
+      "ineCode": "28135",
+      "name": "Santa María de la Alameda",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28136",
+      "ineCode": "28136",
+      "name": "Santorcaz",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28137",
+      "ineCode": "28137",
+      "name": "Santos de la Humosa, Los",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28138",
+      "ineCode": "28138",
+      "name": "Serna del Monte, La",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28140",
+      "ineCode": "28140",
+      "name": "Serranillos del Valle",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28141",
+      "ineCode": "28141",
+      "name": "Sevilla la Nueva",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28143",
+      "ineCode": "28143",
+      "name": "Somosierra",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28144",
+      "ineCode": "28144",
+      "name": "Soto del Real",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28145",
+      "ineCode": "28145",
+      "name": "Talamanca de Jarama",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28146",
+      "ineCode": "28146",
+      "name": "Tielmes",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28147",
+      "ineCode": "28147",
+      "name": "Titulcia",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28148",
+      "ineCode": "28148",
+      "name": "Torrejón de Ardoz",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28149",
+      "ineCode": "28149",
+      "name": "Torrejón de la Calzada",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28150",
+      "ineCode": "28150",
+      "name": "Torrejón de Velasco",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28151",
+      "ineCode": "28151",
+      "name": "Torrelaguna",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28152",
+      "ineCode": "28152",
+      "name": "Torrelodones",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28153",
+      "ineCode": "28153",
+      "name": "Torremocha de Jarama",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28154",
+      "ineCode": "28154",
+      "name": "Torres de la Alameda",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28903",
+      "ineCode": "28903",
+      "name": "Tres Cantos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28155",
+      "ineCode": "28155",
+      "name": "Valdaracete",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28156",
+      "ineCode": "28156",
+      "name": "Valdeavero",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28157",
+      "ineCode": "28157",
+      "name": "Valdelaguna",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28158",
+      "ineCode": "28158",
+      "name": "Valdemanco",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28159",
+      "ineCode": "28159",
+      "name": "Valdemaqueda",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28160",
+      "ineCode": "28160",
+      "name": "Valdemorillo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28161",
+      "ineCode": "28161",
+      "name": "Valdemoro",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28162",
+      "ineCode": "28162",
+      "name": "Valdeolmos-Alalpardo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28163",
+      "ineCode": "28163",
+      "name": "Valdepiélagos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28164",
+      "ineCode": "28164",
+      "name": "Valdetorres de Jarama",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28165",
+      "ineCode": "28165",
+      "name": "Valdilecha",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28166",
+      "ineCode": "28166",
+      "name": "Valverde de Alcalá",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28167",
+      "ineCode": "28167",
+      "name": "Velilla de San Antonio",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28168",
+      "ineCode": "28168",
+      "name": "Vellón, El",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28169",
+      "ineCode": "28169",
+      "name": "Venturada",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28171",
+      "ineCode": "28171",
+      "name": "Villa del Prado",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28170",
+      "ineCode": "28170",
+      "name": "Villaconejos",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28172",
+      "ineCode": "28172",
+      "name": "Villalbilla",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28173",
+      "ineCode": "28173",
+      "name": "Villamanrique de Tajo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28174",
+      "ineCode": "28174",
+      "name": "Villamanta",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28175",
+      "ineCode": "28175",
+      "name": "Villamantilla",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28176",
+      "ineCode": "28176",
+      "name": "Villanueva de la Cañada",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28178",
+      "ineCode": "28178",
+      "name": "Villanueva de Perales",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28177",
+      "ineCode": "28177",
+      "name": "Villanueva del Pardillo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28179",
+      "ineCode": "28179",
+      "name": "Villar del Olmo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28180",
+      "ineCode": "28180",
+      "name": "Villarejo de Salvanés",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28181",
+      "ineCode": "28181",
+      "name": "Villaviciosa de Odón",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28182",
+      "ineCode": "28182",
+      "name": "Villavieja del Lozoya",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-28183",
+      "ineCode": "28183",
+      "name": "Zarzalejo",
+      "provinceCode": "28",
+      "provinceName": "Madrid",
+      "autonomousCommunityCode": "13",
+      "autonomousCommunityName": "Comunidad de Madrid",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
