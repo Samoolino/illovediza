@@ -39,7 +39,7 @@ Each released product batch links:
 - evidence package ID, schema/canonicalization version and SHA-256 root;
 - reviewer, approval, timestamps and applicable regulatory/product release.
 
-A bottle or can label may carry the municipality and Polideportivo/sports-complex brand, actual venue coordinates or a QR link to the batch evidence record. Do not publish personal data, sensitive site details or non-public security coordinates.
+A bottle or can label may carry the municipality and Polideportivo/sports-complex brand, actual venue coordinates or an authorized QR link to the batch evidence record. If the label says ANCHORED, it must include the network, transaction, block/time and independent readback status, and the readback root must match the package root. Do not publish personal data, sensitive site details or non-public security coordinates.
 
 ## 4. Cryptographic harvest and reporting
 
