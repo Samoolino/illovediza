@@ -10,6 +10,8 @@ test('first discovery batch has source-backed, geotagged and INE-linked candidat
   assert.equal(batch.summary.qualifiedVenues, 0);
   for (const venue of batch.candidates) {
     assert.match(venue.municipalityCode, /^\d{5}$/);
+    assert.equal(venue.municipalityAssignmentStatus, 'PROVISIONAL_NAME_TO_INE_MATCH_PENDING_IGN_SPATIAL_JOIN');
+    assert.equal(venue.spatialCrosswalkStatus, 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED');
     assert.ok(Number.isFinite(venue.latitude) && venue.latitude >= -90 && venue.latitude <= 90);
     assert.ok(Number.isFinite(venue.longitude) && venue.longitude >= -180 && venue.longitude <= 180);
     assert.match(venue.sourceRecordId, /^(node|way|relation)\/\d+$/);
