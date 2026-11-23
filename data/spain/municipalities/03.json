@@ -1,0 +1,1499 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": "ILL-FUERZA-ES",
+  "autonomousCommunityCode": "03",
+  "autonomousCommunityName": "Asturias, Principado de",
+  "source": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "dataset": "Relación de municipios y sus códigos por provincias",
+    "referenceDate": "2026-01-01",
+    "publicationDate": "2026-02-04",
+    "processedDataset": "CodeForSpain/ds-organizacion-administrativa",
+    "sourceCommit": "e757c424faea328387cc12e5893ff36c87221fe2",
+    "license": "INE legal notice; verify current reuse terms and required attribution."
+  },
+  "municipalities": [
+    {
+      "municipalityId": "ES-MUNI-33001",
+      "ineCode": "33001",
+      "name": "Allande",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33002",
+      "ineCode": "33002",
+      "name": "Aller",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33003",
+      "ineCode": "33003",
+      "name": "Amieva",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33004",
+      "ineCode": "33004",
+      "name": "Avilés",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33005",
+      "ineCode": "33005",
+      "name": "Belmonte de Miranda",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33006",
+      "ineCode": "33006",
+      "name": "Bimenes",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33007",
+      "ineCode": "33007",
+      "name": "Boal",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33008",
+      "ineCode": "33008",
+      "name": "Cabrales",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33009",
+      "ineCode": "33009",
+      "name": "Cabranes",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33010",
+      "ineCode": "33010",
+      "name": "Candamo",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33012",
+      "ineCode": "33012",
+      "name": "Cangas de Onís",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33011",
+      "ineCode": "33011",
+      "name": "Cangas del Narcea",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33013",
+      "ineCode": "33013",
+      "name": "Caravia",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33014",
+      "ineCode": "33014",
+      "name": "Carreño",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33015",
+      "ineCode": "33015",
+      "name": "Caso",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33016",
+      "ineCode": "33016",
+      "name": "Castrillón",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33017",
+      "ineCode": "33017",
+      "name": "Castropol",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33018",
+      "ineCode": "33018",
+      "name": "Coaña",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33019",
+      "ineCode": "33019",
+      "name": "Colunga",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33020",
+      "ineCode": "33020",
+      "name": "Corvera de Asturias",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33021",
+      "ineCode": "33021",
+      "name": "Cudillero",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33022",
+      "ineCode": "33022",
+      "name": "Degaña",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33023",
+      "ineCode": "33023",
+      "name": "Franco, El",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33024",
+      "ineCode": "33024",
+      "name": "Gijón",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33025",
+      "ineCode": "33025",
+      "name": "Gozón",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33026",
+      "ineCode": "33026",
+      "name": "Grado",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33027",
+      "ineCode": "33027",
+      "name": "Grandas de Salime",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33028",
+      "ineCode": "33028",
+      "name": "Ibias",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33029",
+      "ineCode": "33029",
+      "name": "Illano",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33030",
+      "ineCode": "33030",
+      "name": "Illas",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33031",
+      "ineCode": "33031",
+      "name": "Langreo",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33032",
+      "ineCode": "33032",
+      "name": "Laviana",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33033",
+      "ineCode": "33033",
+      "name": "Lena",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33035",
+      "ineCode": "33035",
+      "name": "Llanera",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33036",
+      "ineCode": "33036",
+      "name": "Llanes",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33037",
+      "ineCode": "33037",
+      "name": "Mieres",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33038",
+      "ineCode": "33038",
+      "name": "Morcín",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33039",
+      "ineCode": "33039",
+      "name": "Muros de Nalón",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33040",
+      "ineCode": "33040",
+      "name": "Nava",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33041",
+      "ineCode": "33041",
+      "name": "Navia",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33042",
+      "ineCode": "33042",
+      "name": "Noreña",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33043",
+      "ineCode": "33043",
+      "name": "Onís",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33044",
+      "ineCode": "33044",
+      "name": "Oviedo",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33045",
+      "ineCode": "33045",
+      "name": "Parres",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33046",
+      "ineCode": "33046",
+      "name": "Peñamellera Alta",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33047",
+      "ineCode": "33047",
+      "name": "Peñamellera Baja",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33048",
+      "ineCode": "33048",
+      "name": "Pesoz",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33049",
+      "ineCode": "33049",
+      "name": "Piloña",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33050",
+      "ineCode": "33050",
+      "name": "Ponga",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33051",
+      "ineCode": "33051",
+      "name": "Pravia",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33052",
+      "ineCode": "33052",
+      "name": "Proaza",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33053",
+      "ineCode": "33053",
+      "name": "Quirós",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33054",
+      "ineCode": "33054",
+      "name": "Regueras, Las",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33055",
+      "ineCode": "33055",
+      "name": "Ribadedeva",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33056",
+      "ineCode": "33056",
+      "name": "Ribadesella",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33057",
+      "ineCode": "33057",
+      "name": "Ribera de Arriba",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33058",
+      "ineCode": "33058",
+      "name": "Riosa",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33059",
+      "ineCode": "33059",
+      "name": "Salas",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33061",
+      "ineCode": "33061",
+      "name": "San Martín de Oscos",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33060",
+      "ineCode": "33060",
+      "name": "San Martín del Rey Aurelio",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33063",
+      "ineCode": "33063",
+      "name": "San Tirso de Abres",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33062",
+      "ineCode": "33062",
+      "name": "Santa Eulalia de Oscos",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33064",
+      "ineCode": "33064",
+      "name": "Santo Adriano",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33065",
+      "ineCode": "33065",
+      "name": "Sariego",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33066",
+      "ineCode": "33066",
+      "name": "Siero",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33067",
+      "ineCode": "33067",
+      "name": "Sobrescobio",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33068",
+      "ineCode": "33068",
+      "name": "Somiedo",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33069",
+      "ineCode": "33069",
+      "name": "Soto del Barco",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33070",
+      "ineCode": "33070",
+      "name": "Tapia de Casariego",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33071",
+      "ineCode": "33071",
+      "name": "Taramundi",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33072",
+      "ineCode": "33072",
+      "name": "Teverga",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33073",
+      "ineCode": "33073",
+      "name": "Tineo",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33034",
+      "ineCode": "33034",
+      "name": "Valdés",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33074",
+      "ineCode": "33074",
+      "name": "Vegadeo",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33075",
+      "ineCode": "33075",
+      "name": "Villanueva de Oscos",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33076",
+      "ineCode": "33076",
+      "name": "Villaviciosa",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33077",
+      "ineCode": "33077",
+      "name": "Villayón",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    },
+    {
+      "municipalityId": "ES-MUNI-33078",
+      "ineCode": "33078",
+      "name": "Yernes y Tameza",
+      "provinceCode": "33",
+      "provinceName": "Asturias",
+      "autonomousCommunityCode": "03",
+      "autonomousCommunityName": "Asturias, Principado de",
+      "countryCode": "ES",
+      "reportingNodeStatus": "ADMINISTRATIVE_REFERENCE",
+      "venueAssessmentStatus": "NOT_ASSESSED",
+      "sportsCoverage": {
+        "padel": "NOT_ASSESSED",
+        "football": "NOT_ASSESSED",
+        "tennis": "NOT_ASSESSED"
+      },
+      "venues": [],
+      "geometryStatus": "NOT_LOADED"
+    }
+  ]
+}
