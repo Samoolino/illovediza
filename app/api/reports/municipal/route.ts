@@ -5,6 +5,12 @@ import { buildMunicipalReportEnvelope } from "@/src/reports/municipal-report.mjs
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
+function hasQualifiedVenueStatus(venue: Record<string, unknown>): boolean {
+  const raw = venue.qualificationStatuses;
+  const statuses: unknown[] = Array.isArray(raw) ? raw : [venue.qualificationStatus];
+  return statuses.some(status => String(status || "").startsWith("QUALIFIED_"));
+}
+
 export async function GET(request: NextRequest) {
   const ineCode = request.nextUrl.searchParams.get("ineCode") || "";
   if (!/^\d{5}$/.test(ineCode)) {
@@ -24,7 +30,7 @@ export async function GET(request: NextRequest) {
       generatedAt: new Date().toISOString(),
       aquaDmrVStatus: "NOT_CONNECTED",
       geometryStatus: municipality.geometryStatus || "NOT_LOADED",
-      activeVenueCount: sports.venues.filter((venue: Record<string, any>) => venue.municipalityCode === ineCode && (Array.isArray(venue.qualificationStatuses) ? venue.qualificationStatuses : [venue.qualificationStatus]).some((status: unknown) => String(status || "").startsWith("QUALIFIED_"))).length
+      activeVenueCount: sports.venues.filter((venue: Record<string, unknown>) => venue.municipalityCode === ineCode && hasQualifiedVenueStatus(venue)).length
     });
     return NextResponse.json(report, { status: 200, headers: { "Cache-Control": "no-store" } });
   } catch {
