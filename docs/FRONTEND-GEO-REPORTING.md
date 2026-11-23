@@ -87,6 +87,6 @@ Use server-side environment variables only. Commit `.env.example` with names and
 
 AquaDMRV owns canonical event ingestion, signed physical observations, evidence-package lifecycle, water-quality/QMS state, cryptographic anchoring/readback and climate-accounting assurance. Illovediza owns the Spanish project profile and municipal product/reporting experience. R is a read-only geospatial and analytical consumer.
 
-The Illovediza frontend includes a municipal reporting centre at `/reports`, a rendered report at `/reports/municipal?ineCode=<five-digit-INE>`, and a machine-readable endpoint at `/api/reports/municipal?ineCode=<five-digit-INE>`. R exposes a read-only proxy at `/api/illovediza/municipal-report?ineCode=<five-digit-INE>`.
+The Illovediza frontend includes a municipal reporting centre at `/reports`, a rendered report at `/reports/municipal?ineCode=<five-digit-INE>`, and a machine-readable endpoint at `/api/reports/municipal?ineCode=<five-digit-INE>`. R exposes a read-only proxy at `/api/illovediza/network?report=municipal&ineCode=<five-digit-INE>`.
 
 Until AquaDMRV's repository schemas are inspected and the service connection passes a live authenticated handshake, these reports are reference-only and must show unavailable/pending evidence states. No scheduled report may claim live harvest, laboratory compliance, product release, carbon verification or blockchain anchoring without source-backed records and persisted run receipts.
