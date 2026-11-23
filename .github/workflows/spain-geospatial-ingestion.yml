@@ -1,6 +1,14 @@
 name: Spain geospatial ingestion
 
 on:
+  push:
+    paths:
+      - '.github/workflows/spain-geospatial-ingestion.yml'
+      - 'scripts/fetch-spain-ign-boundaries.mjs'
+      - 'scripts/fetch-spain-sports-candidates.mjs'
+      - 'src/spain-ign-ingestion.mjs'
+      - 'src/osm-sports-import.mjs'
+      - 'data/spain/venue-discovery/spain-sports-overpass.ql'
   workflow_dispatch:
     inputs:
       boundary_release:
@@ -27,6 +35,12 @@ on:
 permissions:
   contents: read
 
+env:
+  RUN_IGN: ${{ github.event_name == 'push' || inputs.run_ign }}
+  RUN_OSM: ${{ github.event_name == 'push' || inputs.run_osm }}
+  BOUNDARY_RELEASE: ${{ inputs.boundary_release || '2026-08-18' }}
+  PAGE_SIZE: ${{ inputs.page_size || '1000' }}
+
 jobs:
   ingest:
     runs-on: ubuntu-latest
@@ -44,10 +58,10 @@ jobs:
       - name: Run project tests
         run: npm test
       - name: Fetch IGN municipal geometry
-        if: inputs.run_ign
-        run: npm run fetch:spain:ign -- --boundary-release "${{ inputs.boundary_release }}" --page-size "${{ inputs.page_size }}"
+        if: env.RUN_IGN == 'true'
+        run: npm run fetch:spain:ign -- --boundary-release "${BOUNDARY_RELEASE}" --page-size "${PAGE_SIZE}"
       - name: Fetch OSM sports candidates
-        if: inputs.run_osm
+        if: env.RUN_OSM == 'true'
         run: npm run discover:sports:spain
       - name: Upload source snapshots and QA manifests
         if: always()
