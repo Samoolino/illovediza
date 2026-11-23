@@ -34,4 +34,7 @@ export function buildMunicipalReportEnvelope(input: {
   aquaDmrVStatus?: 'NOT_CONNECTED' | 'CONNECTED' | 'DEGRADED' | 'ERROR';
   geometryStatus?: string;
   activeVenueCount?: number;
+  osmDiscoveryCandidateCount?: number;
+  officialVenueLeadCount?: number;
+  spatialCrosswalkStatus?: 'NOT_LOADED' | 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED' | 'VERIFIED_IGN_POINT_IN_POLYGON';
 }): MunicipalReportEnvelope;
