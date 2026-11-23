@@ -2,7 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   inspectSpainMunicipalBoundaries,
-  buildSpainBoundaryManifest
+  buildSpainBoundaryManifest,
+  extractSpainMunicipalFeaturesFromIgn
 } from '../src/spain-ign-ingestion.mjs';
 
 const square = (x = -3.7, y = 40.4) => ({
@@ -85,4 +86,28 @@ test('creates a provenance manifest with source and transformed geometry checksu
   assert.equal(manifest.status, 'QA_PASSED_LOCAL_NOT_PUBLISHED');
   assert.equal(manifest.featureCount, 8132);
   assert.equal(manifest.sourceSha256, 'a'.repeat(64));
+});
+
+
+test('extracts only IGN AdministrativeUnit features matching the official five-digit INE registry', () => {
+  const result = extractSpainMunicipalFeaturesFromIgn({
+    type: 'FeatureCollection',
+    features: [
+      { type: 'Feature', id: 'm1', properties: { nationalCode: 'ES.28079', nationalLevel: '4thOrder' }, geometry: square() },
+      { type: 'Feature', id: 'm2', properties: { nationalCode: '08019', nationalLevel: '4thOrder' }, geometry: square(2.1) },
+      { type: 'Feature', id: 'p1', properties: { nationalCode: 'ES.28', nationalLevel: '3rdOrder' }, geometry: square(-3.5) }
+    ]
+  }, { expectedCodes: ['28079', '08019'] });
+  assert.deepEqual(result.features.map(feature => feature.properties.ineCode), ['28079', '08019']);
+  assert.equal(result.codeProperty, 'ineCode');
+});
+
+test('rejects duplicate IGN nationalCode matches instead of silently selecting one', () => {
+  assert.throws(() => extractSpainMunicipalFeaturesFromIgn({
+    type: 'FeatureCollection',
+    features: [
+      { type: 'Feature', id: 'm1', properties: { nationalCode: '28079' }, geometry: square() },
+      { type: 'Feature', id: 'm2', properties: { nationalCode: 'ES.28079' }, geometry: square(1) }
+    ]
+  }, { expectedCodes: ['28079'] }), /duplicate IGN nationalCode/);
 });
