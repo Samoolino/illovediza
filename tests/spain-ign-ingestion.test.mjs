@@ -93,9 +93,9 @@ test('extracts only IGN AdministrativeUnit features matching the official five-d
   const result = extractSpainMunicipalFeaturesFromIgn({
     type: 'FeatureCollection',
     features: [
-      { type: 'Feature', id: 'm1', properties: { nationalCode: 'ES.28079', nationalLevel: '4thOrder' }, geometry: square() },
-      { type: 'Feature', id: 'm2', properties: { nationalCode: '08019', nationalLevel: '4thOrder' }, geometry: square(2.1) },
-      { type: 'Feature', id: 'p1', properties: { nationalCode: 'ES.28', nationalLevel: '3rdOrder' }, geometry: square(-3.5) }
+      { type: 'Feature', id: 'm1', properties: { nationalcode: '34010428079', nationallevel: 'https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/4thOrder', nationallevelname: 'Municipio', country: 'ES' }, geometry: square() },
+      { type: 'Feature', id: 'm2', properties: { nationalcode: '34010408019', nationallevel: 'https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/4thOrder', nationallevelname: 'Municipio', country: 'ES' }, geometry: square(2.1) },
+      { type: 'Feature', id: 'p1', properties: { nationalcode: '34010428', nationallevel: 'https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/3rdOrder', nationallevelname: 'Provincia', country: 'ES' }, geometry: square(-3.5) }
     ]
   }, { expectedCodes: ['28079', '08019'] });
   assert.deepEqual(result.features.map(feature => feature.properties.ineCode), ['28079', '08019']);
@@ -106,8 +106,8 @@ test('rejects duplicate IGN nationalCode matches instead of silently selecting o
   assert.throws(() => extractSpainMunicipalFeaturesFromIgn({
     type: 'FeatureCollection',
     features: [
-      { type: 'Feature', id: 'm1', properties: { nationalCode: '28079' }, geometry: square() },
-      { type: 'Feature', id: 'm2', properties: { nationalCode: 'ES.28079' }, geometry: square(1) }
+      { type: 'Feature', id: 'm1', properties: { nationalcode: '34010428079', nationallevelname: 'Municipio', country: 'ES' }, geometry: square() },
+      { type: 'Feature', id: 'm2', properties: { nationalcode: '34010428079', nationallevelname: 'Municipio', country: 'ES' }, geometry: square(1) }
     ]
   }, { expectedCodes: ['28079'] }), /duplicate IGN nationalCode/);
 });
