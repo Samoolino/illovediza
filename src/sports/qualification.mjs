@@ -40,7 +40,7 @@ export function validateSportsVenue(venue) {
 }
 
 function isMajorPadel(venue) {
-  return venue.sport === 'padel' &&
+  return supportsSport(venue, 'padel') &&
     venue.qualification === 'MAJOR_PADEL' &&
     nonEmpty(venue.significanceEvidence);
 }
@@ -56,7 +56,7 @@ function isQualifiedFootball(venue, municipalityVenues) {
 }
 
 function isSignificantMunicipalTennis(venue) {
-  return venue.sport === 'tennis' &&
+  return supportsSport(venue, 'tennis') &&
     venue.qualification === 'SIGNIFICANT_TENNIS_POLIDEPORTIVO' &&
     venue.venueType === 'polideportivo' &&
     venue.municipalOperator === true &&
@@ -96,8 +96,15 @@ export function buildMunicipalSportsRegistry(municipalities, venues = []) {
     validVenues.push(venue);
   }
 
+  const venuesByMunicipality = new Map();
+  for (const venue of validVenues) {
+    const current = venuesByMunicipality.get(venue.municipalityCode) || [];
+    current.push(venue);
+    venuesByMunicipality.set(venue.municipalityCode, current);
+  }
+
   const resultMunicipalities = [...byCode.values()].map(municipality => {
-    const localVenues = validVenues.filter(venue => venue.municipalityCode === municipality.ineCode);
+    const localVenues = venuesByMunicipality.get(municipality.ineCode) || [];
     const padel = localVenues.filter(isMajorPadel);
     const football = localVenues.filter(venue => isQualifiedFootball(venue, localVenues));
     const tennis = localVenues.filter(isSignificantMunicipalTennis);
