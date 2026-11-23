@@ -48,14 +48,27 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 - R owns reusable geospatial discovery, climate/map reporting services and spatial visualization adapters.
 - Repositories integrate through versioned APIs and contracts; they do not merge their unrelated product identities or copy one project's evidence into another.
 
-## Spain municipal registry and APIs\n\n- `data/spain/municipalities/index.json` indexes all 19 autonomous communities/cities and 8,132 municipality records.\n- `GET /api/municipalities?limit=10000&offset=0` returns the complete municipal reference set; supports `q`, `community`, `offset` and `limit`.\n- `GET /api/sports-network` returns source-backed sports venue records. The initial venue registry is empty until qualified geotagged records are imported.\n- `scripts/verify-spain-registry.mjs` and `npm run test:registry` validate record count, uniqueness, hierarchy partition counts and initial unassessed states.\n\nPrimary municipal source: INE *Relación de municipios y sus códigos por provincias*, 1 January 2026 (published 4 February 2026), processed through the versioned CodeForSpain dataset snapshot. See [Spain Municipal Registry](docs/SPAIN-MUNICIPAL-REGISTRY.md).\n\n## Documentation
+## Spain municipal registry and APIs
+
+- `data/spain/municipalities/index.json` indexes all 19 autonomous communities/cities and 8,132 municipality records.
+- `GET /api/municipalities?limit=10000&offset=0` returns the complete municipal reference set; supports `q`, `community`, `offset` and `limit`.
+- `GET /api/sports-network` returns source-backed sports venue records. The initial venue registry is empty until qualified geotagged records are imported.
+- `scripts/verify-spain-registry.mjs` and `npm run test:registry` validate record count, uniqueness, hierarchy partition counts and initial unassessed states.
+
+Primary municipal source: INE *Relación de municipios y sus códigos por provincias*, 1 January 2026 (published 4 February 2026), processed through the versioned CodeForSpain dataset snapshot. See [Spain Municipal Registry](docs/SPAIN-MUNICIPAL-REGISTRY.md).
+
+## Documentation
 
 - [Project charter](docs/PROJECT-CHARTER.md)
 - [Architecture and repository boundaries](docs/ARCHITECTURE.md)
-- [Sports node and measurement model](docs/SPORTS-NODES-AND-MEASUREMENT.md)\n- [Sports venue discovery and qualification](docs/SPORTS-VENUE-DISCOVERY.md)
+- [Sports node and measurement model](docs/SPORTS-NODES-AND-MEASUREMENT.md)
+- [Sports venue discovery and qualification](docs/SPORTS-VENUE-DISCOVERY.md)
 - [Frontend and geospatial specification](docs/FRONTEND-GEO-REPORTING.md)
-- [DMRV and cryptographic evidence lifecycle](docs/DMRV-EVIDENCE-AND-INTEGRITY.md)\n- [OMI-OJO DMRV contract compatibility](docs/OMI-OJO-DMRV-CONTRACT.md)
-- [Migration and extraction manifest](docs/MIGRATION-MANIFEST.md)\n- [Spain municipal registry](docs/SPAIN-MUNICIPAL-REGISTRY.md)\n- [Official geography and venue crosswalk](docs/SPAIN-GEOGRAPHY-AND-VENUE-CROSSWALK.md)
+- [DMRV and cryptographic evidence lifecycle](docs/DMRV-EVIDENCE-AND-INTEGRITY.md)
+- [OMI-OJO DMRV contract compatibility](docs/OMI-OJO-DMRV-CONTRACT.md)
+- [Migration and extraction manifest](docs/MIGRATION-MANIFEST.md)
+- [Spain municipal registry](docs/SPAIN-MUNICIPAL-REGISTRY.md)
+- [Official geography and venue crosswalk](docs/SPAIN-GEOGRAPHY-AND-VENUE-CROSSWALK.md)
 - [Integration contracts](docs/INTEGRATIONS.md)
 
 ## Delivery posture
