@@ -30,8 +30,8 @@ async function main() {
     retrievedAt: result.retrievedAt,
     venues: result.venues,
     summary: result.summary
-  }, null, 2) + '\\n');
-  await writeFile(resolve(outputPath + '.rejected.json'), JSON.stringify(result.rejected, null, 2) + '\\n');
+  }, null, 2) + '\n');
+  await writeFile(resolve(outputPath + '.rejected.json'), JSON.stringify(result.rejected, null, 2) + '\n');
   console.log(JSON.stringify({ outputPath, summary: result.summary }, null, 2));
   console.log('All imported records remain candidates. Municipal significance, Ayuntamientos management, shared-complex relationships and site permissions require separate evidence.');
 }
