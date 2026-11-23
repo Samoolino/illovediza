@@ -159,7 +159,7 @@ export function buildMunicipalSportsRegistry(municipalities, venues = []) {
 export function buildRainwaterBrandRecord(input) {
   if (!input || typeof input !== 'object') throw new Error('RainWater brand input is required');
   if (input.projectId !== 'ILL-FUERZA-ES') throw new Error('projectId must be ILL-FUERZA-ES');
-  if (!/^\\d{5}$/.test(String(input.municipalityCode || ''))) {
+  if (!/^\d{5}$/.test(String(input.municipalityCode || ''))) {
     throw new Error('valid five-digit INE municipality code is required');
   }
   if (!nonEmpty(input.municipalityName) || !nonEmpty(input.venueId) || !nonEmpty(input.venueName)) {
