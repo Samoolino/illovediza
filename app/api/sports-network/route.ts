@@ -23,11 +23,13 @@ export async function GET() {
       sourcePolicy: sportsRegistry.sourcePolicy,
       venueCount: sportsRegistry.venues.length,
       venues,
+      candidateVenues: discoveryBatch.candidates,
+      candidateBatch: { batchId: discoveryBatch.batchId, retrievedAt: discoveryBatch.retrievedAt, summary: discoveryBatch.summary },
       summary: registry.summary,
       qualificationErrors: registry.errors,
       reportableFactors,
       note: venues.length === 0
-        ? "No sports venues have yet been imported. All municipal reporting references remain represented."
+        ? "No venues have been promoted to the active qualified registry. Candidate locations are exposed separately and remain unqualified."
         : "Venue records retain source provenance, geotags and explicit qualification states."
     }, { headers: { "Cache-Control": "public, s-maxage=900, stale-while-revalidate=3600" } });
   } catch {
