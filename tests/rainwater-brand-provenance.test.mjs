@@ -38,7 +38,7 @@ test('brand provenance binds municipality, venue, coordinates, batch, package an
   assert.equal(brand.branding.venueId, 'VENUE-MADRID-001');
   assert.equal(brand.provenance.batchId, 'RW-ES-2026-0001');
   assert.equal(brand.provenance.packageId, 'ILL-EVID-2026-0001');
-  assert.equal(brand.provenance.evidenceRoot, 'a'.repeat(64));
+  assert.equal(brand.provenance.evidenceRoot, evidence.evidenceRoot);
   assert.deepEqual(brand.provenance.coordinates, input.coordinates);
   assert.equal(brand.claims.productReleaseStatus, 'NOT_RELEASED');
   assert.equal(brand.claims.carbonCreditIssued, false);
