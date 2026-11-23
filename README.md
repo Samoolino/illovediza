@@ -1,6 +1,6 @@
 # Illovediza Fuerza
 
-**Product:** Spain Sports ESG, Territorial Intelligence & Digital MRV Platform  
+**Product:** Spain Municipal RainWater, Sports Venue & Climate DMRV Platform  
 **Home repository:** `Samoolino/illovediza`  
 **Shared water/harvest/QMS/cryptographic DMRV engine:** [AquaDMRV](https://github.com/Samoolino/AquaDMRV) (repository access pending)  
 **Geospatial/reporting platform:** [R](https://github.com/Samoolino/R)
@@ -17,13 +17,13 @@ The programme is designed against the documented territorial reference scope:
 
 These are programme reference counts, not proof that every administrative boundary has been ingested, reconciled, verified or activated. The canonical geography registry must retain official identifiers, source, licence, release/version, parent relationships and QA status. Do not treat all municipalities as active sports or measurement sites.
 
-## Three anchor sports
+## Sports venue qualification
 
-1. **Padel** — primary growth and community activation opportunity, including emerging municipal cultures and dedicated padel clubs.
-2. **Tennis** — established club, academy, facility and federation structures.
-3. **Football** — broad territorial reach through clubs, grounds, academies, leagues and recognized competition systems.
+1. **Padel — primary:** major courts, dedicated centres and Polideportivos with documented significance.
+2. **Football — primary:** municipal stadiums/grounds qualifying where the same documented municipal sports complex also contains a qualified major padel anchor.
+3. **Tennis — selective:** significant or sustainability-relevant tennis facilities in Ayuntamiento-managed Polideportivos, supported by municipal management evidence.
 
-A venue may host multiple sports. Model one physical venue with multiple sport affiliations rather than creating duplicate facilities. Sports affiliation does not imply federation endorsement or partnership.
+A physical complex has one canonical venue identity and may have multiple sport affiliations. A map tag or OSM record creates a candidate, not a qualified venue, municipal partnership or harvest authorization.
 
 ## Product promise
 
@@ -44,7 +44,7 @@ A venue, map pin, sports event, participation count or blockchain transaction al
 ## Repository boundaries
 
 - This repository owns Illovediza's product identity, Spain sports registry, sports-specific indicators, project UI, Spain project reports and its DMRV project profile.
-- AquaDMRV is the intended shared water/harvest evidence, QMS, cryptographic and climate-accounting engine. OMI-OJO remains a related evidence/governance platform, but Illovediza's water-specific DMRV runtime must be aligned to AquaDMRV's actual versioned contracts.
+- AquaDMRV is the designated shared water/harvest evidence, QMS, cryptographic and climate-accounting engine. OMI-OJO remains a related evidence/governance platform; its legacy BE-EVIDENCE-1.0 schema is retained as a compatibility fixture, not as the live water/harvest runtime.
 - R owns reusable geospatial discovery, climate/map reporting services and spatial visualization adapters.
 - Repositories integrate through versioned APIs and contracts; they do not merge their unrelated product identities or copy one project's evidence into another.
 
