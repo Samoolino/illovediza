@@ -48,3 +48,20 @@ test('does not allow connected status to be inferred from a configured-looking b
   assert.equal(result.sourceStatus.aquaDmrV, 'NOT_CONNECTED');
   assert.equal(result.reportStatus, 'REFERENCE_ONLY_PENDING_EVIDENCE');
 });
+
+
+test('reports provisional OSM candidates and official source leads without promoting them to active venues', () => {
+  const result = buildMunicipalReportEnvelope({
+    municipality,
+    generatedAt: '2026-11-23T17:00:00.000Z',
+    activeVenueCount: 0,
+    osmDiscoveryCandidateCount: 2,
+    officialVenueLeadCount: 1,
+    spatialCrosswalkStatus: 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED'
+  });
+  assert.equal(result.sourceStatus.activeVenueCount, 0);
+  assert.equal(result.sourceStatus.osmDiscoveryCandidatesProvisional, 2);
+  assert.equal(result.sourceStatus.officialSourceLeadsAddressOnly, 1);
+  assert.equal(result.sourceStatus.spatialCrosswalk, 'NOT_VERIFIED_IGN_GEOMETRY_NOT_INGESTED');
+  assert.equal(result.reportStatus, 'REFERENCE_ONLY_PENDING_EVIDENCE');
+});
