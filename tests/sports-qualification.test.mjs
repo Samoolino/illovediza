@@ -149,3 +149,22 @@ test('keeps a multi-sport municipal complex as one venue identity with multiple 
   assert.equal(result.summary.qualifiedPadelVenues, 1);
   assert.equal(result.summary.qualifiedFootballStadiums, 1);
 });
+
+test('supports a single multi-sport Polideportivo identity with padel and tennis roles', () => {
+  const venue = {
+    ...majorPadel,
+    venueType: 'polideportivo',
+    sport: 'padel',
+    sports: ['padel', 'tennis'],
+    qualifications: ['MAJOR_PADEL', 'SIGNIFICANT_TENNIS_POLIDEPORTIVO'],
+    municipalOperator: true,
+    municipalManagementEvidence: 'ayuntamiento-management-report',
+    sustainabilitySignificanceEvidence: 'municipal-sustainability-plan'
+  };
+  const result = buildMunicipalSportsRegistry(municipalities, [venue]);
+  assert.equal(result.municipalities[0].venues.length, 1);
+  assert.ok(result.municipalities[0].venues[0].qualificationStatuses.includes('QUALIFIED_MAJOR_PADEL'));
+  assert.ok(result.municipalities[0].venues[0].qualificationStatuses.includes('QUALIFIED_MUNICIPAL_TENNIS'));
+  assert.equal(result.summary.qualifiedPadelVenues, 1);
+  assert.equal(result.summary.qualifiedTennisVenues, 1);
+});
